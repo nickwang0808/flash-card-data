@@ -1,1 +1,591 @@
-[]
+{
+  "la cocina": {
+    "source": "la cocina",
+    "translation": "kitchen",
+    "example": "Me gusta cocinar en la cocina",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la nevera": {
+    "source": "la nevera",
+    "translation": "refrigerator",
+    "example": "La nevera está llena de comida",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la estufa": {
+    "source": "la estufa",
+    "translation": "stove",
+    "example": "Cocino en la estufa todos los días",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el horno": {
+    "source": "el horno",
+    "translation": "oven",
+    "example": "Horneo pan en el horno",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el microondas": {
+    "source": "el microondas",
+    "translation": "microwave",
+    "example": "Caliento la comida en el microondas",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el fregadero": {
+    "source": "el fregadero",
+    "translation": "sink",
+    "example": "Lavo los platos en el fregadero",
+    "notes": "Kitchen sink; use 'el lavabo' for bathroom sink",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el tenedor": {
+    "source": "el tenedor",
+    "translation": "fork",
+    "example": "Como con tenedor y cuchillo",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el cuchillo": {
+    "source": "el cuchillo",
+    "translation": "knife",
+    "example": "Corto la carne con el cuchillo",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la cuchara": {
+    "source": "la cuchara",
+    "translation": "spoon",
+    "example": "Tomo la sopa con la cuchara",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el vaso": {
+    "source": "el vaso",
+    "translation": "glass",
+    "example": "Bebo agua en un vaso",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la taza": {
+    "source": "la taza",
+    "translation": "cup",
+    "example": "Tomo café en una taza",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la olla": {
+    "source": "la olla",
+    "translation": "pot",
+    "example": "Cocino la sopa en una olla grande",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la sartén": {
+    "source": "la sartén",
+    "translation": "pan",
+    "example": "Frio los huevos en la sartén",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la sala": {
+    "source": "la sala",
+    "translation": "living room",
+    "example": "Veo televisión en la sala",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la silla": {
+    "source": "la silla",
+    "translation": "chair",
+    "example": "Me siento en la silla para comer",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la televisión": {
+    "source": "la televisión",
+    "translation": "television",
+    "example": "Veo la televisión por la noche",
+    "notes": "Can refer to TV programming or the device",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el televisor": {
+    "source": "el televisor",
+    "translation": "television",
+    "example": "El televisor está en la sala",
+    "notes": "Refers specifically to the TV set/device",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la cama": {
+    "source": "la cama",
+    "translation": "bed",
+    "example": "Duermo en mi cama cada noche",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la almohada": {
+    "source": "la almohada",
+    "translation": "pillow",
+    "example": "La almohada es muy suave",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la sábana": {
+    "source": "la sábana",
+    "translation": "sheet",
+    "example": "Las sábanas están limpias",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la cobija": {
+    "source": "la cobija",
+    "translation": "blanket",
+    "example": "Me cubro con la cobija cuando hace frío",
+    "notes": "Common in Latin America",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la manta": {
+    "source": "la manta",
+    "translation": "blanket",
+    "example": "La manta es muy caliente",
+    "notes": "Common in Spain",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el armario": {
+    "source": "el armario",
+    "translation": "closet",
+    "example": "Guardo mi ropa en el armario",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la ducha": {
+    "source": "la ducha",
+    "translation": "shower",
+    "example": "Me baño en la ducha cada mañana",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la bañera": {
+    "source": "la bañera",
+    "translation": "bathtub",
+    "example": "Los niños se bañan en la bañera",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el inodoro": {
+    "source": "el inodoro",
+    "translation": "toilet",
+    "example": "El inodoro está limpio",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el lavabo": {
+    "source": "el lavabo",
+    "translation": "sink",
+    "example": "Me lavo las manos en el lavabo",
+    "notes": "Bathroom sink; use 'el fregadero' for kitchen sink",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el espejo": {
+    "source": "el espejo",
+    "translation": "mirror",
+    "example": "Me miro en el espejo",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la toalla": {
+    "source": "la toalla",
+    "translation": "towel",
+    "example": "Me seco con la toalla",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el jabón": {
+    "source": "el jabón",
+    "translation": "soap",
+    "example": "Me lavo las manos con jabón",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el champú": {
+    "source": "el champú",
+    "translation": "shampoo",
+    "example": "Lavo mi cabello con champú",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la escoba": {
+    "source": "la escoba",
+    "translation": "broom",
+    "example": "Barro el piso con la escoba",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la aspiradora": {
+    "source": "la aspiradora",
+    "translation": "vacuum",
+    "example": "Limpio la alfombra con la aspiradora",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el trapeador": {
+    "source": "el trapeador",
+    "translation": "mop",
+    "example": "Limpio el piso con el trapeador",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la ventana": {
+    "source": "la ventana",
+    "translation": "window",
+    "example": "Abro la ventana para ventilar",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el interruptor": {
+    "source": "el interruptor",
+    "translation": "light switch",
+    "example": "Apago el interruptor antes de dormir",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el enchufe": {
+    "source": "el enchufe",
+    "translation": "electrical outlet",
+    "example": "Conecto el teléfono al enchufe",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la lavadora": {
+    "source": "la lavadora",
+    "translation": "washing machine",
+    "example": "Lavo la ropa en la lavadora",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la secadora": {
+    "source": "la secadora",
+    "translation": "dryer",
+    "example": "Seco la ropa en la secadora",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el detergente": {
+    "source": "el detergente",
+    "translation": "detergent",
+    "example": "Uso detergente para lavar la ropa",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el suavizante": {
+    "source": "el suavizante",
+    "translation": "fabric softener",
+    "example": "El suavizante deja la ropa suave",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la plancha": {
+    "source": "la plancha",
+    "translation": "iron",
+    "example": "Plancho mi camisa con la plancha",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el cesto de ropa": {
+    "source": "el cesto de ropa",
+    "translation": "laundry basket",
+    "example": "Pongo la ropa sucia en el cesto",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la ropa sucia": {
+    "source": "la ropa sucia",
+    "translation": "dirty laundry",
+    "example": "Tengo mucha ropa sucia que lavar",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la ropa limpia": {
+    "source": "la ropa limpia",
+    "translation": "clean laundry",
+    "example": "Guardo la ropa limpia en el armario",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el tendedero": {
+    "source": "el tendedero",
+    "translation": "clothesline",
+    "example": "Cuelgo la ropa en el tendedero",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la pinza": {
+    "source": "la pinza",
+    "translation": "clothespin",
+    "example": "Uso pinzas para colgar la ropa",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "el gancho": {
+    "source": "el gancho",
+    "translation": "hanger",
+    "example": "Cuelgo mi camisa en un gancho",
+    "notes": "Common in Latin America",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "la percha": {
+    "source": "la percha",
+    "translation": "hanger",
+    "example": "Las perchas están en el armario",
+    "notes": "Common in Spain",
+    "tags": ["household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "lavar": {
+    "source": "lavar",
+    "translation": "to wash",
+    "example": "Lavo la ropa todos los sábados",
+    "tags": ["verbs", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "secar": {
+    "source": "secar",
+    "translation": "to dry",
+    "example": "Seco la ropa en la secadora",
+    "tags": ["verbs", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "planchar": {
+    "source": "planchar",
+    "translation": "to iron",
+    "example": "Plancho mi ropa antes de salir",
+    "tags": ["verbs", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "doblar": {
+    "source": "doblar",
+    "translation": "to fold",
+    "example": "Doblo la ropa después de secarla",
+    "tags": ["verbs", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "colgar": {
+    "source": "colgar",
+    "translation": "to hang",
+    "example": "Cuelgo mi ropa en el armario",
+    "notes": "Stem-changing verb: o→ue in present tense",
+    "tags": ["verbs", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "colgar (yo, presente)": {
+    "source": "colgar (yo, presente)",
+    "translation": "cuelgo",
+    "notes": "o→ue stem change",
+    "tags": ["verbs", "conjugations", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null
+  },
+  "colgar (tú, presente)": {
+    "source": "colgar (tú, presente)",
+    "translation": "cuelgas",
+    "notes": "o→ue stem change",
+    "tags": ["verbs", "conjugations", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null
+  },
+  "colgar (él/ella/usted, presente)": {
+    "source": "colgar (él/ella/usted, presente)",
+    "translation": "cuelga",
+    "notes": "o→ue stem change",
+    "tags": ["verbs", "conjugations", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null
+  },
+  "colgar (ellos/ellas/ustedes, presente)": {
+    "source": "colgar (ellos/ellas/ustedes, presente)",
+    "translation": "cuelgan",
+    "notes": "o→ue stem change",
+    "tags": ["verbs", "conjugations", "household-items"],
+    "created": "2026-02-03T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null
+  }
+}
