@@ -55,7 +55,17 @@
       "state": 2,
       "last_review": "2026-02-04T04:02:59.598Z"
     },
-    "reverseState": null
+    "reverseState": {
+      "due": "2026-02-20T04:03:04.838Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T04:03:04.838Z"
+    }
   },
   "el microondas": {
     "source": "el microondas",
