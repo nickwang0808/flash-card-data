@@ -735,7 +735,7 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-04T01:50:01.394Z",
+      "due": "2026-02-04T01:50:16.061Z",
       "stability": 0.40255,
       "difficulty": 7.1949,
       "elapsed_days": 0,
@@ -743,7 +743,7 @@
       "reps": 1,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-04T01:49:01.394Z"
+      "last_review": "2026-02-04T01:49:16.061Z"
     },
     "reverseState": null
   }
