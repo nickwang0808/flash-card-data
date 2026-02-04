@@ -378,8 +378,28 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-02-20T03:28:08.137Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T03:28:08.137Z"
+    },
+    "reverseState": {
+      "due": "2026-02-20T03:28:09.782Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T03:28:09.782Z"
+    }
   },
   "la toalla": {
     "source": "la toalla",
@@ -517,7 +537,17 @@
       "state": 2,
       "last_review": "2026-02-04T03:27:47.007Z"
     },
-    "reverseState": null
+    "reverseState": {
+      "due": "2026-02-20T03:28:05.678Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T03:28:05.678Z"
+    }
   },
   "la lavadora": {
     "source": "la lavadora",
