@@ -1043,15 +1043,15 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-04T03:16:37.084Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-11T04:29:30.452Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-04T03:06:37.084Z"
+      "state": 2,
+      "last_review": "2026-02-04T04:29:30.452Z"
     },
     "reverseState": null
   },
