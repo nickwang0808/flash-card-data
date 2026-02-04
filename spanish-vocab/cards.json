@@ -669,7 +669,17 @@
       "state": 2,
       "last_review": "2026-02-04T01:47:24.246Z"
     },
-    "reverseState": null
+    "reverseState": {
+      "due": "2026-02-20T01:47:36.442Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T01:47:36.442Z"
+    }
   },
   "colgar (yo, presente)": {
     "source": "colgar (yo, presente)",
