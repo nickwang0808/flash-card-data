@@ -549,7 +549,17 @@
       "state": 1,
       "last_review": "2026-02-04T03:17:23.764Z"
     },
-    "reverseState": null
+    "reverseState": {
+      "due": "2026-02-04T03:27:39.281Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-04T03:17:39.281Z"
+    }
   },
   "la ropa sucia": {
     "source": "la ropa sucia",
