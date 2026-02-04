@@ -131,7 +131,17 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-20T04:28:48.636Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-04T04:28:48.636Z"
+    },
     "reverseState": null
   },
   "el cuchillo": {
