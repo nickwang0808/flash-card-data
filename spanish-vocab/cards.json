@@ -608,7 +608,17 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-28T00:59:07.036Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-12T00:59:07.036Z"
+    },
     "reverseState": null
   },
   "el trapeador": {
