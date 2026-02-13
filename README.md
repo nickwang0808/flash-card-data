@@ -65,6 +65,8 @@ The JSON key and `source` field should be identical. Spaces, accents, and specia
 - Skip existing keys (check all decks first); you may update existing cards if adding words with multiple translations
 - Include examples when possible
 - Set `reversible: true` for words good for both directions
+- One topic per PR to keep diffs reviewable
+- **Irregular verbs: only create conjugation cards for actually irregular forms.** Strip out any conjugation that follows regular -ar/-er/-ir patterns (see detailed rules below)
 
 ## Irregular Verb Conjugations
 
@@ -80,8 +82,10 @@ Only for forms that are actually irregular. Skip regular forms of irregular verb
 - Irregular future/conditional stems (tendré, pondré)
 
 **Do NOT create cards for:**
-- Regular forms of irregular verbs (e.g., freirán is regular -ir future)
+- Regular forms of irregular verbs — if the conjugation follows standard -ar/-er/-ir endings applied to the normal stem, skip it
 - Nosotros forms when they follow regular pattern
+- Regular future/pretérito of stem-changing verbs (e.g., dormiré, dormirás are regular -ir future — skip)
+- Regular presente continuo when the gerund is regular (e.g., durmiendo is irregular → keep, but cortando is regular → skip)
 
 ### Conjugation Card Format
 
