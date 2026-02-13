@@ -8,8 +8,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la nevera": {
     "source": "la nevera",
@@ -20,8 +20,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la estufa": {
     "source": "la estufa",
@@ -76,18 +76,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T04:26:12.178Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:26:12.178Z"
-    },
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "el fregadero": {
     "source": "el fregadero",
@@ -153,28 +143,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T03:26:50.652Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:26:50.652Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:26:54.791Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:26:54.791Z"
-    }
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la cuchara": {
     "source": "la cuchara",
@@ -542,18 +512,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T04:26:01.880Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:26:01.880Z"
-    },
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "el champú": {
     "source": "el champú",
@@ -564,28 +524,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T03:18:19.105Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:18:19.105Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:26:41.837Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:26:41.837Z"
-    }
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la escoba": {
     "source": "la escoba",
@@ -718,8 +658,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la secadora": {
     "source": "la secadora",
@@ -730,8 +670,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "el detergente": {
     "source": "el detergente",
@@ -742,28 +682,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T03:27:31.931Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:27:31.931Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:27:35.527Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:27:35.527Z"
-    }
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "el suavizante": {
     "source": "el suavizante",
@@ -840,8 +760,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "la ropa limpia": {
     "source": "la ropa limpia",
@@ -852,8 +772,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "el tendedero": {
     "source": "el tendedero",
@@ -945,8 +865,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "secar": {
     "source": "secar",
@@ -958,8 +878,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "planchar": {
     "source": "planchar",
@@ -984,28 +904,8 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": {
-      "due": "2026-02-20T03:13:02.240Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:13:02.240Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:13:06.947Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:13:06.947Z"
-    }
+    "state": "suspended",
+    "reverseState": "suspended"
   },
   "colgar": {
     "source": "colgar",
@@ -1146,8 +1046,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Soy estudiante de español"
   },
   "ser (yo, presente)": {
@@ -1279,8 +1179,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Estoy en la casa ahora"
   },
   "estar (yo, presente)": {
@@ -1400,8 +1300,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Voy al mercado cada sábado"
   },
   "ir (yo, presente)": {
@@ -1545,8 +1445,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "He comido ya"
   },
   "haber (yo, presente)": {
@@ -1738,8 +1638,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Hago mi tarea cada noche"
   },
   "hacer (yo, presente)": {
@@ -1883,8 +1783,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Tengo dos hermanos"
   },
   "tener (yo, presente)": {
@@ -2064,8 +1964,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Puedo nadar muy bien"
   },
   "poder (yo, presente)": {
@@ -2257,8 +2157,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Digo la verdad siempre"
   },
   "decir (yo, presente)": {
@@ -2450,8 +2350,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Sé hablar inglés"
   },
   "saber (yo, presente)": {
@@ -2596,8 +2496,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Quiero aprender español bien"
   },
   "querer (yo, presente)": {
@@ -2791,8 +2691,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Veo la televisión por la noche"
   },
   "ver (yo, presente)": {
@@ -2840,8 +2740,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Doy regalos en Navidad"
   },
   "dar (yo, presente)": {
@@ -2925,8 +2825,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Vengo a clase todos los días"
   },
   "venir (yo, presente)": {
@@ -3118,8 +3018,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Pongo la ropa en el closet"
   },
   "poner (yo, presente)": {
@@ -3263,8 +3163,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Salgo de casa a las ocho"
   },
   "salir (yo, presente)": {
@@ -3348,8 +3248,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Traigo mi almuerzo de casa"
   },
   "traer (yo, presente)": {
@@ -3445,8 +3345,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Las hojas caen en otoño"
   },
   "caer (yo, presente)": {
@@ -3530,8 +3430,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Oigo música cada mañana"
   },
   "oír (yo, presente)": {
@@ -3663,8 +3563,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Conozco a tu hermano"
   },
   "conocer (yo, presente)": {
@@ -3689,8 +3589,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Siento mucho frío"
   },
   "sentir (yo, presente)": {
@@ -3793,8 +3693,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Duermo ocho horas cada noche"
   },
   "dormir (yo, presente)": {
@@ -3890,8 +3790,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Pido ayuda cuando la necesito"
   },
   "pedir (yo, presente)": {
@@ -3987,8 +3887,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Sigo las instrucciones del maestro"
   },
   "seguir (yo, presente)": {
@@ -4084,8 +3984,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Pienso mucho antes de decidir"
   },
   "pensar (yo, presente)": {
@@ -4145,8 +4045,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Vuelvo a casa a las seis"
   },
   "volver (yo, presente)": {
@@ -4206,8 +4106,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Juego fútbol los fines de semana"
   },
   "jugar (yo, presente)": {
@@ -4279,8 +4179,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Cuento historias a mis hijos"
   },
   "contar (yo, presente)": {
@@ -4340,8 +4240,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Entiendo español pero no hablo muy bien"
   },
   "entender (yo, presente)": {
@@ -4401,8 +4301,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Siempre pierdo mis llaves"
   },
   "perder (yo, presente)": {
@@ -4462,8 +4362,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Comienzo a trabajar a las nueve"
   },
   "comenzar (yo, presente)": {
@@ -4535,8 +4435,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Empiezo clases la próxima semana"
   },
   "empezar (yo, presente)": {
@@ -4608,8 +4508,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Cierro la puerta cuando salgo"
   },
   "cerrar (yo, presente)": {
@@ -4669,8 +4569,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Prefiero el café al té"
   },
   "preferir (yo, presente)": {
@@ -4766,8 +4666,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Traduzco documentos del inglés"
   },
   "traducir (yo, presente)": {
@@ -4851,8 +4751,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Conduzco al trabajo cada día"
   },
   "conducir (yo, presente)": {
@@ -4936,8 +4836,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "La fábrica produce muchos productos"
   },
   "producir (yo, presente)": {
@@ -5021,8 +4921,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Construyen casas nuevas en mi colonia"
   },
   "construir (yo, presente)": {
@@ -5118,8 +5018,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El terremoto destruyó muchos edificios"
   },
   "destruir (yo, presente)": {
@@ -5215,8 +5115,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Consigo buenos descuentos en esa tienda"
   },
   "conseguir (yo, presente)": {
@@ -5312,8 +5212,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Hablo español todos los días"
   },
   "comer": {
@@ -5325,8 +5225,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Como frutas y verduras"
   },
   "vivir": {
@@ -5338,8 +5238,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Vivo en la ciudad"
   },
   "la barbería": {
@@ -5350,8 +5250,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Voy a la barbería a cortarme el cabello"
   },
   "el barbero": {
@@ -5362,8 +5262,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El barbero me corta el cabello muy bien"
   },
   "el peluquero": {
@@ -5386,8 +5286,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Tengo el cabello muy largo"
   },
   "el corte": {
@@ -5482,8 +5382,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Me aplica loción después del corte"
   },
   "cortar": {
@@ -5534,8 +5434,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Quiero un corte corto en los lados"
   },
   "largo": {
@@ -5583,8 +5483,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El barbero corta muy bien"
   },
   "rápido": {
@@ -5595,8 +5495,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Termina rápido el corte"
   },
   "próximo": {
@@ -5619,8 +5519,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Quiero los lados más cortos"
   },
   "la parte de atrás": {
@@ -5631,8 +5531,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Córtame la parte de atrás un poco"
   },
   "el fleco": {
@@ -5703,8 +5603,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El barbero usa un secador rápido"
   },
   "la capa": {
@@ -5727,8 +5627,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Tengo una cita a las tres"
   },
   "el precio": {
@@ -5739,8 +5639,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "¿Cuál es el precio del corte?"
   },
   "la propina": {
@@ -5751,8 +5651,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Le dejo una propina buena"
   },
   "el dinero": {
@@ -5763,8 +5663,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "¿Aceptan tarjeta o solo dinero?"
   },
   "la tarjeta": {
@@ -5800,8 +5700,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Mi cabello está muy seco"
   },
   "rizado": {
@@ -6079,8 +5979,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "¿Cuánto tengo que pagar?"
   },
   "pagar (yo, pretérito)": {
@@ -6103,8 +6003,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "¿Cómo quieres el corte?"
   },
   "Quiero un corte limpio": {
@@ -6115,8 +6015,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Quiero un corte limpio sin diseño"
   },
   "Un poco más corto": {
@@ -6127,8 +6027,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Los lados un poco más cortos por favor"
   },
   "Está perfecto": {
@@ -6139,8 +6039,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El corte está perfecto gracias"
   },
   "Gracias por todo": {
@@ -6151,8 +6051,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Gracias por todo"
   },
   "cocinar": {
@@ -6164,8 +6064,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Me gusta cocinar para mi familia"
   },
   "picar": {
@@ -6576,8 +6476,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Sirvo la cena a las siete"
   },
   "servir (yo, presente)": {
@@ -6912,8 +6812,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Pico la cebolla para la salsa"
   },
   "el ajo": {
@@ -6924,8 +6824,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Añado ajo a la pasta"
   },
   "el tomate": {
@@ -6936,8 +6836,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Los tomates están muy maduros"
   },
   "la papa": {
@@ -6948,8 +6848,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Cocino las papas hervidas"
   },
   "la patata": {
@@ -6960,8 +6860,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Me gustan las patatas fritas"
   },
   "la zanahoria": {
@@ -6996,8 +6896,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El chile es muy picante"
   },
   "el aguacate": {
@@ -7008,8 +6908,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Hago guacamole con aguacate"
   },
   "el limón": {
@@ -7020,8 +6920,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Exprimo un limón sobre el pescado"
   },
   "el perejil": {
@@ -7044,8 +6944,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Me encanta el cilantro en la salsa"
   },
   "el arroz": {
@@ -7056,8 +6956,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Cocino arroz blanco como guarnición"
   },
   "la pasta": {
@@ -7068,8 +6968,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "La pasta está al dente"
   },
   "el pan": {
@@ -7080,8 +6980,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Horneo pan casero los domingos"
   },
   "el huevo": {
@@ -7092,8 +6992,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Bato los huevos para la tortilla"
   },
   "la leche": {
@@ -7104,8 +7004,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Añado leche al café"
   },
   "el queso": {
@@ -7116,8 +7016,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Rallo queso para la pizza"
   },
   "la mantequilla": {
@@ -7140,8 +7040,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Frio con aceite de oliva"
   },
   "la sal": {
@@ -7152,8 +7052,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Añado sal al agua hirviendo"
   },
   "la pimienta": {
@@ -7176,8 +7076,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Pongo azúcar en el café"
   },
   "la harina": {
@@ -7224,8 +7124,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Sirvo una porción generosa"
   },
   "el sabor": {
@@ -7236,8 +7136,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El sabor es delicioso"
   },
   "picante": {
@@ -7248,8 +7148,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Esta salsa es muy picante"
   },
   "dulce": {
@@ -7260,8 +7160,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El postre está muy dulce"
   },
   "salado": {
@@ -7272,8 +7172,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "La sopa está un poco salada"
   },
   "amargo": {
@@ -7296,8 +7196,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El limón es muy ácido"
   },
   "fresco": {
@@ -7308,8 +7208,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Las verduras están muy frescas"
   },
   "crudo": {
@@ -7345,8 +7245,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Lavo los platos después de cenar"
   },
   "fregar": {
@@ -7444,8 +7344,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Seco los platos con un trapo"
   },
   "escurrir": {
@@ -7470,8 +7370,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Limpio la cocina después de cocinar"
   },
   "el plato sucio": {
@@ -7482,8 +7382,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El fregadero está lleno de platos sucios"
   },
   "el plato limpio": {
@@ -7494,8 +7394,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Guardo los platos limpios en el armario"
   },
   "la esponja": {
@@ -7578,8 +7478,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Echo jabón para lavar los platos"
   },
   "el detergente líquido": {
@@ -7590,8 +7490,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Uso detergente líquido en el lavavajillas"
   },
   "el escurridor": {
@@ -7662,8 +7562,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "El plato está muy sucio"
   },
   "feliz": {
@@ -7674,8 +7574,8 @@
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null,
+    "state": "suspended",
+    "reverseState": "suspended",
     "example": "Estoy muy feliz hoy"
   },
   "alegre": {
