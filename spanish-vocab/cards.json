@@ -9447,5 +9447,71 @@
     "reversible": true,
     "state": null,
     "reverseState": null
+  },
+  "no me digas": {
+    "source": "no me digas",
+    "translation": "don't tell me",
+    "example": "No me digas mentiras.",
+    "notes": "Negative commands flip the pronoun back to before the verb. Compare: dime (tell me) vs no me digas (don't tell me).",
+    "tags": ["verbs", "object-pronouns", "imperative"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "no le digas": {
+    "source": "no le digas",
+    "translation": "don't tell him/her",
+    "example": "No le digas nada a tu hermano.",
+    "notes": "Negative commands flip the pronoun back to before the verb. Compare: dile (tell him/her) vs no le digas (don't tell him/her).",
+    "tags": ["verbs", "object-pronouns", "imperative"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "no me escuches": {
+    "source": "no me escuches",
+    "translation": "don't listen to me",
+    "example": "No me escuches, estoy bromeando.",
+    "notes": "Negative commands flip the pronoun back to before the verb. Compare: escúchame (listen to me) vs no me escuches (don't listen to me).",
+    "tags": ["verbs", "object-pronouns", "imperative"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "no nos digas": {
+    "source": "no nos digas",
+    "translation": "don't tell us",
+    "example": "No nos digas el final de la película.",
+    "notes": "Negative commands flip the pronoun back to before the verb. Compare: dinos (tell us) vs no nos digas (don't tell us).",
+    "tags": ["verbs", "object-pronouns", "imperative"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "diciéndome": {
+    "source": "diciéndome",
+    "translation": "telling me",
+    "example": "Sigue diciéndome la historia.",
+    "notes": "diciendo (telling, gerund) + me (to me). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "tags": ["verbs", "object-pronouns", "gerund"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
+  },
+  "diciéndote": {
+    "source": "diciéndote",
+    "translation": "telling you",
+    "example": "Estoy diciéndote la verdad.",
+    "notes": "diciendo (telling, gerund) + te (to you). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "tags": ["verbs", "object-pronouns", "gerund"],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": null,
+    "reverseState": null
   }
 }
