@@ -5644,15 +5644,27 @@
   "afeitar": {
     "source": "afeitar",
     "translation": "to shave",
+    "example": "Mi papá se afeita cada mañana",
+    "notes": "",
     "tags": [
       "verbs",
       "barber-shop"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-03-03T19:08:12.618Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:08:12.618Z"
+    },
     "reverseState": null,
-    "example": "Mi papá se afeita cada mañana"
+    "suspended": false
   },
   "corto": {
     "source": "corto",
@@ -5694,14 +5706,26 @@
   "afilado": {
     "source": "afilado",
     "translation": "sharp",
+    "example": "Las tijeras deben estar afiladas",
+    "notes": "",
     "tags": [
       "barber-shop"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-03-03T19:08:14.893Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:08:14.893Z"
+    },
     "reverseState": null,
-    "example": "Las tijeras deben estar afiladas"
+    "suspended": false
   },
   "bien": {
     "source": "bien",
