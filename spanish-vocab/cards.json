@@ -287,15 +287,15 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T19:09:44.915Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-22T19:23:26.672Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-15T18:59:44.915Z"
+      "state": 2,
+      "last_review": "2026-02-15T19:23:26.672Z"
     },
     "reverseState": null,
     "suspended": false
@@ -7443,14 +7443,26 @@
   "amargo": {
     "source": "amargo",
     "translation": "bitter",
+    "example": "El café sin azúcar es amargo",
+    "notes": "",
     "tags": [
       "cooking"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:24:17.711Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:23:17.711Z"
+    },
     "reverseState": null,
-    "example": "El café sin azúcar es amargo"
+    "suspended": false
   },
   "ácido": {
     "source": "ácido",
@@ -7845,14 +7857,26 @@
   "alegre": {
     "source": "alegre",
     "translation": "cheerful/joyful",
+    "example": "Me siento alegre cuando veo a mis amigos",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:24:06.756Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:23:06.756Z"
+    },
     "reverseState": null,
-    "example": "Me siento alegre cuando veo a mis amigos"
+    "suspended": false
   },
   "contento": {
     "source": "contento",
@@ -7965,14 +7989,26 @@
   "ansioso": {
     "source": "ansioso",
     "translation": "anxious",
+    "example": "Me siento ansioso por la entrevista",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:24:22.566Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:23:22.566Z"
+    },
     "reverseState": null,
-    "example": "Me siento ansioso por la entrevista"
+    "suspended": false
   },
   "preocupado": {
     "source": "preocupado",
@@ -8093,15 +8129,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T19:11:03.182Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-22T19:23:28.927Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-15T19:01:03.182Z"
+      "state": 2,
+      "last_review": "2026-02-15T19:23:28.927Z"
     },
     "reverseState": null,
     "suspended": false
@@ -8121,14 +8157,26 @@
   "agotado": {
     "source": "agotado",
     "translation": "exhausted",
+    "example": "Estoy completamente agotado",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:23:49.621Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:22:49.621Z"
+    },
     "reverseState": null,
-    "example": "Estoy completamente agotado"
+    "suspended": false
   },
   "relajado": {
     "source": "relajado",
@@ -8229,26 +8277,50 @@
   "agradecido": {
     "source": "agradecido",
     "translation": "grateful",
+    "example": "Estoy agradecido por tu ayuda",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:23:56.441Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:22:56.441Z"
+    },
     "reverseState": null,
-    "example": "Estoy agradecido por tu ayuda"
+    "suspended": false
   },
   "amado": {
     "source": "amado",
     "translation": "loved",
+    "example": "Me siento amado por mi familia",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:33:11.291Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:23:11.291Z"
+    },
     "reverseState": null,
-    "example": "Me siento amado por mi familia"
+    "suspended": false
   },
   "solitario": {
     "source": "solitario",
@@ -9258,15 +9330,27 @@
   "alegrarse": {
     "source": "alegrarse",
     "translation": "to be happy/glad",
+    "example": "Me alegro de verte",
+    "notes": "",
     "tags": [
       "verbs",
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:24:00.219Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:23:00.219Z"
+    },
     "reverseState": null,
-    "example": "Me alegro de verte"
+    "suspended": false
   },
   "entristecerse": {
     "source": "entristecerse",
@@ -9349,15 +9433,27 @@
   "amar": {
     "source": "amar",
     "translation": "to love",
+    "example": "Amo a mi familia",
+    "notes": "",
     "tags": [
       "verbs",
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-03-03T19:23:14.046Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:23:14.046Z"
+    },
     "reverseState": null,
-    "example": "Amo a mi familia"
+    "suspended": false
   },
   "expresar": {
     "source": "expresar",
