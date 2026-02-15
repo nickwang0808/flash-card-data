@@ -150,13 +150,25 @@
     "source": "la cuchara",
     "translation": "spoon",
     "example": "Tomo la sopa con la cuchara",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:53:56.618Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:53:56.618Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el vaso": {
     "source": "el vaso",
@@ -280,13 +292,25 @@
     "source": "la cama",
     "translation": "bed",
     "example": "Duermo en mi cama cada noche",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:53:50.583Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:53:50.583Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la almohada": {
     "source": "la almohada",
@@ -332,8 +356,19 @@
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:53:52.903Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:53:52.903Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la manta": {
     "source": "la manta",
@@ -384,13 +419,25 @@
     "source": "la ducha",
     "translation": "shower",
     "example": "Me baño en la ducha cada mañana",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:53:59.081Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:53:59.081Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la bañera": {
     "source": "la bañera",
@@ -543,13 +590,25 @@
     "source": "la escoba",
     "translation": "broom",
     "example": "Barro el piso con la escoba",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:54:02.305Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:54:02.305Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la aspiradora": {
     "source": "la aspiradora",
