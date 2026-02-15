@@ -6881,13 +6881,24 @@
   },
   "asustado": {
     "back": "scared/frightened\n\n*El niño está asustado de la oscuridad*",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
-    "reversible": true
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T21:43:08.811Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T21:42:08.811Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "temeroso": {
     "back": "fearful\n\n*Soy temeroso de las alturas*",
