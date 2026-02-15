@@ -208,13 +208,25 @@
     "source": "la taza",
     "translation": "cup",
     "example": "Tomo café en una taza",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T19:00:33.994Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:00:33.994Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la olla": {
     "source": "la olla",
@@ -313,7 +325,8 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": null,
-    "reverseState": null
+    "reverseState": null,
+    "suspended": true
   },
   "el televisor": {
     "source": "el televisor",
@@ -388,13 +401,25 @@
     "source": "la sábana",
     "translation": "sheet",
     "example": "Las sábanas están limpias",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T19:00:30.153Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:00:30.153Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la cobija": {
     "source": "la cobija",
@@ -605,13 +630,25 @@
     "source": "la toalla",
     "translation": "towel",
     "example": "Me seco con la toalla",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T19:00:41.741Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:00:41.741Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el jabón": {
     "source": "el jabón",
@@ -709,13 +746,25 @@
     "source": "la ventana",
     "translation": "window",
     "example": "Abro la ventana para ventilar",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T19:00:44.456Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:00:44.456Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el interruptor": {
     "source": "el interruptor",
