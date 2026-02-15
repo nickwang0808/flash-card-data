@@ -1087,6 +1087,7 @@
   "colgar (tú, presente)": {
     "source": "colgar (tú, presente)",
     "translation": "cuelgas",
+    "example": "",
     "notes": "o→ue stem change",
     "tags": [
       "verbs",
@@ -1096,17 +1097,18 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-11T04:29:27.912Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-05-14T18:56:49.432Z",
+      "stability": 88.21111813,
+      "difficulty": 3.61848086,
+      "elapsed_days": 11,
+      "scheduled_days": 88,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-04T04:29:27.912Z"
+      "last_review": "2026-02-15T18:56:49.432Z"
     },
-    "reverseState": null
+    "reverseState": null,
+    "suspended": false
   },
   "colgar (él/ella/usted, presente)": {
     "source": "colgar (él/ella/usted, presente)",
@@ -1135,6 +1137,7 @@
   "colgar (ellos/ellas/ustedes, presente)": {
     "source": "colgar (ellos/ellas/ustedes, presente)",
     "translation": "cuelgan",
+    "example": "",
     "notes": "o→ue stem change",
     "tags": [
       "verbs",
@@ -1144,17 +1147,18 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-05T04:29:23.434Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-02-18T18:56:43.244Z",
+      "stability": 2.57630336,
+      "difficulty": 7.61448676,
+      "elapsed_days": 11,
+      "scheduled_days": 3,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-04T04:29:23.434Z"
+      "last_review": "2026-02-15T18:56:43.244Z"
     },
-    "reverseState": null
+    "reverseState": null,
+    "suspended": false
   },
   "ser": {
     "source": "ser",
