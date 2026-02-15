@@ -13,15 +13,13 @@ flash-card-data/
 
 ## Card Schema
 
-Each card in `cards.json`:
+Each `cards.json` includes a `$schema` reference for VS Code validation and is keyed by the raw term (TTS-readable). The JSON key doubles as the front of the card.
 
 ```json
 {
+  "$schema": "https://raw.githubusercontent.com/nickwang0808/flash-card/master/schema/cards.schema.json",
   "¿Cómo estás?": {
-    "source": "¿Cómo estás?",
-    "translation": "How are you?",
-    "example": "¡Hola! ¿Cómo estás hoy?",
-    "notes": "Informal, use ¿Cómo está? for formal",
+    "back": "How are you?\n\n*¡Hola! ¿Cómo estás hoy?*\n\n> Informal, use ¿Cómo está? for formal",
     "tags": ["greetings"],
     "created": "2025-02-03T00:00:00Z",
     "reversible": true,
@@ -31,26 +29,41 @@ Each card in `cards.json`:
 }
 ```
 
+### `back` Field Format (Markdown)
+
+The `back` field is a markdown string combining translation, example, and notes:
+
+```
+translation text
+                          ← blank line
+*Example sentence here*   ← italic
+                          ← blank line
+> Notes or context here   ← blockquote (optional)
+```
+
+- **Line 1**: English translation (plain text)
+- **Example**: Wrapped in `*italics*`, separated by a blank line
+- **Notes**: As `> blockquote`, separated by a blank line (optional)
+
 ### Required Fields
 
 | Field | Description |
 |-------|-------------|
-| `source` | Word/phrase as-is (also used as JSON key) |
-| `translation` | English translation |
-| `tags` | Tags for filtering (can be `[]`) |
-| `created` | ISO8601 timestamp |
-| `reversible` | Set `true` for bidirectional practice |
-| `state` | Always `null` for new cards |
-| `reverseState` | Always `null` for new cards |
+| `back` | Markdown string (translation + example + notes) |
+| `created` | ISO 8601 timestamp |
 
 ### Optional Fields
 
 | Field | Description |
 |-------|-------------|
-| `example` | Example sentence |
-| `notes` | Context, regional variations |
+| `front` | Markdown for front side (defaults to the JSON key if omitted) |
+| `tags` | String array for filtering (can be `[]`) |
+| `reversible` | Set `true` for bidirectional practice (default `false`) |
+| `suspended` | Set `true` to suspend from review |
+| `state` | FSRS scheduling state — always `null` for new cards (managed by app) |
+| `reverseState` | FSRS reverse scheduling state — always `null` for new cards (managed by app) |
 
-The JSON key and `source` field should be identical. Spaces, accents, and special characters (¿, ñ, etc.) are fine.
+The JSON key is the raw term. Spaces, accents, and special characters (¿, ñ, etc.) are fine.
 
 ## Workflow
 
@@ -63,7 +76,7 @@ The JSON key and `source` field should be identical. Spaces, accents, and specia
 ## Rules
 
 - Skip existing keys (check all decks first); you may update existing cards if adding words with multiple translations
-- Include examples when possible
+- Include examples in the `back` field when possible (as `*italic*`)
 - Set `reversible: true` for words good for both directions
 - One topic per PR to keep diffs reviewable
 - **Irregular verbs: only create conjugation cards for actually irregular forms.** Strip out any conjugation that follows regular -ar/-er/-ir patterns (see detailed rules below)
@@ -92,11 +105,9 @@ Only for forms that are actually irregular. Skip regular forms of irregular verb
 ```json
 {
   "dormir (yo, presente)": {
-    "source": "dormir (yo, presente)",
-    "translation": "duermo",
+    "back": "duermo\n\n> o→ue stem change",
     "tags": ["verbs", "conjugations", "stem-change"],
     "created": "2025-02-03T00:00:00Z",
-    "reversible": false,
     "state": null,
     "reverseState": null
   }
@@ -128,11 +139,11 @@ yo, tú, él/ella/usted, nosotros/nosotras, ellos/ellas/ustedes
 ### Card Guidelines
 
 **Base verb card:**
-- Include example sentence
-- Add notes about irregularity type
+- Include example in `back` as `*italic*`
+- Add notes about irregularity type as `> blockquote`
 - Tags: `["verbs", "<topic>"]`
 
 **Conjugation cards:**
-- No example needed
+- `back` is just the conjugated form (no example needed)
+- Optionally add irregularity type as `> blockquote` note
 - Tags: `["verbs", "conjugations", "<topic>"]`
-- Notes optional: can mention irregularity type
