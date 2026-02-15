@@ -1093,14 +1093,26 @@
     "source": "planchar",
     "translation": "to iron",
     "example": "Plancho mi ropa antes de salir",
+    "notes": "",
     "tags": [
       "verbs",
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T19:00:56.611Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T19:00:56.611Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "doblar": {
     "source": "doblar",
@@ -5898,14 +5910,26 @@
   "aceitoso": {
     "source": "aceitoso",
     "translation": "oily",
+    "example": "Mi cabello es muy aceitoso",
+    "notes": "",
     "tags": [
       "barber-shop"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:11:08.039Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:01:08.039Z"
+    },
     "reverseState": null,
-    "example": "Mi cabello es muy aceitoso"
+    "suspended": false
   },
   "seco": {
     "source": "seco",
@@ -8037,14 +8061,26 @@
   "aburrido": {
     "source": "aburrido",
     "translation": "bored",
+    "example": "Estoy aburrido en casa",
+    "notes": "",
     "tags": [
       "emotions"
     ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
-    "state": null,
+    "state": {
+      "due": "2026-02-15T19:11:03.182Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T19:01:03.182Z"
+    },
     "reverseState": null,
-    "example": "Estoy aburrido en casa"
+    "suspended": false
   },
   "cansado": {
     "source": "cansado",
