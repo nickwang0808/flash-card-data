@@ -396,13 +396,25 @@
     "source": "la bañera",
     "translation": "bathtub",
     "example": "Los niños se bañan en la bañera",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-02-15T18:58:27.333Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T18:53:27.333Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el inodoro": {
     "source": "el inodoro",
@@ -9299,7 +9311,10 @@
     "translation": "you tell me",
     "example": "¿Por qué no me dices la verdad?",
     "notes": "me (to me) + dices (you tell). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9310,7 +9325,10 @@
     "translation": "I tell you",
     "example": "Te digo que es importante.",
     "notes": "te (to you) + digo (I tell). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9321,7 +9339,10 @@
     "translation": "I tell him/her",
     "example": "Siempre le digo buenos días.",
     "notes": "le (to him/her) + digo (I tell). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9332,7 +9353,10 @@
     "translation": "he/she tells us",
     "example": "Nos dice que vamos a ganar.",
     "notes": "nos (to us) + dice (he/she tells). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9343,7 +9367,10 @@
     "translation": "I tell them",
     "example": "Les digo a mis amigos que vengan.",
     "notes": "les (to them) + digo (I tell). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9354,7 +9381,10 @@
     "translation": "they tell me",
     "example": "Me dicen que todo está bien.",
     "notes": "me (to me) + dicen (they tell). Object pronoun goes before conjugated verb.",
-    "tags": ["verbs", "object-pronouns"],
+    "tags": [
+      "verbs",
+      "object-pronouns"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9365,7 +9395,11 @@
     "translation": "tell me",
     "example": "Dime qué pasó.",
     "notes": "di (tell, tú command) + me (to me). Pronoun attaches to end of affirmative commands.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9376,7 +9410,11 @@
     "translation": "tell him/her",
     "example": "Dile que venga mañana.",
     "notes": "di (tell, tú command) + le (to him/her). Pronoun attaches to end of affirmative commands.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9387,7 +9425,11 @@
     "translation": "tell us",
     "example": "Dinos la historia completa.",
     "notes": "di (tell, tú command) + nos (to us). Pronoun attaches to end of affirmative commands.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9398,7 +9440,11 @@
     "translation": "tell them",
     "example": "Diles que no se preocupen.",
     "notes": "di (tell, tú command) + les (to them). Pronoun attaches to end of affirmative commands.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9409,7 +9455,11 @@
     "translation": "to tell me",
     "example": "¿Puedes decirme dónde está?",
     "notes": "decir (to tell) + me (to me). Pronoun attaches to end of infinitives.",
-    "tags": ["verbs", "object-pronouns", "infinitive"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "infinitive"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9420,7 +9470,11 @@
     "translation": "to tell you",
     "example": "Quiero decirte algo importante.",
     "notes": "decir (to tell) + te (to you). Pronoun attaches to end of infinitives.",
-    "tags": ["verbs", "object-pronouns", "infinitive"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "infinitive"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9431,7 +9485,11 @@
     "translation": "listen to me",
     "example": "Escúchame, esto es serio.",
     "notes": "escucha (listen, tú command) + me (to me). Same pattern works with any verb.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9442,7 +9500,11 @@
     "translation": "help me",
     "example": "Ayúdame con la tarea, por favor.",
     "notes": "ayuda (help, tú command) + me (to me). Same pattern works with any verb.",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9453,7 +9515,11 @@
     "translation": "don't tell me",
     "example": "No me digas mentiras.",
     "notes": "Negative commands flip the pronoun back to before the verb. Compare: dime (tell me) vs no me digas (don't tell me).",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9464,7 +9530,11 @@
     "translation": "don't tell him/her",
     "example": "No le digas nada a tu hermano.",
     "notes": "Negative commands flip the pronoun back to before the verb. Compare: dile (tell him/her) vs no le digas (don't tell him/her).",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9475,7 +9545,11 @@
     "translation": "don't listen to me",
     "example": "No me escuches, estoy bromeando.",
     "notes": "Negative commands flip the pronoun back to before the verb. Compare: escúchame (listen to me) vs no me escuches (don't listen to me).",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9486,7 +9560,11 @@
     "translation": "don't tell us",
     "example": "No nos digas el final de la película.",
     "notes": "Negative commands flip the pronoun back to before the verb. Compare: dinos (tell us) vs no nos digas (don't tell us).",
-    "tags": ["verbs", "object-pronouns", "imperative"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "imperative"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9497,7 +9575,11 @@
     "translation": "telling me",
     "example": "Sigue diciéndome la historia.",
     "notes": "diciendo (telling, gerund) + me (to me). Pronoun attaches to end of gerunds, same as commands and infinitives.",
-    "tags": ["verbs", "object-pronouns", "gerund"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "gerund"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
@@ -9508,7 +9590,11 @@
     "translation": "telling you",
     "example": "Estoy diciéndote la verdad.",
     "notes": "diciendo (telling, gerund) + te (to you). Pronoun attaches to end of gerunds, same as commands and infinitives.",
-    "tags": ["verbs", "object-pronouns", "gerund"],
+    "tags": [
+      "verbs",
+      "object-pronouns",
+      "gerund"
+    ],
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": null,
