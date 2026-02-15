@@ -3,22 +3,24 @@
   "la cocina": {
     "back": "kitchen\n\n*Me gusta cocinar en la cocina*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la nevera": {
     "back": "refrigerator\n\n*La nevera está llena de comida*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la estufa": {
     "back": "stove\n\n*Cocino en la estufa todos los días*",
@@ -73,12 +75,13 @@
   "el microondas": {
     "back": "microwave\n\n*Caliento la comida en el microondas*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el fregadero": {
     "back": "sink\n\n*Lavo los platos en el fregadero*\n\n> Kitchen sink; use 'el lavabo' for bathroom sink",
@@ -133,12 +136,13 @@
   "el cuchillo": {
     "back": "knife\n\n*Corto la carne con el cuchillo*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la cuchara": {
     "back": "spoon\n\n*Tomo la sopa con la cuchara*",
@@ -566,22 +570,24 @@
   "el jabón": {
     "back": "soap\n\n*Me lavo las manos con jabón*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el champú": {
     "back": "shampoo\n\n*Lavo mi cabello con champú*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la escoba": {
     "back": "broom\n\n*Barro el piso con la escoba*",
@@ -716,32 +722,35 @@
   "la lavadora": {
     "back": "washing machine\n\n*Lavo la ropa en la lavadora*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la secadora": {
     "back": "dryer\n\n*Seco la ropa en la secadora*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el detergente": {
     "back": "detergent\n\n*Uso detergente para lavar la ropa*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el suavizante": {
     "back": "fabric softener\n\n*El suavizante deja la ropa suave*",
@@ -816,22 +825,24 @@
   "la ropa sucia": {
     "back": "dirty laundry\n\n*Tengo mucha ropa sucia que lavar*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la ropa limpia": {
     "back": "clean laundry\n\n*Guardo la ropa limpia en el armario*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el tendedero": {
     "back": "clothesline\n\n*Cuelgo la ropa en el tendedero*",
@@ -926,24 +937,26 @@
   "lavar": {
     "back": "to wash\n\n*Lavo la ropa todos los sábados*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "secar": {
     "back": "to dry\n\n*Seco la ropa en la secadora*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "planchar": {
     "back": "to iron\n\n*Plancho mi ropa antes de salir*",
@@ -969,13 +982,14 @@
   "doblar": {
     "back": "to fold\n\n*Doblo la ropa después de secarla*",
     "created": "2026-02-03T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "colgar": {
     "back": "to hang\n\n*Cuelgo mi ropa en el armario*\n\n> Stem-changing verb: o→ue in present tense",
@@ -1095,13 +1109,14 @@
   "ser": {
     "back": "to be\n\n*Soy estudiante de español*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "ser (yo, presente)": {
     "back": "soy",
@@ -1206,13 +1221,14 @@
   "estar": {
     "back": "to be\n\n*Estoy en la casa ahora*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "estar (yo, presente)": {
     "back": "estoy",
@@ -1307,13 +1323,14 @@
   "ir": {
     "back": "to go\n\n*Voy al mercado cada sábado*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "ir (yo, presente)": {
     "back": "voy",
@@ -1428,13 +1445,14 @@
   "haber": {
     "back": "to have (auxiliary)\n\n*He comido ya*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "haber (yo, presente)": {
     "back": "he",
@@ -1589,13 +1607,14 @@
   "hacer": {
     "back": "to do/make\n\n*Hago mi tarea cada noche*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "hacer (yo, presente)": {
     "back": "hago",
@@ -1710,13 +1729,14 @@
   "tener": {
     "back": "to have\n\n*Tengo dos hermanos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "tener (yo, presente)": {
     "back": "tengo",
@@ -1861,13 +1881,14 @@
   "poder": {
     "back": "to be able to/can\n\n*Puedo nadar muy bien*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "poder (yo, presente)": {
     "back": "puedo",
@@ -2022,13 +2043,14 @@
   "decir": {
     "back": "to say/tell\n\n*Digo la verdad siempre*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "decir (yo, presente)": {
     "back": "digo",
@@ -2183,13 +2205,14 @@
   "saber": {
     "back": "to know\n\n*Sé hablar inglés*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "saber (yo, presente)": {
     "back": "sé",
@@ -2304,14 +2327,15 @@
   "querer": {
     "back": "to want/love\n\n*Quiero aprender español bien*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs",
       "emotions"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "querer (yo, presente)": {
     "back": "quiero",
@@ -2470,13 +2494,14 @@
   "ver": {
     "back": "to see\n\n*Veo la televisión por la noche*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "ver (yo, presente)": {
     "back": "veo",
@@ -2511,13 +2536,14 @@
   "dar": {
     "back": "to give\n\n*Doy regalos en Navidad*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "dar (yo, presente)": {
     "back": "doy",
@@ -2582,13 +2608,14 @@
   "venir": {
     "back": "to come\n\n*Vengo a clase todos los días*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "venir (yo, presente)": {
     "back": "vengo",
@@ -2743,13 +2770,14 @@
   "poner": {
     "back": "to put\n\n*Pongo la ropa en el closet*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "poner (yo, presente)": {
     "back": "pongo",
@@ -2864,13 +2892,14 @@
   "salir": {
     "back": "to leave/go out\n\n*Salgo de casa a las ocho*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "salir (yo, presente)": {
     "back": "salgo",
@@ -2935,13 +2964,14 @@
   "traer": {
     "back": "to bring\n\n*Traigo mi almuerzo de casa*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "traer (yo, presente)": {
     "back": "traigo",
@@ -3016,13 +3046,14 @@
   "caer": {
     "back": "to fall\n\n*Las hojas caen en otoño*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "caer (yo, presente)": {
     "back": "caigo",
@@ -3087,13 +3118,14 @@
   "oír": {
     "back": "to hear\n\n*Oigo música cada mañana*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "oír (yo, presente)": {
     "back": "oigo",
@@ -3198,13 +3230,14 @@
   "conocer": {
     "back": "to know/meet\n\n*Conozco a tu hermano*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "conocer (yo, presente)": {
     "back": "conozco",
@@ -3219,14 +3252,15 @@
   "sentir": {
     "back": "to feel\n\n*Siento mucho frío*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs",
       "emotions"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "sentir (yo, presente)": {
     "back": "siento",
@@ -3308,13 +3342,14 @@
   "dormir": {
     "back": "to sleep\n\n*Duermo ocho horas cada noche*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "dormir (yo, presente)": {
     "back": "duermo",
@@ -3389,13 +3424,14 @@
   "pedir": {
     "back": "to ask for/order\n\n*Pido ayuda cuando la necesito*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "pedir (yo, presente)": {
     "back": "pido",
@@ -3470,13 +3506,14 @@
   "seguir": {
     "back": "to follow/continue\n\n*Sigo las instrucciones del maestro*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "seguir (yo, presente)": {
     "back": "sigo",
@@ -3551,13 +3588,14 @@
   "pensar": {
     "back": "to think\n\n*Pienso mucho antes de decidir*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "pensar (yo, presente)": {
     "back": "pienso",
@@ -3602,13 +3640,14 @@
   "volver": {
     "back": "to return\n\n*Vuelvo a casa a las seis*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "volver (yo, presente)": {
     "back": "vuelvo",
@@ -3653,13 +3692,14 @@
   "jugar": {
     "back": "to play\n\n*Juego fútbol los fines de semana*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "jugar (yo, presente)": {
     "back": "juego",
@@ -3714,13 +3754,14 @@
   "contar": {
     "back": "to count/tell\n\n*Cuento historias a mis hijos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "contar (yo, presente)": {
     "back": "cuento",
@@ -3765,13 +3806,14 @@
   "entender": {
     "back": "to understand\n\n*Entiendo español pero no hablo muy bien*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "entender (yo, presente)": {
     "back": "entiendo",
@@ -3816,13 +3858,14 @@
   "perder": {
     "back": "to lose\n\n*Siempre pierdo mis llaves*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "perder (yo, presente)": {
     "back": "pierdo",
@@ -3867,13 +3910,14 @@
   "comenzar": {
     "back": "to begin\n\n*Comienzo a trabajar a las nueve*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "comenzar (yo, presente)": {
     "back": "comienzo",
@@ -3928,13 +3972,14 @@
   "empezar": {
     "back": "to start\n\n*Empiezo clases la próxima semana*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "empezar (yo, presente)": {
     "back": "empiezo",
@@ -3989,13 +4034,14 @@
   "cerrar": {
     "back": "to close\n\n*Cierro la puerta cuando salgo*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "cerrar (yo, presente)": {
     "back": "cierro",
@@ -4040,13 +4086,14 @@
   "preferir": {
     "back": "to prefer\n\n*Prefiero el café al té*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "preferir (yo, presente)": {
     "back": "prefiero",
@@ -4121,13 +4168,14 @@
   "traducir": {
     "back": "to translate\n\n*Traduzco documentos del inglés*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "traducir (yo, presente)": {
     "back": "traduzco",
@@ -4192,13 +4240,14 @@
   "conducir": {
     "back": "to drive\n\n*Conduzco al trabajo cada día*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "conducir (yo, presente)": {
     "back": "conduzco",
@@ -4263,13 +4312,14 @@
   "producir": {
     "back": "to produce\n\n*La fábrica produce muchos productos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "producir (yo, presente)": {
     "back": "produzco",
@@ -4334,13 +4384,14 @@
   "construir": {
     "back": "to build\n\n*Construyen casas nuevas en mi colonia*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "construir (yo, presente)": {
     "back": "construyo",
@@ -4415,13 +4466,14 @@
   "destruir": {
     "back": "to destroy\n\n*El terremoto destruyó muchos edificios*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "destruir (yo, presente)": {
     "back": "destruyo",
@@ -4496,13 +4548,14 @@
   "conseguir": {
     "back": "to get/obtain\n\n*Consigo buenos descuentos en esa tienda*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "irregular-verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "conseguir (yo, presente)": {
     "back": "consigo",
@@ -4577,55 +4630,60 @@
   "hablar": {
     "back": "to speak\n\n*Hablo español todos los días*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "regular",
       "verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "comer": {
     "back": "to eat\n\n*Como frutas y verduras*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "regular",
       "verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "vivir": {
     "back": "to live\n\n*Vivo en la ciudad*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "regular",
       "verbs"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la barbería": {
     "back": "barber shop\n\n*Voy a la barbería a cortarme el cabello*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el barbero": {
     "back": "barber\n\n*El barbero me corta el cabello muy bien*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el peluquero": {
     "back": "hairdresser\n\n*El peluquero tiene muchos clientes*",
@@ -4640,12 +4698,13 @@
   "el cabello": {
     "back": "hair\n\n*Tengo el cabello muy largo*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el corte": {
     "back": "haircut\n\n*¿Cuánto cuesta un corte de cabello?*",
@@ -4720,12 +4779,13 @@
   "la loción": {
     "back": "lotion\n\n*Me aplica loción después del corte*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "cortar": {
     "back": "to cut\n\n*El barbero me corta el cabello cada mes*",
@@ -4774,12 +4834,13 @@
   "corto": {
     "back": "short\n\n*Quiero un corte corto en los lados*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "largo": {
     "back": "long\n\n*Mi cabello está muy largo*",
@@ -4825,22 +4886,24 @@
   "bien": {
     "back": "well\n\n*El barbero corta muy bien*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "rápido": {
     "back": "quickly\n\n*Termina rápido el corte*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "próximo": {
     "back": "next\n\n*¿Cuándo es tu próximo corte?*",
@@ -4855,22 +4918,24 @@
   "los lados": {
     "back": "the sides\n\n*Quiero los lados más cortos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la parte de atrás": {
     "back": "the back\n\n*Córtame la parte de atrás un poco*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el fleco": {
     "back": "bangs\n\n*¿Me haces el fleco?*",
@@ -4925,12 +4990,13 @@
   "el secador": {
     "back": "hair dryer\n\n*El barbero usa un secador rápido*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la capa": {
     "back": "cape\n\n*Me pone la capa antes de cortar*",
@@ -4945,42 +5011,46 @@
   "la cita": {
     "back": "appointment\n\n*Tengo una cita a las tres*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el precio": {
     "back": "price\n\n*¿Cuál es el precio del corte?*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la propina": {
     "back": "tip\n\n*Le dejo una propina buena*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el dinero": {
     "back": "money\n\n*¿Aceptan tarjeta o solo dinero?*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la tarjeta": {
     "back": "card\n\n*Pago con tarjeta de crédito*",
@@ -5015,13 +5085,14 @@
   "seco": {
     "back": "dry\n\n*Mi cabello está muy seco*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "rizado": {
     "back": "curly\n\n*Tengo el cabello rizado*",
@@ -5248,13 +5319,14 @@
   "pagar": {
     "back": "to pay\n\n*¿Cuánto tengo que pagar?*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "pagar (yo, pretérito)": {
     "back": "pagué",
@@ -5269,63 +5341,69 @@
   "¿Cómo quieres el corte?": {
     "back": "How do you want your haircut?\n\n*¿Cómo quieres el corte?*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "Quiero un corte limpio": {
     "back": "I want a clean cut\n\n*Quiero un corte limpio sin diseño*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "Un poco más corto": {
     "back": "A bit shorter\n\n*Los lados un poco más cortos por favor*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "Está perfecto": {
     "back": "It's perfect\n\n*El corte está perfecto gracias*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "Gracias por todo": {
     "back": "Thanks for everything\n\n*Gracias por todo*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "cocinar": {
     "back": "to cook\n\n*Me gusta cocinar para mi familia*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "picar": {
     "back": "to chop\n\n*Pico las cebollas para la salsa*",
@@ -5665,13 +5743,14 @@
   "servir": {
     "back": "to serve\n\n*Sirvo la cena a las siete*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "servir (yo, presente)": {
     "back": "sirvo",
@@ -5946,52 +6025,57 @@
   "la cebolla": {
     "back": "onion\n\n*Pico la cebolla para la salsa*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el ajo": {
     "back": "garlic\n\n*Añado ajo a la pasta*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el tomate": {
     "back": "tomato\n\n*Los tomates están muy maduros*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la papa": {
     "back": "potato\n\n*Cocino las papas hervidas*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la patata": {
     "back": "potato\n\n*Me gustan las patatas fritas*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la zanahoria": {
     "back": "carrot\n\n*Las zanahorias son muy saludables*",
@@ -6016,32 +6100,35 @@
   "el chile": {
     "back": "chili pepper\n\n*El chile es muy picante*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el aguacate": {
     "back": "avocado\n\n*Hago guacamole con aguacate*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el limón": {
     "back": "lemon\n\n*Exprimo un limón sobre el pescado*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el perejil": {
     "back": "parsley\n\n*Decoro el plato con perejil fresco*",
@@ -6056,72 +6143,79 @@
   "el cilantro": {
     "back": "cilantro\n\n*Me encanta el cilantro en la salsa*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el arroz": {
     "back": "rice\n\n*Cocino arroz blanco como guarnición*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la pasta": {
     "back": "pasta\n\n*La pasta está al dente*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el pan": {
     "back": "bread\n\n*Horneo pan casero los domingos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el huevo": {
     "back": "egg\n\n*Bato los huevos para la tortilla*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la leche": {
     "back": "milk\n\n*Añado leche al café*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el queso": {
     "back": "cheese\n\n*Rallo queso para la pizza*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la mantequilla": {
     "back": "butter\n\n*Unto la sartén con mantequilla*",
@@ -6136,22 +6230,24 @@
   "el aceite": {
     "back": "oil\n\n*Frio con aceite de oliva*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la sal": {
     "back": "salt\n\n*Añado sal al agua hirviendo*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la pimienta": {
     "back": "pepper (spice)\n\n*Muelo pimienta negra sobre la ensalada*",
@@ -6166,12 +6262,13 @@
   "el azúcar": {
     "back": "sugar\n\n*Pongo azúcar en el café*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la harina": {
     "back": "flour\n\n*Uso harina para hacer el pan*",
@@ -6206,52 +6303,57 @@
   "la porción": {
     "back": "portion/serving\n\n*Sirvo una porción generosa*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el sabor": {
     "back": "flavor\n\n*El sabor es delicioso*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "picante": {
     "back": "spicy\n\n*Esta salsa es muy picante*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "dulce": {
     "back": "sweet\n\n*El postre está muy dulce*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "salado": {
     "back": "salty\n\n*La sopa está un poco salada*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "amargo": {
     "back": "bitter\n\n*El café sin azúcar es amargo*",
@@ -6276,22 +6378,24 @@
   "ácido": {
     "back": "sour/acidic\n\n*El limón es muy ácido*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "fresco": {
     "back": "fresh\n\n*Las verduras están muy frescas*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "crudo": {
     "back": "raw\n\n*No como pescado crudo*",
@@ -6316,13 +6420,14 @@
   "lavar los platos": {
     "back": "to wash the dishes\n\n*Lavo los platos después de cenar*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "fregar": {
     "back": "to scrub/wash dishes\n\n*Friego los platos con esponja*",
@@ -6399,13 +6504,14 @@
   "secar los platos": {
     "back": "to dry the dishes\n\n*Seco los platos con un trapo*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "escurrir": {
     "back": "to drain\n\n*Escurro los platos en el escurridor*",
@@ -6421,33 +6527,36 @@
   "limpiar": {
     "back": "to clean\n\n*Limpio la cocina después de cocinar*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el plato sucio": {
     "back": "dirty dish\n\n*El fregadero está lleno de platos sucios*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el plato limpio": {
     "back": "clean dish\n\n*Guardo los platos limpios en el armario*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "la esponja": {
     "back": "sponge\n\n*Lavo los platos con la esponja*",
@@ -6512,22 +6621,24 @@
   "el jabón para platos": {
     "back": "dish soap\n\n*Echo jabón para lavar los platos*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el detergente líquido": {
     "back": "liquid detergent\n\n*Uso detergente líquido en el lavavajillas*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "el escurridor": {
     "back": "dish rack\n\n*Pongo los platos en el escurridor*",
@@ -6582,22 +6693,24 @@
   "sucio": {
     "back": "dirty\n\n*El plato está muy sucio*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "cooking"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "feliz": {
     "back": "happy\n\n*Estoy muy feliz hoy*",
     "created": "2026-02-13T00:00:00Z",
-    "state": "suspended",
-    "reverseState": "suspended",
+    "state": null,
+    "reverseState": null,
     "tags": [
       "emotions"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true
   },
   "alegre": {
     "back": "cheerful/joyful\n\n*Me siento alegre cuando veo a mis amigos*",
