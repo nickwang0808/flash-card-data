@@ -1063,6 +1063,7 @@
   "colgar (yo, presente)": {
     "source": "colgar (yo, presente)",
     "translation": "cuelgo",
+    "example": "",
     "notes": "o→ue stem change",
     "tags": [
       "verbs",
@@ -1072,17 +1073,18 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-11T04:29:30.452Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-05-14T18:58:10.173Z",
+      "stability": 88.21111813,
+      "difficulty": 3.61848086,
+      "elapsed_days": 11,
+      "scheduled_days": 88,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-04T04:29:30.452Z"
+      "last_review": "2026-02-15T18:58:10.173Z"
     },
-    "reverseState": null
+    "reverseState": null,
+    "suspended": false
   },
   "colgar (tú, presente)": {
     "source": "colgar (tú, presente)",
