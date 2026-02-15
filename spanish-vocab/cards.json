@@ -244,37 +244,63 @@
     "source": "la sartén",
     "translation": "pan",
     "example": "Frio los huevos en la sartén",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:59:54.696Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:59:54.696Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la sala": {
     "source": "la sala",
     "translation": "living room",
     "example": "Veo televisión en la sala",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-02-15T19:09:44.915Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T18:59:44.915Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la silla": {
     "source": "la silla",
     "translation": "chair",
     "example": "Me siento en la silla para comer",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": null,
-    "reverseState": null
+    "reverseState": null,
+    "suspended": true
   },
   "la televisión": {
     "source": "la televisión",
@@ -807,13 +833,25 @@
     "source": "la plancha",
     "translation": "iron",
     "example": "Plancho mi camisa con la plancha",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
-    "state": null,
-    "reverseState": null
+    "state": {
+      "due": "2026-03-03T18:59:38.563Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T18:59:38.563Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el cesto de ropa": {
     "source": "el cesto de ropa",
