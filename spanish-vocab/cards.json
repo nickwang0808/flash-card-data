@@ -819,21 +819,22 @@
     "source": "el cesto de ropa",
     "translation": "laundry basket",
     "example": "Pongo la ropa sucia en el cesto",
+    "notes": "",
     "tags": [
       "household-items"
     ],
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-11T04:29:38.040Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-03-21T18:58:33.409Z",
+      "stability": 34.48717311,
+      "difficulty": 4.50506778,
+      "elapsed_days": 11,
+      "scheduled_days": 34,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-04T04:29:38.040Z"
+      "last_review": "2026-02-15T18:58:33.409Z"
     },
     "reverseState": {
       "due": "2026-02-11T04:29:40.979Z",
@@ -845,7 +846,8 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2026-02-04T04:29:40.979Z"
-    }
+    },
+    "suspended": false
   },
   "la ropa sucia": {
     "source": "la ropa sucia",
