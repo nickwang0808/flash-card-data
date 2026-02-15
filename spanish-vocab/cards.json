@@ -1,5 +1,21 @@
 {
-  "$schema": "https://raw.githubusercontent.com/nickwang0808/flash-card/master/schema/cards.schema.json",
+  "$schema": {
+    "tags": [],
+    "reversible": false,
+    "state": {
+      "due": "2026-02-15T21:31:58.267Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T21:30:58.267Z"
+    },
+    "reverseState": null,
+    "suspended": false
+  },
   "la cocina": {
     "back": "kitchen\n\n*Me gusta cocinar en la cocina*",
     "created": "2026-02-03T00:00:00Z",
@@ -5632,14 +5648,25 @@
   },
   "asar": {
     "back": "to roast/grill\n\n*Aso el pollo en el horno*",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
-    "reversible": true
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-03T21:31:02.757Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-15T21:31:02.757Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hornear": {
     "back": "to bake\n\n*Horneo pan fresco cada domingo*",
@@ -6894,13 +6921,24 @@
   },
   "asombrado": {
     "back": "amazed/astonished\n\n*Estoy asombrado por el paisaje*",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
-    "reversible": true
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T21:32:11.840Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T21:31:11.840Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "confundido": {
     "back": "confused\n\n*Estoy confundido con las instrucciones*",
