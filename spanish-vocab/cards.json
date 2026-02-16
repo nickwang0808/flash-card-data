@@ -142,7 +142,11 @@
   },
   "el tenedor": {
     "back": "fork\n\n*Como con tenedor y cuchillo*",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:28:48.636Z",
       "stability": 15.69105,
@@ -154,11 +158,18 @@
       "state": 2,
       "last_review": "2026-02-04T04:28:48.636Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true
+    "reverseState": {
+      "due": "2026-03-04T01:39:54.851Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:54.851Z"
+    },
+    "suspended": false
   },
   "el cuchillo": {
     "back": "knife\n\n*Corto la carne con el cuchillo*",
@@ -173,7 +184,11 @@
   },
   "la cuchara": {
     "back": "spoon\n\n*Tomo la sopa con la cuchara*",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:53:56.618Z",
       "stability": 15.69105,
@@ -185,11 +200,18 @@
       "state": 2,
       "last_review": "2026-02-15T18:53:56.618Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true
+    "reverseState": {
+      "due": "2026-03-04T01:39:57.905Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:57.905Z"
+    },
+    "suspended": false
   },
   "el vaso": {
     "back": "glass\n\n*Bebo agua en un vaso*",
