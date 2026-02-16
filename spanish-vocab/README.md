@@ -3,19 +3,26 @@
 ## Rules
 
 - Set `reversible: true` for single-word translations
-- Include examples in `back` when possible (as `*italic*`)
-- Add notes as `> blockquote` when useful
+- Include Spanish examples in `front` field (as `*italic*`), not in `back` — keeps languages separated so reverse cards don't leak the answer
+- If a card has no example sentence, omit the `front` field (defaults to the key)
+- Add English notes as `> blockquote` in `back` when useful
 - Tags: `["greetings"]`, `["verbs"]`, `["food"]`, etc.
 - **Irregular verbs: only create conjugation cards for actually irregular forms.** Skip any conjugation that follows regular -ar/-er/-ir patterns
 
-## `back` Field Convention
+## Field Convention
 
+**`front`** (optional — omit if no example sentence, defaults to key):
+```
+key text
+                          <- blank line
+*Spanish example sentence*   <- italic
+```
+
+**`back`** (English only):
 ```
 translation text
-                          <- blank line
-*Example sentence here*   <- italic
-                          <- blank line
-> Notes or context here   <- blockquote (optional)
+                          <- blank line (if note follows)
+> Notes or context here   <- blockquote (optional, English)
 ```
 
 ## Irregular Verb Conjugations
@@ -74,8 +81,8 @@ yo, tu, el/ella/usted, nosotros/nosotras, ellos/ellas/ustedes
 ### Card Guidelines
 
 **Base verb card:**
-- Include example in `back` as `*italic*`
-- Add notes about irregularity type as `> blockquote`
+- Include Spanish example in `front` as `*italic*`
+- Add English notes about irregularity type as `> blockquote` in `back`
 - Tags: `["verbs", "<topic>"]`
 
 **Conjugation cards:**
