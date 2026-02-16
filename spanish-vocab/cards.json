@@ -697,7 +697,11 @@
   },
   "el lavabo": {
     "back": "sink\n\n> Bathroom sink; use 'el fregadero' for kitchen sink",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:26:08.276Z",
       "stability": 15.69105,
@@ -709,11 +713,18 @@
       "state": 2,
       "last_review": "2026-02-04T04:26:08.276Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:01:13.622Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:01:13.622Z"
+    },
+    "suspended": false,
     "front": "el lavabo\n\n*Me lavo las manos en el lavabo*"
   },
   "el espejo": {
@@ -749,7 +760,11 @@
   },
   "la toalla": {
     "back": "towel",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:00:41.741Z",
       "stability": 15.69105,
@@ -762,10 +777,7 @@
       "last_review": "2026-02-15T19:00:41.741Z"
     },
     "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "suspended": true,
     "front": "la toalla\n\n*Me seco con la toalla*"
   },
   "el jabón": {
@@ -794,7 +806,11 @@
   },
   "la escoba": {
     "back": "broom",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:54:02.305Z",
       "stability": 15.69105,
@@ -806,16 +822,27 @@
       "state": 2,
       "last_review": "2026-02-15T18:54:02.305Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-02-16T02:11:31.314Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T02:01:31.314Z"
+    },
+    "suspended": false,
     "front": "la escoba\n\n*Barro el piso con la escoba*"
   },
   "la aspiradora": {
     "back": "vacuum",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-28T00:59:07.036Z",
       "stability": 15.69105,
@@ -827,16 +854,27 @@
       "state": 2,
       "last_review": "2026-02-12T00:59:07.036Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:01:36.607Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:01:36.607Z"
+    },
+    "suspended": false,
     "front": "la aspiradora\n\n*Limpio la alfombra con la aspiradora*"
   },
   "el trapeador": {
     "back": "mop",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:28:53.256Z",
       "stability": 15.69105,
@@ -848,16 +886,27 @@
       "state": 2,
       "last_review": "2026-02-04T04:28:53.256Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-02-16T02:11:46.035Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T02:01:46.035Z"
+    },
+    "suspended": false,
     "front": "el trapeador\n\n*Limpio el piso con el trapeador*"
   },
   "la ventana": {
     "back": "window",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:00:44.456Z",
       "stability": 15.69105,
@@ -869,16 +918,27 @@
       "state": 2,
       "last_review": "2026-02-15T19:00:44.456Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:01:48.538Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:01:48.538Z"
+    },
+    "suspended": false,
     "front": "la ventana\n\n*Abro la ventana para ventilar*"
   },
   "el interruptor": {
     "back": "light switch",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:25:48.970Z",
       "stability": 15.69105,
@@ -890,11 +950,18 @@
       "state": 2,
       "last_review": "2026-02-04T04:25:48.970Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:01:52.339Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:01:52.339Z"
+    },
+    "suspended": false,
     "front": "el interruptor\n\n*Apago el interruptor antes de dormir*"
   },
   "el enchufe": {
@@ -1646,13 +1713,25 @@
   },
   "estar (ellos/ellas/ustedes, presente)": {
     "back": "están",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T02:01:26.111Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:01:26.111Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "estar (yo, pretérito)": {
     "back": "estuve",
