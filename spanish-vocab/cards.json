@@ -480,15 +480,15 @@
       "last_review": "2026-02-04T04:29:01.552Z"
     },
     "reverseState": {
-      "due": "2026-02-16T15:24:14.912Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-02-17T15:20:03.958Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T15:19:14.912Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:20:03.958Z"
     },
     "suspended": false,
     "front": "la almohada\n\n*La almohada es muy suave*"
@@ -1653,15 +1653,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-16T15:23:51.566Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-02-18T15:19:55.335Z",
+      "stability": 0.47593668,
+      "difficulty": 7.75078176,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T15:18:51.566Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:55.335Z"
     },
     "reverseState": null,
     "suspended": false
@@ -7606,15 +7606,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-16T15:23:32.548Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
-      "elapsed_days": 1,
+      "due": "2026-02-16T15:24:50.993Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-16T15:18:32.548Z"
+      "last_review": "2026-02-16T15:19:50.993Z"
     },
     "reverseState": null,
     "suspended": false,
