@@ -1295,7 +1295,12 @@
   },
   "planchar": {
     "back": "to iron",
+    "tags": [
+      "verbs",
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:00:56.611Z",
       "stability": 15.69105,
@@ -1307,12 +1312,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:00:56.611Z"
     },
-    "reverseState": null,
-    "tags": [
-      "verbs",
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:02:56.425Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:02:56.425Z"
+    },
+    "suspended": false,
     "front": "planchar\n\n*Plancho mi ropa antes de salir*"
   },
   "doblar": {
@@ -1780,13 +1791,25 @@
   },
   "estar (yo, pretérito)": {
     "back": "estuve",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T02:02:53.938Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:02:53.938Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "estar (tú, pretérito)": {
     "back": "estuviste",
@@ -7038,23 +7061,24 @@
   },
   "amargo": {
     "back": "bitter",
-    "created": "2026-02-13T00:00:00Z",
-    "state": {
-      "due": "2026-02-15T19:24:17.711Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-15T19:23:17.711Z"
-    },
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-18T02:02:58.646Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:02:58.646Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "amargo\n\n*El café sin azúcar es amargo*"
   },
   "ácido": {
@@ -7543,23 +7567,24 @@
   },
   "ansioso": {
     "back": "anxious",
-    "created": "2026-02-13T00:00:00Z",
-    "state": {
-      "due": "2026-02-15T19:24:22.566Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-15T19:23:22.566Z"
-    },
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-18T02:03:04.265Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:03:04.265Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "ansioso\n\n*Me siento ansioso por la entrevista*"
   },
   "preocupado": {
@@ -7636,15 +7661,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T21:32:11.840Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
+      "due": "2026-02-16T02:08:11.655Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-15T21:31:11.840Z"
+      "last_review": "2026-02-16T02:03:11.655Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -7847,23 +7872,24 @@
   },
   "amado": {
     "back": "loved",
-    "created": "2026-02-13T00:00:00Z",
-    "state": {
-      "due": "2026-02-15T19:33:11.291Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-15T19:23:11.291Z"
-    },
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-23T02:03:06.680Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
+      "elapsed_days": 1,
+      "scheduled_days": 7,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:03:06.680Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "amado\n\n*Me siento amado por mi familia*"
   },
   "solitario": {
