@@ -1065,7 +1065,11 @@
   },
   "la plancha": {
     "back": "iron",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:59:38.563Z",
       "stability": 15.69105,
@@ -1077,11 +1081,18 @@
       "state": 2,
       "last_review": "2026-02-15T18:59:38.563Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:02:20.619Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:02:20.619Z"
+    },
+    "suspended": false,
     "front": "la plancha\n\n*Plancho mi camisa con la plancha*"
   },
   "el cesto de ropa": {
@@ -1141,7 +1152,11 @@
   },
   "el tendedero": {
     "back": "clothesline",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:26:26.806Z",
       "stability": 15.69105,
@@ -1153,16 +1168,27 @@
       "state": 2,
       "last_review": "2026-02-04T04:26:26.806Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:02:25.419Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:02:25.419Z"
+    },
+    "suspended": false,
     "front": "el tendedero\n\n*Cuelgo la ropa en el tendedero*"
   },
   "la pinza": {
     "back": "clothespin",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:54:46.820Z",
       "stability": 15.69105,
@@ -1174,11 +1200,18 @@
       "state": 2,
       "last_review": "2026-02-15T18:54:46.820Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-02-16T02:03:31.663Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T02:02:31.663Z"
+    },
+    "suspended": false,
     "front": "la pinza\n\n*Uso pinzas para colgar la ropa*"
   },
   "el gancho": {
@@ -1214,7 +1247,11 @@
   },
   "la percha": {
     "back": "hanger\n\n> Common in Spain",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-16T18:58:59.830Z",
       "stability": 0.28393201,
@@ -1227,10 +1264,7 @@
       "last_review": "2026-02-15T18:58:59.830Z"
     },
     "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "suspended": true,
     "front": "la percha\n\n*Las perchas están en el armario*"
   },
   "lavar": {
