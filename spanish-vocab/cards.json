@@ -7606,15 +7606,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-16T15:25:28.383Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-02-17T15:20:43.759Z",
+      "stability": 0.07127533,
+      "difficulty": 9.05423157,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 4,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T15:20:28.383Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:20:43.759Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -7661,15 +7661,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-16T15:25:14.534Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-02-17T15:20:40.528Z",
+      "stability": 0.07127533,
+      "difficulty": 9.05423157,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 4,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T15:20:14.534Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:20:40.528Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -7742,23 +7742,24 @@
   },
   "agotado": {
     "back": "exhausted",
-    "created": "2026-02-13T00:00:00Z",
-    "state": {
-      "due": "2026-02-16T19:23:35.663Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-15T19:23:35.663Z"
-    },
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-18T15:20:51.096Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T15:20:51.096Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "agotado\n\n*Estoy completamente agotado*"
   },
   "relajado": {
