@@ -215,7 +215,11 @@
   },
   "el vaso": {
     "back": "glass\n\n*Bebo agua en un vaso*",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:28:55.958Z",
       "stability": 15.69105,
@@ -227,15 +231,26 @@
       "state": 2,
       "last_review": "2026-02-04T04:28:55.958Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true
+    "reverseState": {
+      "due": "2026-03-04T01:40:14.483Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:40:14.483Z"
+    },
+    "suspended": false
   },
   "la taza": {
     "back": "cup\n\n*Tomo café en una taza*",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:00:33.994Z",
       "stability": 15.69105,
@@ -247,11 +262,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:00:33.994Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true
+    "reverseState": {
+      "due": "2026-03-04T01:40:17.161Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:40:17.161Z"
+    },
+    "suspended": false
   },
   "la olla": {
     "back": "pot\n\n*Cocino la sopa en una olla grande*",
