@@ -40,7 +40,11 @@
   },
   "la estufa": {
     "back": "stove\n\n*Cocino en la estufa todos los días*",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:54:28.984Z",
       "stability": 15.69105,
@@ -52,11 +56,18 @@
       "state": 2,
       "last_review": "2026-02-15T18:54:28.984Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true
+    "reverseState": {
+      "due": "2026-02-16T01:40:49.882Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T01:39:49.882Z"
+    },
+    "suspended": false
   },
   "el horno": {
     "back": "oven\n\n*Horneo pan en el horno*",
@@ -1202,73 +1213,157 @@
   },
   "ser (nosotros/nosotras, presente)": {
     "back": "somos",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-16T01:40:10.271Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T01:39:10.271Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (ellos/ellas/ustedes, presente)": {
     "back": "son",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:13.823Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:13.823Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (yo, pretérito)": {
     "back": "fui",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:16.562Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:16.562Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (tú, pretérito)": {
     "back": "fuiste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:17.819Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:17.819Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (él/ella/usted, pretérito)": {
     "back": "fue",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:23.092Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:23.092Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (nosotros/nosotras, pretérito)": {
     "back": "fuimos",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-16T01:40:27.136Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T01:39:27.136Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ser (ellos/ellas/ustedes, pretérito)": {
     "back": "fueron",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-16T01:40:32.235Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T01:39:32.235Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "estar": {
     "back": "to be\n\n*Estoy en la casa ahora*",
@@ -1284,23 +1379,47 @@
   },
   "estar (yo, presente)": {
     "back": "estoy",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:39.289Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:39.289Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "estar (tú, presente)": {
     "back": "estás",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-04T01:39:40.915Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:39:40.915Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "estar (él/ella/usted, presente)": {
     "back": "está",
