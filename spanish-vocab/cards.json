@@ -60,15 +60,15 @@
       "last_review": "2026-02-15T18:54:28.984Z"
     },
     "reverseState": {
-      "due": "2026-02-16T01:40:49.882Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-18T15:19:05.768Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T01:39:49.882Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:05.768Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
@@ -480,15 +480,15 @@
       "last_review": "2026-02-04T04:29:01.552Z"
     },
     "reverseState": {
-      "due": "2026-02-16T02:01:43.759Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-16T15:24:14.912Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-16T02:00:43.759Z"
+      "last_review": "2026-02-16T15:19:14.912Z"
     },
     "suspended": false,
     "front": "la almohada\n\n*La almohada es muy suave*"
@@ -823,15 +823,15 @@
       "last_review": "2026-02-15T18:54:02.305Z"
     },
     "reverseState": {
-      "due": "2026-02-16T02:11:31.314Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-23T15:19:34.035Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T02:01:31.314Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:34.035Z"
     },
     "suspended": false,
     "front": "la escoba\n\n*Barro el piso con la escoba*"
@@ -887,15 +887,15 @@
       "last_review": "2026-02-04T04:28:53.256Z"
     },
     "reverseState": {
-      "due": "2026-02-16T02:11:46.035Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-23T15:19:39.387Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T02:01:46.035Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:39.387Z"
     },
     "suspended": false,
     "front": "el trapeador\n\n*Limpio el piso con el trapeador*"
@@ -1201,15 +1201,15 @@
       "last_review": "2026-02-15T18:54:46.820Z"
     },
     "reverseState": {
-      "due": "2026-02-16T02:03:31.663Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-18T15:19:18.730Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T02:02:31.663Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:18.730Z"
     },
     "suspended": false,
     "front": "la pinza\n\n*Uso pinzas para colgar la ropa*"
@@ -1675,15 +1675,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-16T01:40:32.235Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-18T15:19:01.647Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T01:39:32.235Z"
+      "state": 2,
+      "last_review": "2026-02-16T15:19:01.647Z"
     },
     "reverseState": null,
     "suspended": false
@@ -7661,15 +7661,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-16T02:08:11.655Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
-      "elapsed_days": 1,
+      "due": "2026-02-16T15:24:24.417Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-16T02:03:11.655Z"
+      "last_review": "2026-02-16T15:19:24.417Z"
     },
     "reverseState": null,
     "suspended": false,
