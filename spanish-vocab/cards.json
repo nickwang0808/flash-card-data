@@ -289,7 +289,11 @@
   },
   "la olla": {
     "back": "pot",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:54:34.950Z",
       "stability": 15.69105,
@@ -301,16 +305,27 @@
       "state": 2,
       "last_review": "2026-02-15T18:54:34.950Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T01:59:53.282Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T01:59:53.282Z"
+    },
+    "suspended": false,
     "front": "la olla\n\n*Cocino la sopa en una olla grande*"
   },
   "la sartén": {
     "back": "pan",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T18:59:54.696Z",
       "stability": 15.69105,
@@ -322,16 +337,27 @@
       "state": 2,
       "last_review": "2026-02-15T18:59:54.696Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:00:02.368Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:00:02.368Z"
+    },
+    "suspended": false,
     "front": "la sartén\n\n*Frio los huevos en la sartén*"
   },
   "la sala": {
     "back": "living room",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-22T19:23:26.672Z",
       "stability": 7.48750228,
@@ -343,11 +369,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:23:26.672Z"
     },
-    "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-03-04T02:00:05.074Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-16T02:00:05.074Z"
+    },
+    "suspended": false,
     "front": "la sala\n\n*Veo televisión en la sala*"
   },
   "la silla": {
@@ -376,7 +409,11 @@
   },
   "el televisor": {
     "back": "television\n\n> Refers specifically to the TV set/device",
+    "tags": [
+      "household-items"
+    ],
     "created": "2026-02-03T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-20T04:26:24.208Z",
       "stability": 15.69105,
@@ -389,10 +426,7 @@
       "last_review": "2026-02-04T04:26:24.208Z"
     },
     "reverseState": null,
-    "tags": [
-      "household-items"
-    ],
-    "reversible": true,
+    "suspended": true,
     "front": "el televisor\n\n*El televisor está en la sala*"
   },
   "la cama": {
