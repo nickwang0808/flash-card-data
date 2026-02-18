@@ -2512,13 +2512,25 @@
   },
   "hacer (yo, presente)": {
     "back": "hago",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-18T00:36:54.458Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-18T00:31:54.458Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hacer (yo, pretérito)": {
     "back": "hice",
