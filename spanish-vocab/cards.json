@@ -480,15 +480,15 @@
       "last_review": "2026-02-04T04:29:01.552Z"
     },
     "reverseState": {
-      "due": "2026-02-17T15:20:03.958Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-02-20T00:32:56.396Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T15:20:03.958Z"
+      "last_review": "2026-02-18T00:32:56.396Z"
     },
     "suspended": false,
     "front": "la almohada\n\n*La almohada es muy suave*"
@@ -8087,15 +8087,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T15:20:43.759Z",
-      "stability": 0.07127533,
-      "difficulty": 9.05423157,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-16T15:20:43.759Z"
+      "due": "2026-02-18T00:38:09.386Z",
+      "stability": 0.05062991,
+      "difficulty": 9.3329363,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-02-18T00:33:09.386Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -8142,15 +8142,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T15:20:40.528Z",
-      "stability": 0.07127533,
-      "difficulty": 9.05423157,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-16T15:20:40.528Z"
+      "due": "2026-02-18T00:38:02.388Z",
+      "stability": 0.05062991,
+      "difficulty": 9.3329363,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-02-18T00:33:02.388Z"
     },
     "reverseState": null,
     "suspended": false,
