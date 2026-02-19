@@ -2789,53 +2789,83 @@
   },
   "tener (tú, presente)": {
     "back": "tienes",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "tener (él/ella/usted, presente)": {
     "back": "tiene",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "tener (ellos/ellas/ustedes, presente)": {
     "back": "tienen",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "tener (yo, pretérito)": {
     "back": "tuve",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-20T01:58:40.589Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-19T01:58:40.589Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "tener (tú, pretérito)": {
     "back": "tuviste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-20T01:58:44.768Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-19T01:58:44.768Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "tener (él/ella/usted, pretérito)": {
     "back": "tuvo",
