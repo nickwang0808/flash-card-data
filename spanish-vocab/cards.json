@@ -8680,15 +8680,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-20T03:25:34.235Z",
-      "stability": 0.01270961,
-      "difficulty": 9.71793995,
+      "due": "2026-02-21T03:21:35.033Z",
+      "stability": 0.01407771,
+      "difficulty": 9.7490354,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 10,
+      "scheduled_days": 1,
+      "reps": 12,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-02-20T03:20:34.235Z"
+      "state": 2,
+      "last_review": "2026-02-20T03:21:35.033Z"
     },
     "reverseState": null,
     "suspended": false,
