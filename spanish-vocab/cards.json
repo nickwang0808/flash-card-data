@@ -3709,13 +3709,25 @@
   },
   "decir (presente continuo)": {
     "back": "diciendo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-21T03:15:22.787Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:15:22.787Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "saber": {
     "back": "to know",
@@ -3732,13 +3744,25 @@
   },
   "saber (yo, presente)": {
     "back": "sé",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-21T03:15:28.106Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:15:28.106Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "saber (yo, pretérito)": {
     "back": "supe",
