@@ -571,33 +571,34 @@
   },
   "el armario": {
     "back": "closet",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T03:13:40.594Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:13:40.594Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:13:42.919Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:13:42.919Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-07-20T03:19:09.326Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:19:09.326Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:19:12.772Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:19:12.772Z"
+    },
+    "suspended": false,
     "front": "el armario\n\n*Guardo mi ropa en el armario*"
   },
   "la ducha": {
@@ -1341,34 +1342,35 @@
   },
   "colgar": {
     "back": "to hang\n\n> Stem-changing verb: o→ue in present tense",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T01:47:24.246Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T01:47:24.246Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T01:47:36.442Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T01:47:36.442Z"
-    },
     "tags": [
       "verbs",
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-07-20T03:18:53.863Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:18:53.863Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:19:00.171Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:19:00.171Z"
+    },
+    "suspended": false,
     "front": "colgar\n\n*Cuelgo mi ropa en el armario*"
   },
   "colgar (yo, presente)": {
@@ -2521,15 +2523,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-20T00:35:07.822Z",
-      "stability": 1.66658995,
-      "difficulty": 6.47329177,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-02-26T03:18:50.050Z",
+      "stability": 5.87044905,
+      "difficulty": 6.45834734,
+      "elapsed_days": 2,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-18T00:35:07.822Z"
+      "last_review": "2026-02-20T03:18:50.050Z"
     },
     "reverseState": null,
     "suspended": false
@@ -2543,15 +2545,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-20T00:34:28.276Z",
-      "stability": 0.94991933,
-      "difficulty": 6.72355574,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-02-25T03:18:45.026Z",
+      "stability": 4.85428674,
+      "difficulty": 6.70746009,
+      "elapsed_days": 2,
+      "scheduled_days": 5,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-18T00:34:28.276Z"
+      "last_review": "2026-02-20T03:18:45.026Z"
     },
     "reverseState": null,
     "suspended": false
