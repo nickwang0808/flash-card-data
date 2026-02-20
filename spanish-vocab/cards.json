@@ -75,33 +75,34 @@
   },
   "el horno": {
     "back": "oven",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T04:02:59.598Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:02:59.598Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T04:03:04.838Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:03:04.838Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-07-20T03:28:42.776Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:42.776Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:28:45.215Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:45.215Z"
+    },
+    "suspended": false,
     "front": "el horno\n\n*Horneo pan en el horno*"
   },
   "el microondas": {
@@ -668,33 +669,34 @@
   },
   "el inodoro": {
     "back": "toilet",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T04:03:09.148Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:03:09.148Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T04:03:11.533Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:03:11.533Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-07-20T03:28:52.247Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:52.247Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:28:53.557Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:53.557Z"
+    },
+    "suspended": false,
     "front": "el inodoro\n\n*El inodoro está limpio*"
   },
   "el lavabo": {
@@ -943,15 +945,15 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-20T04:25:48.970Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-07-20T03:28:57.534Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-04T04:25:48.970Z"
+      "last_review": "2026-02-20T03:28:57.534Z"
     },
     "reverseState": {
       "due": "2026-03-04T02:01:52.339Z",
@@ -1220,33 +1222,34 @@
   },
   "el gancho": {
     "back": "hanger\n\n> Common in Latin America",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T04:02:51.610Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:02:51.610Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T04:02:55.145Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T04:02:55.145Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T03:28:36.457Z",
+      "stability": 60.70827924,
+      "difficulty": 3.22450159,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:36.457Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:28:38.752Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:28:38.752Z"
+    },
+    "suspended": false,
     "front": "el gancho\n\n*Cuelgo mi camisa en un gancho*"
   },
   "la percha": {
