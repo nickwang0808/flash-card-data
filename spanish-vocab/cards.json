@@ -730,33 +730,34 @@
   },
   "el espejo": {
     "back": "mirror",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T03:28:08.137Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:28:08.137Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:28:09.782Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:28:09.782Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-07-20T03:22:02.738Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:22:02.738Z"
+    },
+    "reverseState": {
+      "due": "2026-07-20T03:22:05.043Z",
+      "stability": 150.28356197,
+      "difficulty": 2.13012146,
+      "elapsed_days": 16,
+      "scheduled_days": 150,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:22:05.043Z"
+    },
+    "suspended": false,
     "front": "el espejo\n\n*Me miro en el espejo*"
   },
   "la toalla": {
@@ -967,33 +968,34 @@
   },
   "el enchufe": {
     "back": "electrical outlet",
-    "created": "2026-02-03T00:00:00Z",
-    "state": {
-      "due": "2026-02-20T03:27:47.007Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:27:47.007Z"
-    },
-    "reverseState": {
-      "due": "2026-02-20T03:28:05.678Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-04T03:28:05.678Z"
-    },
     "tags": [
       "household-items"
     ],
+    "created": "2026-02-03T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T03:21:49.895Z",
+      "stability": 60.70827924,
+      "difficulty": 3.22450159,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:21:49.895Z"
+    },
+    "reverseState": {
+      "due": "2026-04-22T03:21:53.699Z",
+      "stability": 60.70827924,
+      "difficulty": 3.22450159,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:21:53.699Z"
+    },
+    "suspended": false,
     "front": "el enchufe\n\n*Conecto el teléfono al enchufe*"
   },
   "la lavadora": {
