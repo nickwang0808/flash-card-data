@@ -480,15 +480,15 @@
       "last_review": "2026-02-04T04:29:01.552Z"
     },
     "reverseState": {
-      "due": "2026-02-20T00:32:56.396Z",
-      "stability": 2.4769328,
-      "difficulty": 8.03820349,
+      "due": "2026-03-03T03:18:11.645Z",
+      "stability": 10.63737574,
+      "difficulty": 7.69919062,
       "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 4,
+      "scheduled_days": 11,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-18T00:32:56.396Z"
+      "last_review": "2026-02-20T03:18:11.645Z"
     },
     "suspended": false,
     "front": "la almohada\n\n*La almohada es muy suave*"
@@ -2398,15 +2398,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-19T00:34:15.887Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-02T03:17:51.008Z",
+      "stability": 10.44927811,
+      "difficulty": 6.70242594,
+      "elapsed_days": 2,
+      "scheduled_days": 10,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-18T00:34:15.887Z"
+      "last_review": "2026-02-20T03:17:51.008Z"
     },
     "reverseState": null,
     "suspended": false
@@ -8623,15 +8623,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-19T00:36:04.295Z",
-      "stability": 0.07127533,
-      "difficulty": 9.3048375,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-02-18T00:36:04.295Z"
+      "due": "2026-02-20T03:22:57.647Z",
+      "stability": 0.05062991,
+      "difficulty": 9.50143358,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-02-20T03:17:57.647Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -8678,15 +8678,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-19T00:36:54.886Z",
-      "stability": 0.03571097,
-      "difficulty": 9.49136529,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 8,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-02-18T00:36:54.886Z"
+      "due": "2026-02-20T03:23:06.142Z",
+      "stability": 0.02536703,
+      "difficulty": 9.62684732,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 9,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-02-20T03:18:06.142Z"
     },
     "reverseState": null,
     "suspended": false,
