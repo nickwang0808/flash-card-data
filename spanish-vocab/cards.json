@@ -3366,13 +3366,25 @@
   },
   "poder (presente continuo)": {
     "back": "pudiendo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-08T03:13:51.359Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-20T03:13:51.359Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "decir": {
     "back": "to say/tell",
