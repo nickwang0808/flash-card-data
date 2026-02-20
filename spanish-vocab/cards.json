@@ -9822,15 +9822,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-20T00:33:59.545Z",
-      "stability": 2.07238521,
-      "difficulty": 8.82114135,
+      "due": "2026-02-20T03:23:29.030Z",
+      "stability": 0.74987397,
+      "difficulty": 9.17621587,
       "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 6,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-18T00:33:59.545Z"
+      "scheduled_days": 0,
+      "reps": 7,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-02-20T03:18:29.030Z"
     },
     "reverseState": null,
     "suspended": false,
