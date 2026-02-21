@@ -10476,15 +10476,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-04-22T20:42:07.455Z",
-      "stability": 60,
-      "difficulty": 4,
+      "due": "2026-03-09T20:42:10.447Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
       "elapsed_days": 0,
-      "scheduled_days": 60,
+      "scheduled_days": 16,
       "reps": 1,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-21T20:42:07.455Z"
+      "last_review": "2026-02-21T20:42:10.447Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -10492,50 +10492,94 @@
   },
   "exprimir": {
     "back": "to squeeze",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:42:19.486Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:42:19.486Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "exprimir\n\n*Exprimo limones para hacer limonada*"
   },
   "revolver": {
     "back": "to stir",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:42:22.971Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:42:22.971Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "revolver\n\n*Revuelvo la salsa constantemente*"
   },
   "sazonar": {
     "back": "to season",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:42:25.893Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:42:25.893Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "sazonar\n\n*Sazono la carne con sal y pimienta*"
   },
   "probar": {
     "back": "to taste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:42:28.851Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:42:28.851Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "probar\n\n*Pruebo la comida antes de servir*"
   },
   "servir": {
