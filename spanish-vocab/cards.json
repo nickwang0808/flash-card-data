@@ -12199,13 +12199,24 @@
   },
   "mojado": {
     "back": "wet",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:49:06.605Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:49:06.605Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "mojado\n\n*Los platos están mojados*"
   },
   "sucio": {
@@ -12256,13 +12267,24 @@
   },
   "contento": {
     "back": "content/pleased",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:50:12.341Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:49:12.341Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "contento\n\n*Estoy contento con mi trabajo*"
   },
   "triste": {
