@@ -9577,23 +9577,47 @@
   },
   "teñir (él/ella/usted, presente)": {
     "back": "tiñe",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:37:35.096Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:37:35.096Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "teñir (ellos/ellas/ustedes, presente)": {
     "back": "tiñen",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:37:44.350Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:37:44.350Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "teñir (él/ella/usted, pretérito)": {
     "back": "tiñó",
