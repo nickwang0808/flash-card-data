@@ -11137,24 +11137,46 @@
   },
   "el delantal": {
     "back": "apron",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:46:36.607Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:46:36.607Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el delantal\n\n*Me pongo el delantal antes de cocinar*"
   },
   "el guante de cocina": {
     "back": "oven mitt",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:46:41.383Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:46:41.383Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el guante de cocina\n\n*Uso el guante para sacar el horno caliente*"
   },
   "la cebolla": {
@@ -11219,24 +11241,46 @@
   },
   "la zanahoria": {
     "back": "carrot",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:46:46.006Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:46:46.006Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la zanahoria\n\n*Las zanahorias son muy saludables*"
   },
   "el pimiento": {
     "back": "pepper/bell pepper",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:46:52.048Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:46:52.048Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el pimiento\n\n*Corto el pimiento en tiras*"
   },
   "el chile": {
@@ -11277,13 +11321,24 @@
   },
   "el perejil": {
     "back": "parsley",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:47:00.807Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:47:00.807Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el perejil\n\n*Decoro el plato con perejil fresco*"
   },
   "el cilantro": {
@@ -11372,13 +11427,24 @@
   },
   "la mantequilla": {
     "back": "butter",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:47:07.348Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:47:07.348Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la mantequilla\n\n*Unto la sartén con mantequilla*"
   },
   "el aceite": {
@@ -11407,13 +11473,24 @@
   },
   "la pimienta": {
     "back": "pepper (spice)",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:47:10.401Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:47:10.401Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la pimienta\n\n*Muelo pimienta negra sobre la ensalada*"
   },
   "el azúcar": {
@@ -11430,35 +11507,58 @@
   },
   "la harina": {
     "back": "flour",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:47:14.601Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:47:14.601Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la harina\n\n*Uso harina para hacer el pan*"
   },
   "la receta": {
     "back": "recipe",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:47:17.188Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:47:17.188Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la receta\n\n*Sigo la receta de mi abuela*"
   },
   "el ingrediente": {
     "back": "ingredient",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true,
     "front": "el ingrediente\n\n*Compro todos los ingredientes frescos*"
   },
   "la porción": {
