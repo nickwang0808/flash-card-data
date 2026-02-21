@@ -60,15 +60,15 @@
       "last_review": "2026-02-15T18:54:28.984Z"
     },
     "reverseState": {
-      "due": "2026-02-22T03:19:49.320Z",
-      "stability": 1.56941389,
-      "difficulty": 7.38413894,
+      "due": "2026-02-22T19:58:23.088Z",
+      "stability": 0.82279937,
+      "difficulty": 8.18710017,
       "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 4,
-      "lapses": 1,
+      "scheduled_days": 1,
+      "reps": 6,
+      "lapses": 2,
       "state": 2,
-      "last_review": "2026-02-20T03:19:49.320Z"
+      "last_review": "2026-02-21T19:58:23.088Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
@@ -3506,15 +3506,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-22T03:19:25.280Z",
-      "stability": 0.94991933,
-      "difficulty": 6.72355574,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-02-28T19:58:03.401Z",
+      "stability": 7.3916037,
+      "difficulty": 6.17824803,
+      "elapsed_days": 1,
+      "scheduled_days": 7,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-20T03:19:25.280Z"
+      "last_review": "2026-02-21T19:58:03.401Z"
     },
     "reverseState": null,
     "suspended": false
@@ -3783,15 +3783,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-22T03:19:42.919Z",
-      "stability": 0.94991933,
-      "difficulty": 6.72355574,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-02-28T19:58:10.367Z",
+      "stability": 7.3916037,
+      "difficulty": 6.17824803,
+      "elapsed_days": 1,
+      "scheduled_days": 7,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-20T03:19:42.919Z"
+      "last_review": "2026-02-21T19:58:10.367Z"
     },
     "reverseState": null,
     "suspended": false
