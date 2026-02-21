@@ -6373,15 +6373,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:17:07.763Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-25T20:51:54.631Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T20:07:07.763Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:51:54.631Z"
     },
     "reverseState": null,
     "suspended": false
