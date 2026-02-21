@@ -7960,63 +7960,135 @@
   },
   "producir (yo, presente)": {
     "back": "produzco",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:17:52.293Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:17:52.293Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "producir (yo, pretérito)": {
     "back": "produje",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:17:55.974Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:17:55.974Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "producir (tú, pretérito)": {
     "back": "produjiste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:17:59.713Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:17:59.713Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "producir (él/ella/usted, pretérito)": {
     "back": "produjo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:18:02.122Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:18:02.122Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "producir (nosotros/nosotras, pretérito)": {
     "back": "produjimos",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:18:04.570Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:18:04.570Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "producir (ellos/ellas/ustedes, pretérito)": {
     "back": "produjeron",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:18:06.130Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:18:06.130Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "construir": {
     "back": "to build",
