@@ -6322,13 +6322,25 @@
   },
   "pedir (él/ella/usted, pretérito)": {
     "back": "pidió",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T20:07:45.980Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:06:45.980Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "pedir (ellos/ellas/ustedes, pretérito)": {
     "back": "pidieron",
