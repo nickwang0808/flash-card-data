@@ -5916,36 +5916,72 @@
   },
   "sentir (tú, presente)": {
     "back": "sientes",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:03:11.620Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:03:11.620Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "sentir (él/ella/usted, presente)": {
     "back": "siente",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-22T20:03:14.356Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:03:14.356Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "sentir (ellos/ellas/ustedes, presente)": {
     "back": "sienten",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-22T20:03:20.837Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:03:20.837Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "sentir (él/ella/usted, pretérito)": {
     "back": "sintió",
