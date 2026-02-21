@@ -4309,14 +4309,26 @@
   },
   "querer (ellos/ellas/ustedes, futuro)": {
     "back": "querrán",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-22T19:46:19.245Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:46:19.245Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "ver": {
     "back": "to see",
