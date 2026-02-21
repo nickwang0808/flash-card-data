@@ -8937,25 +8937,47 @@
   },
   "largo": {
     "back": "long",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:27.028Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:27.028Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "largo\n\n*Mi cabello está muy largo*"
   },
   "limpio": {
     "back": "clean",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:28.750Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:28.750Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "limpio\n\n*La barbería está muy limpia*"
   },
   "afilado": {
@@ -9005,13 +9027,24 @@
   },
   "próximo": {
     "back": "next",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:31.176Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:31.176Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "próximo\n\n*¿Cuándo es tu próximo corte?*"
   },
   "los lados": {
@@ -9040,57 +9073,112 @@
   },
   "el fleco": {
     "back": "bangs",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:34.031Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:34.031Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el fleco\n\n*¿Me haces el fleco?*"
   },
   "el bigote": {
     "back": "mustache",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:36:37.697Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:35:37.697Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el bigote\n\n*Quiero que me recortes el bigote*"
   },
   "la barba": {
     "back": "beard",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:41.943Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:41.943Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la barba\n\n*Quiero que me recortes la barba*"
   },
   "las patillas": {
     "back": "sideburns",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:45:50.245Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:35:50.245Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "las patillas\n\n*Las patillas están muy largas*"
   },
   "el tinte": {
     "back": "hair dye",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:54.540Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:54.540Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el tinte\n\n*Quiero teñirme el cabello*"
   },
   "el secador": {
@@ -9107,13 +9195,24 @@
   },
   "la capa": {
     "back": "cape",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:56.813Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:56.813Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la capa\n\n*Me pone la capa antes de cortar*"
   },
   "la cita": {
@@ -9166,13 +9265,14 @@
   },
   "la tarjeta": {
     "back": "card",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true,
     "front": "la tarjeta\n\n*Pago con tarjeta de crédito*"
   },
   "aceitoso": {
