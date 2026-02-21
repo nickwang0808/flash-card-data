@@ -6177,23 +6177,47 @@
   },
   "dormir (ellos/ellas/ustedes, pretérito)": {
     "back": "durmieron",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:06:10.031Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:06:10.031Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "dormir (presente continuo)": {
     "back": "durmiendo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T20:06:15.255Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:06:15.255Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "pedir": {
     "back": "to ask for/order",
