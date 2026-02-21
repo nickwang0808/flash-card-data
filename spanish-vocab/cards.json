@@ -9311,24 +9311,46 @@
   },
   "rizado": {
     "back": "curly",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:36:03.476Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:36:03.476Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "rizado\n\n*Tengo el cabello rizado*"
   },
   "lacio": {
     "back": "straight",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:36:06.312Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:36:06.312Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "lacio\n\n*Mi cabello es lacio*"
   },
   "grueso": {
