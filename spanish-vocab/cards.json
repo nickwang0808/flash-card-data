@@ -10829,57 +10829,112 @@
   },
   "el rallador": {
     "back": "grater",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:44:03.061Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:03.061Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el rallador\n\n*Rallo el queso con el rallador*"
   },
   "el pelador": {
     "back": "peeler",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:44:05.455Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:05.455Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el pelador\n\n*Pelo las papas con el pelador*"
   },
   "el colador": {
     "back": "strainer/colander",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:44:08.244Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:08.244Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el colador\n\n*Escurro la pasta con el colador*"
   },
   "el abrelatas": {
     "back": "can opener",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:44:15.628Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:15.628Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el abrelatas\n\n*Abro las latas con el abrelatas*"
   },
   "el sacacorchos": {
     "back": "corkscrew",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:44:20.464Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:20.464Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el sacacorchos\n\n*Abro el vino con el sacacorchos*"
   },
   "la espátula": {
