@@ -4569,63 +4569,135 @@
   },
   "venir (yo, presente)": {
     "back": "vengo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T19:54:15.391Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:54:15.391Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (tú, presente)": {
     "back": "vienes",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T19:55:24.085Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T19:54:24.085Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (él/ella/usted, presente)": {
     "back": "viene",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T20:04:29.342Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T19:54:29.342Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (ellos/ellas/ustedes, presente)": {
     "back": "vienen",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T19:54:35.951Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:54:35.951Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (yo, pretérito)": {
     "back": "vine",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T19:55:40.559Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T19:54:40.559Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (tú, pretérito)": {
     "back": "viniste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-09T19:54:43.751Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:54:43.751Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "venir (él/ella/usted, pretérito)": {
     "back": "vino",
