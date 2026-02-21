@@ -10939,101 +10939,200 @@
   },
   "la espátula": {
     "back": "spatula",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:44:49.128Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:49.128Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la espátula\n\n*Volteo las tortitas con la espátula*"
   },
   "el cucharón": {
     "back": "ladle",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:44:56.052Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:44:56.052Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el cucharón\n\n*Sirvo la sopa con el cucharón*"
   },
   "el rodillo": {
     "back": "rolling pin",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:45:00.111Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:45:00.111Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el rodillo\n\n*Extiendo la masa con el rodillo*"
   },
   "las pinzas": {
     "back": "tongs",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:46:09.016Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:45:09.016Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "las pinzas\n\n*Volteo la carne con las pinzas*"
   },
   "el exprimidor": {
     "back": "juicer",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:45:13.507Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:45:13.507Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el exprimidor\n\n*Hago jugo con el exprimidor*"
   },
   "la licuadora": {
     "back": "blender",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:45:18.488Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:45:18.488Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la licuadora\n\n*Hago batidos en la licuadora*"
   },
   "el procesador de alimentos": {
     "back": "food processor",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:45:21.806Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:45:21.806Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el procesador de alimentos\n\n*Pico las verduras en el procesador*"
   },
   "la balanza": {
     "back": "scale",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:46:24.717Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:45:24.717Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la balanza\n\n*Peso los ingredientes con la balanza*"
   },
   "el temporizador": {
     "back": "timer",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:45:29.663Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:45:29.663Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el temporizador\n\n*Pongo el temporizador para 20 minutos*"
   },
   "el delantal": {
