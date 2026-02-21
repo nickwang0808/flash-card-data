@@ -4774,15 +4774,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:00:07.394Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-23T20:04:31.935Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T19:59:07.394Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:04:31.935Z"
     },
     "reverseState": null,
     "suspended": false
@@ -4941,15 +4941,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:00:43.237Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-23T20:04:40.346Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T19:59:43.237Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:04:40.346Z"
     },
     "reverseState": null,
     "suspended": false
@@ -5341,15 +5341,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:01:40.074Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-23T20:04:48.610Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T20:00:40.074Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:04:48.610Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6155,13 +6155,25 @@
   },
   "dormir (él/ella/usted, pretérito)": {
     "back": "durmió",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T20:05:22.541Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:04:22.541Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "dormir (ellos/ellas/ustedes, pretérito)": {
     "back": "durmieron",
