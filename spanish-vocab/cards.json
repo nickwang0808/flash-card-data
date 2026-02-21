@@ -4033,25 +4033,49 @@
   },
   "querer (tú, presente)": {
     "back": "quieres",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-22T19:45:21.731Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:45:21.731Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "querer (él/ella/usted, presente)": {
     "back": "quiere",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations",
       "emotions"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-22T19:45:27.516Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T19:45:27.516Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "querer (ellos/ellas/ustedes, presente)": {
     "back": "quieren",
