@@ -11955,68 +11955,134 @@
   },
   "la esponja": {
     "back": "sponge",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:48:15.956Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:15.956Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la esponja\n\n*Lavo los platos con la esponja*"
   },
   "el estropajo": {
     "back": "scouring pad",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:22.495Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:22.495Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
   },
   "el cepillo": {
     "back": "brush",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:28.047Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:28.047Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
   },
   "el trapo": {
     "back": "dish towel/cloth",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-02-21T20:49:32.715Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:48:32.715Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el trapo\n\n*Seco los platos con el trapo*"
   },
   "el paño de cocina": {
     "back": "kitchen towel",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:39.313Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:39.313Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el paño de cocina\n\n*Limpio el mostrador con el paño*"
   },
   "el lavavajillas": {
     "back": "dishwasher",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:47.466Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:47.466Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el lavavajillas\n\n*Pongo los platos en el lavavajillas*"
   },
   "el jabón para platos": {
@@ -12045,46 +12111,90 @@
   },
   "el escurridor": {
     "back": "dish rack",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:53.318Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:53.318Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el escurridor\n\n*Pongo los platos en el escurridor*"
   },
   "el escurreplatos": {
     "back": "dish drainer",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:48:57.672Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:48:57.672Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el escurreplatos\n\n*Los vasos se secan en el escurreplatos*"
   },
   "la grasa": {
     "back": "grease",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:49:00.872Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:49:00.872Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la grasa\n\n*Esta sartén tiene mucha grasa*"
   },
   "la suciedad": {
     "back": "dirt/grime",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:49:03.546Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:49:03.546Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la suciedad\n\n*Quito la suciedad con agua caliente*"
   },
   "mojado": {
