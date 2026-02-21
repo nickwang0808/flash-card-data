@@ -6329,15 +6329,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:07:45.980Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-21T20:54:37.303Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-21T20:06:45.980Z"
+      "last_review": "2026-02-21T20:49:37.303Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6408,15 +6408,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:08:18.739Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-21T20:54:47.020Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-21T20:07:18.739Z"
+      "last_review": "2026-02-21T20:49:47.020Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6575,15 +6575,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:09:11.821Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-22T20:49:51.479Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T20:08:11.821Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:49:51.479Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6865,15 +6865,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:10:09.110Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-22T20:49:58.093Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-21T20:09:09.110Z"
+      "state": 2,
+      "last_review": "2026-02-21T20:49:58.093Z"
     },
     "reverseState": null,
     "suspended": false
