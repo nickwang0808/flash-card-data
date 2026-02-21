@@ -8656,13 +8656,24 @@
   },
   "el peluquero": {
     "back": "hairdresser",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:34:55.192Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:34:55.192Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el peluquero\n\n*El peluquero tiene muchos clientes*"
   },
   "el cabello": {
@@ -8679,79 +8690,156 @@
   },
   "el corte": {
     "back": "haircut",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:34:58.114Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:34:58.114Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el corte\n\n*¿Cuánto cuesta un corte de cabello?*"
   },
   "las tijeras": {
     "back": "scissors",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:03.453Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:03.453Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "las tijeras\n\n*El barbero usa las tijeras afiladas*"
   },
   "la navaja": {
     "back": "razor",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:06.242Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:06.242Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la navaja\n\n*Usa la navaja con cuidado para no cortarte*"
   },
   "la máquina": {
     "back": "clippers",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:10.730Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:10.730Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la máquina\n\n*Prefiero la máquina para los lados*"
   },
   "el peine": {
     "back": "comb",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:14.519Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:14.519Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el peine\n\n*El peluquero usa el peine para peinar*"
   },
   "la brocha": {
     "back": "brush",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:17.331Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:17.331Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la brocha\n\n*La brocha de barbero tiene pelos suaves*"
   },
   "la espuma de afeitar": {
     "back": "shaving cream",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:21.057Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:21.057Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la espuma de afeitar\n\n*La espuma de afeitar huele bien*"
   },
   "la loción": {
@@ -8768,27 +8856,49 @@
   },
   "cortar": {
     "back": "to cut",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "barber-shop",
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:23.061Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:23.061Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "cortar\n\n*El barbero me corta el cabello cada mes*"
   },
   "peinar": {
     "back": "to comb",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "barber-shop"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-22T20:35:25.008Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:35:25.008Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "peinar\n\n*El peluquero peina mi cabello después del corte*"
   },
   "afeitar": {
