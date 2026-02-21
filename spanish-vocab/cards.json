@@ -10807,13 +10807,24 @@
   },
   "el batidor": {
     "back": "whisk",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "cooking"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-09T20:43:21.559Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-21T20:43:21.559Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el batidor\n\n*Uso el batidor para mezclar los huevos*"
   },
   "el rallador": {
