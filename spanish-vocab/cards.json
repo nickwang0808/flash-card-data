@@ -7468,13 +7468,25 @@
   },
   "cerrar (ellos/ellas/ustedes, presente)": {
     "back": "cierran",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "irregular-verbs",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-21T20:22:00.800Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-21T20:12:00.800Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "preferir": {
     "back": "to prefer",
