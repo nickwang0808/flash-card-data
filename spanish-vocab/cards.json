@@ -9742,15 +9742,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-21T20:59:39.596Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-02-21T21:03:40.705Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-21T20:54:39.596Z"
+      "last_review": "2026-02-21T20:58:40.705Z"
     },
     "reverseState": null,
     "suspended": false
