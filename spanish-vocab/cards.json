@@ -8672,7 +8672,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:34:55.192Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T00:50:24.252Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-26T00:50:24.252Z"
+    },
     "suspended": false,
     "front": "el peluquero\n\n*El peluquero tiene muchos clientes*"
   },
@@ -8706,7 +8716,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:34:58.114Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-27T00:50:27.661Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-02-26T00:50:27.661Z"
+    },
     "suspended": false,
     "front": "el corte\n\n*¿Cuánto cuesta un corte de cabello?*"
   },
