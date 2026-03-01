@@ -9973,15 +9973,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-22T20:54:30.208Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-21T20:54:30.208Z"
+      "due": "2026-03-01T17:26:09.005Z",
+      "stability": 0.40255,
+      "difficulty": 8.07051715,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-01T17:21:09.005Z"
     },
     "reverseState": null,
     "suspended": false
