@@ -60,15 +60,15 @@
       "last_review": "2026-02-15T18:54:28.984Z"
     },
     "reverseState": {
-      "due": "2026-02-22T19:58:23.088Z",
-      "stability": 0.82279937,
-      "difficulty": 8.18710017,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 6,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-02-21T19:58:23.088Z"
+      "due": "2026-03-01T17:23:21.925Z",
+      "stability": 0.58446952,
+      "difficulty": 8.74991224,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 7,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-01T17:18:21.925Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
@@ -361,15 +361,15 @@
     "created": "2026-02-03T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-22T19:23:26.672Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-06-15T17:17:49.653Z",
+      "stability": 106.48623602,
+      "difficulty": 3.61848086,
+      "elapsed_days": 14,
+      "scheduled_days": 106,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-15T19:23:26.672Z"
+      "last_review": "2026-03-01T17:17:49.653Z"
     },
     "reverseState": {
       "due": "2026-03-04T02:00:05.074Z",
@@ -9495,15 +9495,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-22T19:23:30.929Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-06-15T17:18:01.860Z",
+      "stability": 106.48623602,
+      "difficulty": 3.61848086,
+      "elapsed_days": 14,
+      "scheduled_days": 106,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-15T19:23:30.929Z"
+      "last_review": "2026-03-01T17:18:01.860Z"
     },
     "reverseState": {
       "due": "2026-04-30T17:14:01.984Z",
@@ -12839,15 +12839,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-22T19:56:53.163Z",
-      "stability": 0.07127533,
-      "difficulty": 9.58481056,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 11,
+      "due": "2026-03-03T17:18:07.044Z",
+      "stability": 0.90128303,
+      "difficulty": 9.55555314,
+      "elapsed_days": 8,
+      "scheduled_days": 2,
+      "reps": 12,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-02-21T19:56:53.163Z"
+      "last_review": "2026-03-01T17:18:07.044Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -12943,23 +12943,24 @@
   },
   "aburrido": {
     "back": "bored",
-    "created": "2026-02-13T00:00:00Z",
-    "state": {
-      "due": "2026-02-22T19:23:28.927Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-15T19:23:28.927Z"
-    },
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-04-11T17:17:57.514Z",
+      "stability": 40.59966154,
+      "difficulty": 4.50506778,
+      "elapsed_days": 14,
+      "scheduled_days": 41,
+      "reps": 3,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:17:57.514Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "aburrido\n\n*Estoy aburrido en casa*"
   },
   "cansado": {
@@ -14038,15 +14039,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-22T19:57:00.370Z",
-      "stability": 0.63208193,
-      "difficulty": 9.36815442,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 10,
+      "due": "2026-03-05T17:18:12.962Z",
+      "stability": 4.01225666,
+      "difficulty": 9.33989362,
+      "elapsed_days": 8,
+      "scheduled_days": 4,
+      "reps": 11,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-02-21T19:57:00.370Z"
+      "last_review": "2026-03-01T17:18:12.962Z"
     },
     "reverseState": null,
     "suspended": false,
