@@ -9626,7 +9626,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:36:53.918Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-01T17:15:39.936Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-01T17:14:39.936Z"
+    },
     "suspended": false,
     "front": "fino\n\n*Mi cabello es muy fino*"
   },
@@ -9648,7 +9658,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:03.309Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-01T17:15:45.107Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-01T17:14:45.107Z"
+    },
     "suspended": false,
     "front": "canoso\n\n*Tengo canas en el cabello*"
   },
@@ -9670,7 +9690,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:08.463Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T17:14:51.132Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:51.132Z"
+    },
     "suspended": false,
     "front": "rubio\n\n*Mi cabello es rubio*"
   },
@@ -9692,7 +9722,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:10.769Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:14:56.239Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:56.239Z"
+    },
     "suspended": false,
     "front": "moreno\n\n*Tengo el cabello moreno*"
   },
@@ -9714,7 +9754,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:14.365Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:05.443Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:05.443Z"
+    },
     "suspended": false,
     "front": "pelirrojo\n\n*Ella es pelirroja*"
   },
@@ -9737,7 +9787,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:17.388Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T17:15:11.247Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:11.247Z"
+    },
     "suspended": false,
     "front": "recortar\n\n*Me recorta las puntas cada mes*"
   },
@@ -9760,7 +9820,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:37:21.050Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:15.408Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:15.408Z"
+    },
     "suspended": false,
     "front": "teñir\n\n*Quiero teñirme el cabello de negro*"
   },
@@ -10115,7 +10185,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:39:23.406Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:18.877Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:18.877Z"
+    },
     "suspended": false,
     "front": "picar\n\n*Pico las cebollas para la salsa*"
   },
@@ -10138,7 +10218,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:39:25.533Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:21.551Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:21.551Z"
+    },
     "suspended": false,
     "front": "mezclar\n\n*Mezclo los ingredientes en un bol*"
   },
