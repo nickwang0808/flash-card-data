@@ -11027,15 +11027,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-25T20:57:31.493Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-21T20:57:31.493Z"
+      "due": "2026-03-01T17:38:45.718Z",
+      "stability": 1.52081407,
+      "difficulty": 6.79056769,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-01T17:33:45.718Z"
     },
     "reverseState": null,
     "suspended": false
