@@ -9349,7 +9349,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:54.540Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:13:52.422Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:13:52.422Z"
+    },
     "suspended": false,
     "front": "el tinte\n\n*Quiero teñirme el cabello*"
   },
@@ -9383,7 +9393,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:56.813Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:13:56.951Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:13:56.951Z"
+    },
     "suspended": false,
     "front": "la capa\n\n*Me pone la capa antes de cortar*"
   },
@@ -9449,7 +9469,11 @@
   },
   "aceitoso": {
     "back": "oily",
+    "tags": [
+      "barber-shop"
+    ],
     "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-02-22T19:23:30.929Z",
       "stability": 7.48750228,
@@ -9461,11 +9485,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:23:30.929Z"
     },
-    "reverseState": null,
-    "tags": [
-      "barber-shop"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-04-30T17:14:01.984Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:01.984Z"
+    },
+    "suspended": false,
     "front": "aceitoso\n\n*Mi cabello es muy aceitoso*"
   },
   "seco": {
@@ -9499,7 +9530,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:36:03.476Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:14:05.733Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:05.733Z"
+    },
     "suspended": false,
     "front": "rizado\n\n*Tengo el cabello rizado*"
   },
@@ -9521,7 +9562,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:36:06.312Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:14:07.866Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:07.866Z"
+    },
     "suspended": false,
     "front": "lacio\n\n*Mi cabello es lacio*"
   },
@@ -9543,7 +9594,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:36:52.088Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:14:10.652Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:14:10.652Z"
+    },
     "suspended": false,
     "front": "grueso\n\n*Tengo el cabello grueso*"
   },
