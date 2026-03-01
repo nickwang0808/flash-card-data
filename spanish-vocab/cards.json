@@ -828,15 +828,15 @@
       "last_review": "2026-02-15T18:54:02.305Z"
     },
     "reverseState": {
-      "due": "2026-02-23T15:19:34.035Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-03-16T17:25:05.944Z",
+      "stability": 14.69254944,
+      "difficulty": 5.39165471,
+      "elapsed_days": 13,
+      "scheduled_days": 15,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T15:19:34.035Z"
+      "last_review": "2026-03-01T17:25:05.944Z"
     },
     "suspended": false,
     "front": "la escoba\n\n*Barro el piso con la escoba*"
@@ -892,15 +892,15 @@
       "last_review": "2026-02-20T03:29:24.262Z"
     },
     "reverseState": {
-      "due": "2026-02-23T15:19:39.387Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-06-10T17:25:11.105Z",
+      "stability": 100.53998606,
+      "difficulty": 3.61848086,
+      "elapsed_days": 13,
+      "scheduled_days": 101,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T15:19:39.387Z"
+      "last_review": "2026-03-01T17:25:11.105Z"
     },
     "suspended": false,
     "front": "el trapeador\n\n*Limpio el piso con el trapeador*"
@@ -3550,15 +3550,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-23T19:55:48.865Z",
-      "stability": 1.6644706,
-      "difficulty": 8.03820349,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 4,
+      "due": "2026-03-11T17:25:18.257Z",
+      "stability": 9.88618441,
+      "difficulty": 8.01606046,
+      "elapsed_days": 8,
+      "scheduled_days": 10,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-21T19:55:48.865Z"
+      "last_review": "2026-03-01T17:25:18.257Z"
     },
     "reverseState": null,
     "suspended": false
@@ -4598,15 +4598,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-23T19:56:10.708Z",
-      "stability": 0.94991933,
-      "difficulty": 6.72355574,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-21T19:56:10.708Z"
+      "due": "2026-03-01T17:30:37.070Z",
+      "stability": 0.67476826,
+      "difficulty": 7.76588422,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-01T17:25:37.070Z"
     },
     "reverseState": null,
     "suspended": false
@@ -12894,15 +12894,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-23T19:56:04.446Z",
-      "stability": 0.17535622,
-      "difficulty": 9.71902254,
-      "elapsed_days": 1,
+      "due": "2026-03-03T17:25:30.701Z",
+      "stability": 1.54625328,
+      "difficulty": 9.68914774,
+      "elapsed_days": 8,
       "scheduled_days": 2,
-      "reps": 13,
+      "reps": 14,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-02-21T19:56:04.446Z"
+      "last_review": "2026-03-01T17:25:30.701Z"
     },
     "reverseState": null,
     "suspended": false,
@@ -12982,15 +12982,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-23T19:55:56.321Z",
-      "stability": 1.87796693,
-      "difficulty": 8.61338611,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-02-21T19:55:56.321Z"
+      "due": "2026-03-01T17:30:25.035Z",
+      "stability": 1.09298192,
+      "difficulty": 9.03652966,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-01T17:25:25.035Z"
     },
     "reverseState": null,
     "suspended": false,
