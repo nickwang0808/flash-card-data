@@ -9097,13 +9097,27 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:28.750Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:12:04.994Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:12:04.994Z"
+    },
     "suspended": false,
     "front": "limpio\n\n*La barbería está muy limpia*"
   },
   "afilado": {
     "back": "sharp",
+    "tags": [
+      "barber-shop"
+    ],
     "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:08:14.893Z",
       "stability": 15.69105,
@@ -9115,11 +9129,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:08:14.893Z"
     },
-    "reverseState": null,
-    "tags": [
-      "barber-shop"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-04-30T17:12:09.338Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:12:09.338Z"
+    },
+    "suspended": false,
     "front": "afilado\n\n*Las tijeras deben estar afiladas*"
   },
   "bien": {
@@ -9164,7 +9185,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:31.176Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:12:13.641Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:12:13.641Z"
+    },
     "suspended": false,
     "front": "próximo\n\n*¿Cuándo es tu próximo corte?*"
   },
