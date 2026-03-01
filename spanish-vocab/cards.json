@@ -8748,7 +8748,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:03.453Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T17:11:14.630Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:14.630Z"
+    },
     "suspended": false,
     "front": "las tijeras\n\n*El barbero usa las tijeras afiladas*"
   },
@@ -8770,7 +8780,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:06.242Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T17:11:18.577Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:18.577Z"
+    },
     "suspended": false,
     "front": "la navaja\n\n*Usa la navaja con cuidado para no cortarte*"
   },
@@ -8792,7 +8812,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:10.730Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:25.598Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:25.598Z"
+    },
     "suspended": false,
     "front": "la máquina\n\n*Prefiero la máquina para los lados*"
   },
@@ -8814,7 +8844,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:14.519Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:33.723Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:33.723Z"
+    },
     "suspended": false,
     "front": "el peine\n\n*El peluquero usa el peine para peinar*"
   },
@@ -8836,7 +8876,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:17.331Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:38.828Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:38.828Z"
+    },
     "suspended": false,
     "front": "la brocha\n\n*La brocha de barbero tiene pelos suaves*"
   },
@@ -8858,7 +8908,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:21.057Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:42.885Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:42.885Z"
+    },
     "suspended": false,
     "front": "la espuma de afeitar\n\n*La espuma de afeitar huele bien*"
   },
@@ -8894,7 +8954,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:23.061Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:47.561Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:47.561Z"
+    },
     "suspended": false,
     "front": "cortar\n\n*El barbero me corta el cabello cada mes*"
   },
@@ -8917,13 +8987,28 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:25.008Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:11:56.692Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:56.692Z"
+    },
     "suspended": false,
     "front": "peinar\n\n*El peluquero peina mi cabello después del corte*"
   },
   "afeitar": {
     "back": "to shave",
+    "tags": [
+      "verbs",
+      "barber-shop"
+    ],
     "created": "2026-02-13T00:00:00Z",
+    "reversible": true,
     "state": {
       "due": "2026-03-03T19:08:12.618Z",
       "stability": 15.69105,
@@ -8935,12 +9020,18 @@
       "state": 2,
       "last_review": "2026-02-15T19:08:12.618Z"
     },
-    "reverseState": null,
-    "tags": [
-      "verbs",
-      "barber-shop"
-    ],
-    "reversible": true,
+    "reverseState": {
+      "due": "2026-04-30T17:11:59.287Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:11:59.287Z"
+    },
+    "suspended": false,
     "front": "afeitar\n\n*Mi papá se afeita cada mañana*"
   },
   "corto": {
@@ -8973,7 +9064,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:35:27.028Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:12:02.048Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:12:02.048Z"
+    },
     "suspended": false,
     "front": "largo\n\n*Mi cabello está muy largo*"
   },
