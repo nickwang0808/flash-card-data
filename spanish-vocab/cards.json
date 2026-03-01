@@ -8446,15 +8446,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-01T17:32:23.350Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-23T17:38:08.025Z",
+      "stability": 22.35431486,
+      "difficulty": 5.26354498,
+      "elapsed_days": 8,
+      "scheduled_days": 22,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-21T20:55:04.860Z"
+      "last_review": "2026-03-01T17:38:08.025Z"
     },
     "reverseState": null,
     "suspended": false
