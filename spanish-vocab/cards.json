@@ -12267,15 +12267,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-22T20:59:26.071Z",
-      "stability": 0.14225804,
-      "difficulty": 8.65468874,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "due": "2026-03-03T17:24:29.761Z",
+      "stability": 2.34270567,
+      "difficulty": 8.62970988,
+      "elapsed_days": 8,
+      "scheduled_days": 2,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-21T20:59:26.071Z"
+      "last_review": "2026-03-01T17:24:29.761Z"
     },
     "reverseState": null,
     "suspended": false
@@ -13114,15 +13114,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-23T02:03:06.680Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 1,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-06-10T17:24:34.825Z",
+      "stability": 100.53998606,
+      "difficulty": 3.61848086,
+      "elapsed_days": 13,
+      "scheduled_days": 101,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:03:06.680Z"
+      "last_review": "2026-03-01T17:24:34.825Z"
     },
     "reverseState": null,
     "suspended": false,
