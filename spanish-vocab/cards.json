@@ -10251,7 +10251,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:39:28.125Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-01T17:16:33.875Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-01T17:15:33.875Z"
+    },
     "suspended": false,
     "front": "batir\n\n*Bato los huevos para el pastel*"
   },
@@ -10274,7 +10284,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:39:29.907Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:36.647Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:36.647Z"
+    },
     "suspended": false,
     "front": "hervir\n\n*Hiervo el agua para el té*"
   },
@@ -10451,7 +10471,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:40:06.589Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:43.730Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:43.730Z"
+    },
     "suspended": false,
     "front": "freír\n\n*Frio las papas en aceite caliente*"
   },
@@ -10694,7 +10724,17 @@
       "state": 2,
       "last_review": "2026-02-15T21:31:02.757Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-30T17:15:48.183Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:15:48.183Z"
+    },
     "suspended": false,
     "front": "asar\n\n*Aso el pollo en el horno*"
   },
