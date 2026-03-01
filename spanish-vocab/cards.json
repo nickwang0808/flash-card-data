@@ -9273,7 +9273,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:54:10.535Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T17:13:17.884Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-01T17:13:17.884Z"
+    },
     "suspended": false,
     "front": "el bigote\n\n*Quiero que me recortes el bigote*"
   },
