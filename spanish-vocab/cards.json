@@ -12372,7 +12372,17 @@
       "state": 2,
       "last_review": "2026-02-18T00:37:35.556Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T20:04:13.564Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T20:03:13.564Z"
+    },
     "suspended": false,
     "front": "amargo\n\n*El café sin azúcar es amargo*"
   },
@@ -12418,7 +12428,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:47:22.353Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T20:03:16.332Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T20:03:16.332Z"
+    },
     "suspended": false,
     "front": "crudo\n\n*No como pescado crudo*"
   },
@@ -12440,7 +12460,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:47:24.696Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T20:03:19.282Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T20:03:19.282Z"
+    },
     "suspended": false,
     "front": "cocido\n\n*La carne está bien cocida*"
   },
@@ -12476,7 +12506,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:21:47.016Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T20:04:25.373Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T20:03:25.373Z"
+    },
     "suspended": false,
     "front": "fregar\n\n*Friego los platos con esponja*"
   },
@@ -12609,7 +12649,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:22:00.304Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T20:04:31.929Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T20:03:31.929Z"
+    },
     "suspended": false,
     "front": "enjuagar\n\n*Enjuago los platos con agua limpia*"
   },
@@ -12645,7 +12695,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:10.254Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T20:04:41.072Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T20:03:41.072Z"
+    },
     "suspended": false,
     "front": "escurrir\n\n*Escurro los platos en el escurridor*"
   },
