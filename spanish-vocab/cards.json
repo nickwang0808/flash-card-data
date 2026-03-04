@@ -11700,7 +11700,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:45:21.806Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T19:52:48.322Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T19:42:48.322Z"
+    },
     "suspended": false,
     "front": "el procesador de alimentos\n\n*Pico las verduras en el procesador*"
   },
@@ -11722,7 +11732,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:28:20.229Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T19:42:54.159Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T19:42:54.159Z"
+    },
     "suspended": false,
     "front": "la balanza\n\n*Peso los ingredientes con la balanza*"
   },
@@ -11744,7 +11764,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:45:29.663Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T19:44:02.883Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T19:43:02.883Z"
+    },
     "suspended": false,
     "front": "el temporizador\n\n*Pongo el temporizador para 20 minutos*"
   },
