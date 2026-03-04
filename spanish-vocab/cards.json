@@ -10942,7 +10942,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:42:19.486Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T16:23:59.147Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T16:22:59.147Z"
+    },
     "suspended": false,
     "front": "exprimir\n\n*Exprimo limones para hacer limonada*"
   },
@@ -10965,7 +10975,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:42:22.971Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T16:23:04.718Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T16:23:04.718Z"
+    },
     "suspended": false,
     "front": "revolver\n\n*Revuelvo la salsa constantemente*"
   },
@@ -10988,7 +11008,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:42:25.893Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-03T16:23:08.315Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T16:23:08.315Z"
+    },
     "suspended": false,
     "front": "sazonar\n\n*Sazono la carne con sal y pimienta*"
   },
@@ -11011,7 +11041,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:42:28.851Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-03T16:23:15.839Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T16:23:15.839Z"
+    },
     "suspended": false,
     "front": "probar\n\n*Pruebo la comida antes de servir*"
   },
