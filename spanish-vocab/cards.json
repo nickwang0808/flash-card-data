@@ -11796,7 +11796,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:46:36.607Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T19:44:14.286Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T19:43:14.286Z"
+    },
     "suspended": false,
     "front": "el delantal\n\n*Me pongo el delantal antes de cocinar*"
   },
@@ -11818,7 +11828,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:46:41.383Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-03T19:43:19.502Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T19:43:19.502Z"
+    },
     "suspended": false,
     "front": "el guante de cocina\n\n*Uso el guante para sacar el horno caliente*"
   },
