@@ -10909,7 +10909,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:42:10.447Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T16:23:37.566Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T16:22:37.566Z"
+    },
     "suspended": false,
     "front": "rallar\n\n*Rallo el queso para la pizza*"
   },
