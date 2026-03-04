@@ -11668,7 +11668,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:45:18.488Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T19:42:33.573Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T19:42:33.573Z"
+    },
     "suspended": false,
     "front": "la licuadora\n\n*Hago batidos en la licuadora*"
   },
