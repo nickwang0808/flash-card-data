@@ -12136,7 +12136,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:47:07.348Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-04T20:12:25.645Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-04T20:02:25.645Z"
+    },
     "suspended": false,
     "front": "la mantequilla\n\n*Unto la sartén con mantequilla*"
   },
@@ -12182,7 +12192,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:47:10.401Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-20T20:02:30.118Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-04T20:02:30.118Z"
+    },
     "suspended": false,
     "front": "la pimienta\n\n*Muelo pimienta negra sobre la ensalada*"
   },
