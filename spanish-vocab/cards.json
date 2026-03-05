@@ -1942,7 +1942,7 @@
       "last_review": "2026-02-18T00:27:46.523Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (tú, presente)": {
     "back": "vas",
@@ -1986,7 +1986,7 @@
       "last_review": "2026-02-18T00:27:56.326Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (nosotros/nosotras, presente)": {
     "back": "vamos",
@@ -2008,7 +2008,7 @@
       "last_review": "2026-02-18T00:27:57.982Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (ellos/ellas/ustedes, presente)": {
     "back": "van",
@@ -2030,7 +2030,7 @@
       "last_review": "2026-02-18T00:28:02.863Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (yo, pretérito)": {
     "back": "fui",
@@ -2052,7 +2052,7 @@
       "last_review": "2026-02-18T00:28:05.406Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (tú, pretérito)": {
     "back": "fuiste",
@@ -2074,7 +2074,7 @@
       "last_review": "2026-02-18T00:28:07.676Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (él/ella/usted, pretérito)": {
     "back": "fue",
@@ -2096,7 +2096,7 @@
       "last_review": "2026-02-18T00:28:11.419Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (nosotros/nosotras, pretérito)": {
     "back": "fuimos",
@@ -2118,7 +2118,7 @@
       "last_review": "2026-02-18T00:30:04.047Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (ellos/ellas/ustedes, pretérito)": {
     "back": "fueron",
@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-05T21:09:05.235Z"
     },
     "reverseState": {
-      "due": "2026-03-05T21:15:01.137Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-03-06T21:10:31.058Z",
+      "stability": 0.14225804,
+      "difficulty": 8.65468874,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T21:10:01.137Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:10:31.058Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -13657,15 +13657,15 @@
       "last_review": "2026-03-05T20:45:33.953Z"
     },
     "reverseState": {
-      "due": "2026-03-05T21:12:38.625Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T21:10:26.371Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T21:07:38.625Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:10:26.371Z"
     },
     "suspended": false,
     "front": "asombrado\n\n*Estoy asombrado por el paisaje*"
