@@ -13082,13 +13082,24 @@
   },
   "triste": {
     "back": "sad",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:32:11.098Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:31:11.098Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "triste\n\n*Me siento triste cuando llueve*"
   },
   "deprimido": {
