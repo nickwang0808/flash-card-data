@@ -12507,15 +12507,15 @@
       "last_review": "2026-03-01T17:21:47.016Z"
     },
     "reverseState": {
-      "due": "2026-03-04T20:04:25.373Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-07T21:00:20.472Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T20:03:25.373Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:00:20.472Z"
     },
     "suspended": false,
     "front": "fregar\n\n*Friego los platos con esponja*"
@@ -12650,15 +12650,15 @@
       "last_review": "2026-03-01T17:22:00.304Z"
     },
     "reverseState": {
-      "due": "2026-03-04T20:04:31.929Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
+      "due": "2026-03-05T21:05:28.823Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-04T20:03:31.929Z"
+      "last_review": "2026-03-05T21:00:28.823Z"
     },
     "suspended": false,
     "front": "enjuagar\n\n*Enjuago los platos con agua limpia*"
@@ -12696,15 +12696,15 @@
       "last_review": "2026-02-21T20:48:10.254Z"
     },
     "reverseState": {
-      "due": "2026-03-04T20:04:41.072Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T21:00:31.738Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T20:03:41.072Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:00:31.738Z"
     },
     "suspended": false,
     "front": "escurrir\n\n*Escurro los platos en el escurridor*"
