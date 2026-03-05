@@ -13076,7 +13076,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:49:03.546Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:35:12.339Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:12.339Z"
+    },
     "suspended": false,
     "front": "la suciedad\n\n*Quito la suciedad con agua caliente*"
   },
@@ -13098,7 +13108,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:49:06.605Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-04T20:34:16.458Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:34:16.458Z"
+    },
     "suspended": false,
     "front": "mojado\n\n*Los platos están mojados*"
   },
