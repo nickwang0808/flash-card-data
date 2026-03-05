@@ -12797,15 +12797,15 @@
       "last_review": "2026-02-21T20:48:22.495Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:33:54.316Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-05T21:09:53.889Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-05T20:32:54.316Z"
+      "last_review": "2026-03-05T21:04:53.889Z"
     },
     "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
@@ -12829,15 +12829,15 @@
       "last_review": "2026-02-21T20:48:28.047Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:02.179Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:05:02.208Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:33:02.179Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:05:02.208Z"
     },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
