@@ -11765,15 +11765,15 @@
       "last_review": "2026-02-21T20:45:29.663Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:44:02.883Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
+      "due": "2026-03-05T21:01:00.117Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-04T19:43:02.883Z"
+      "last_review": "2026-03-05T20:56:00.117Z"
     },
     "suspended": false,
     "front": "el temporizador\n\n*Pongo el temporizador para 20 minutos*"
