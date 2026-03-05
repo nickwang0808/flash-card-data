@@ -11797,15 +11797,15 @@
       "last_review": "2026-02-21T20:46:36.607Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:44:14.286Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T20:56:39.842Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T19:43:14.286Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:56:39.842Z"
     },
     "suspended": false,
     "front": "el delantal\n\n*Me pongo el delantal antes de cocinar*"
