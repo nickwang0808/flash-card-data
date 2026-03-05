@@ -9951,15 +9951,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-05T17:23:27.080Z",
-      "stability": 4.44719997,
-      "difficulty": 8.03820349,
-      "elapsed_days": 8,
-      "scheduled_days": 4,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-01T17:23:27.080Z"
+      "due": "2026-03-05T21:08:37.190Z",
+      "stability": 1.23646067,
+      "difficulty": 8.64980015,
+      "elapsed_days": 4,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-05T21:03:37.190Z"
     },
     "reverseState": null,
     "suspended": false
