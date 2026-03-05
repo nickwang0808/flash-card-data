@@ -11701,15 +11701,15 @@
       "last_review": "2026-02-21T20:45:21.806Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:52:48.322Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-12T21:00:00.528Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
+      "elapsed_days": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T19:42:48.322Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:00:00.528Z"
     },
     "suspended": false,
     "front": "el procesador de alimentos\n\n*Pico las verduras en el procesador*"
@@ -12021,15 +12021,15 @@
       "last_review": "2026-02-21T20:47:00.807Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:44:46.208Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-07T20:59:52.929Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T19:43:46.208Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:59:52.929Z"
     },
     "suspended": false,
     "front": "el perejil\n\n*Decoro el plato con perejil fresco*"
@@ -12269,15 +12269,15 @@
       "last_review": "2026-02-21T20:47:17.188Z"
     },
     "reverseState": {
-      "due": "2026-03-04T20:03:52.763Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-07T21:00:03.499Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T20:02:52.763Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:00:03.499Z"
     },
     "suspended": false,
     "front": "la receta\n\n*Sigo la receta de mi abuela*"
@@ -12373,15 +12373,15 @@
       "last_review": "2026-03-05T20:45:05.452Z"
     },
     "reverseState": {
-      "due": "2026-03-04T20:04:13.564Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-07T21:00:08.890Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T20:03:13.564Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:00:08.890Z"
     },
     "suspended": false,
     "front": "amargo\n\n*El café sin azúcar es amargo*"
