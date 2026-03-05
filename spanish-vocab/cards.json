@@ -13164,7 +13164,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:29:42.182Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:35:27.300Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:27.300Z"
+    },
     "suspended": false,
     "front": "alegre\n\n*Me siento alegre cuando veo a mis amigos*"
   },
@@ -13186,7 +13196,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:22:20.923Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:34:31.856Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:34:31.856Z"
+    },
     "suspended": false,
     "front": "contento\n\n*Estoy contento con mi trabajo*"
   },
@@ -13208,7 +13228,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:31:11.098Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:34:35.253Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:34:35.253Z"
+    },
     "suspended": false,
     "front": "triste\n\n*Me siento triste cuando llueve*"
   },
@@ -13230,7 +13260,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:31:22.340Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:35:42.637Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:42.637Z"
+    },
     "suspended": false,
     "front": "deprimido\n\n*Él está deprimido desde hace semanas*"
   },
@@ -13264,7 +13304,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:31:42.385Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:35:46.936Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:46.936Z"
+    },
     "suspended": false,
     "front": "enojado\n\n*Estoy enojado con mi hermano*"
   },
@@ -13286,7 +13336,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:31:49.834Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:44:52.966Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:52.966Z"
+    },
     "suspended": false,
     "front": "furioso\n\n*Mi jefe está furioso por el error*"
   },
@@ -13308,7 +13368,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:31:55.235Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:35:57.774Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:34:57.774Z"
+    },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
   },
@@ -13330,7 +13400,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:32:00.500Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:35:00.930Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:35:00.930Z"
+    },
     "suspended": false,
     "front": "irritado\n\n*Me siento irritado por el ruido*"
   },
@@ -13352,7 +13432,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:32:03.624Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:35:03.961Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:35:03.961Z"
+    },
     "suspended": false,
     "front": "nervioso\n\n*Estoy nervioso antes del examen*"
   },
@@ -13374,7 +13464,17 @@
       "state": 2,
       "last_review": "2026-02-18T00:37:42.219Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:36:09.297Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:35:09.297Z"
+    },
     "suspended": false,
     "front": "ansioso\n\n*Me siento ansioso por la entrevista*"
   },
