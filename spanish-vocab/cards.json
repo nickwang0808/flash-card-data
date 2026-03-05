@@ -9951,15 +9951,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-05T21:08:37.190Z",
-      "stability": 1.23646067,
-      "difficulty": 8.64980015,
-      "elapsed_days": 4,
-      "scheduled_days": 0,
-      "reps": 5,
+      "due": "2026-03-07T21:08:55.498Z",
+      "stability": 1.74065374,
+      "difficulty": 8.62484378,
+      "elapsed_days": 0,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-05T21:03:37.190Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:08:55.498Z"
     },
     "reverseState": null,
     "suspended": false
@@ -12797,15 +12797,15 @@
       "last_review": "2026-02-21T20:48:22.495Z"
     },
     "reverseState": {
-      "due": "2026-03-05T21:09:53.889Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T21:09:19.182Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T21:04:53.889Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:09:19.182Z"
     },
     "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
@@ -13358,15 +13358,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-05T21:09:12.569Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T21:09:05.235Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T21:04:12.569Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:09:05.235Z"
     },
     "reverseState": {
       "due": "2026-03-05T21:11:42.378Z",
@@ -13550,15 +13550,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-05T21:09:26.807Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T21:09:10.026Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T21:04:26.807Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:09:10.026Z"
     },
     "reverseState": {
       "due": "2026-03-05T21:12:11.311Z",
