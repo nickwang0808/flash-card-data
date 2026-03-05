@@ -13592,7 +13592,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:32:19.994Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:40:26.231Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:39:26.231Z"
+    },
     "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
   },
