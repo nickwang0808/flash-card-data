@@ -12924,7 +12924,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:47.466Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:27.983Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:27.983Z"
+    },
     "suspended": false,
     "front": "el lavavajillas\n\n*Pongo los platos en el lavavajillas*"
   },
@@ -12970,7 +12980,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:53.318Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:43:36.313Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:36.313Z"
+    },
     "suspended": false,
     "front": "el escurridor\n\n*Pongo los platos en el escurridor*"
   },
