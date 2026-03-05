@@ -13656,7 +13656,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:25:30.701Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:40:48.315Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:39:48.315Z"
+    },
     "suspended": false,
     "front": "asombrado\n\n*Estoy asombrado por el paisaje*"
   },
@@ -13678,7 +13688,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:32:32.803Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:40:56.707Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:39:56.707Z"
+    },
     "suspended": false,
     "front": "confundido\n\n*Estoy confundido con las instrucciones*"
   },
