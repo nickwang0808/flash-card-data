@@ -1217,7 +1217,7 @@
       "state": 2,
       "last_review": "2026-02-20T03:16:38.010Z"
     },
-    "suspended": false,
+    "suspended": true,
     "front": "la pinza\n\n*Uso pinzas para colgar la ropa*"
   },
   "el gancho": {
