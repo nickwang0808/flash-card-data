@@ -7699,15 +7699,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-03T17:36:53.845Z",
-      "stability": 0.94991933,
-      "difficulty": 7.73657495,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 4,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-01T17:36:53.845Z"
+      "due": "2026-03-05T20:51:02.935Z",
+      "stability": 0.65488663,
+      "difficulty": 8.44699733,
+      "elapsed_days": 4,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-05T20:46:02.935Z"
     },
     "reverseState": null,
     "suspended": false
