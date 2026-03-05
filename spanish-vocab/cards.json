@@ -244,15 +244,15 @@
       "last_review": "2026-02-20T03:29:26.561Z"
     },
     "reverseState": {
-      "due": "2026-03-04T01:40:14.483Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-16T01:40:14.483Z"
+      "due": "2026-03-05T20:58:19.880Z",
+      "stability": 2.82852582,
+      "difficulty": 5.41326184,
+      "elapsed_days": 17,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-05T20:53:19.880Z"
     },
     "suspended": false,
     "front": "el vaso\n\n*Bebo agua en un vaso*"
@@ -276,15 +276,15 @@
       "last_review": "2026-03-05T20:51:57.916Z"
     },
     "reverseState": {
-      "due": "2026-03-04T01:40:17.161Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:53:22.988Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T01:40:17.161Z"
+      "last_review": "2026-03-05T20:53:22.988Z"
     },
     "suspended": false,
     "front": "la taza\n\n*Tomo café en una taza*"
@@ -308,15 +308,15 @@
       "last_review": "2026-03-05T20:49:52.640Z"
     },
     "reverseState": {
-      "due": "2026-03-04T01:59:53.282Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:53:27.945Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T01:59:53.282Z"
+      "last_review": "2026-03-05T20:53:27.945Z"
     },
     "suspended": false,
     "front": "la olla\n\n*Cocino la sopa en una olla grande*"
@@ -340,15 +340,15 @@
       "last_review": "2026-03-05T20:51:51.142Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:02.368Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:53:30.723Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:02.368Z"
+      "last_review": "2026-03-05T20:53:30.723Z"
     },
     "suspended": false,
     "front": "la sartén\n\n*Frio los huevos en la sartén*"
@@ -372,15 +372,15 @@
       "last_review": "2026-03-01T17:17:49.653Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:05.074Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:53:34.465Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:05.074Z"
+      "last_review": "2026-03-05T20:53:34.465Z"
     },
     "suspended": false,
     "front": "la sala\n\n*Veo televisión en la sala*"
@@ -450,15 +450,15 @@
       "last_review": "2026-03-05T20:49:16.370Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:33.529Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:53:43.174Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:33.529Z"
+      "last_review": "2026-03-05T20:53:43.174Z"
     },
     "suspended": false,
     "front": "la cama\n\n*Duermo en mi cama cada noche*"
@@ -514,15 +514,15 @@
       "last_review": "2026-03-05T20:51:53.701Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:49.751Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-16T02:00:49.751Z"
+      "due": "2026-03-05T20:58:50.034Z",
+      "stability": 2.82852582,
+      "difficulty": 5.41326184,
+      "elapsed_days": 17,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-05T20:53:50.034Z"
     },
     "suspended": false,
     "front": "la sábana\n\n*Las sábanas están limpias*"
@@ -546,15 +546,15 @@
       "last_review": "2026-03-05T20:49:22.383Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:54.690Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:53:56.512Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:54.690Z"
+      "last_review": "2026-03-05T20:53:56.512Z"
     },
     "suspended": false,
     "front": "la cobija\n\n*Me cubro con la cobija cuando hace frío*"
@@ -622,15 +622,15 @@
       "last_review": "2026-03-05T20:49:32.810Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:00:59.025Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:54:00.225Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:59.025Z"
+      "last_review": "2026-03-05T20:54:00.225Z"
     },
     "suspended": false,
     "front": "la ducha\n\n*Me baño en la ducha cada mañana*"
@@ -1764,15 +1764,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-04T02:00:28.323Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:53:40.666Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:00:28.323Z"
+      "last_review": "2026-03-05T20:53:40.666Z"
     },
     "reverseState": null,
     "suspended": false
