@@ -12796,7 +12796,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:22.495Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:33:54.316Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:32:54.316Z"
+    },
     "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
   },
@@ -12818,7 +12828,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:28.047Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:02.179Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:02.179Z"
+    },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
   },
@@ -12840,7 +12860,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:37:18.007Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:08.000Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:08.000Z"
+    },
     "suspended": false,
     "front": "el trapo\n\n*Seco los platos con el trapo*"
   },
@@ -12862,7 +12892,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:39.313Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:15.546Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:15.546Z"
+    },
     "suspended": false,
     "front": "el paño de cocina\n\n*Limpio el mostrador con el paño*"
   },
