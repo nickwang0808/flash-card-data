@@ -12861,15 +12861,15 @@
       "last_review": "2026-03-05T20:44:25.953Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:08.000Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-05T21:10:18.117Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-05T20:33:08.000Z"
+      "last_review": "2026-03-05T21:05:18.117Z"
     },
     "suspended": false,
     "front": "el trapo\n\n*Seco los platos con el trapo*"
@@ -12893,15 +12893,15 @@
       "last_review": "2026-02-21T20:48:39.313Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:15.546Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:05:27.995Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:33:15.546Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:05:27.995Z"
     },
     "suspended": false,
     "front": "el paño de cocina\n\n*Limpio el mostrador con el paño*"
@@ -12925,15 +12925,15 @@
       "last_review": "2026-02-21T20:48:47.466Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:27.983Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-05T21:10:35.813Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-05T20:33:27.983Z"
+      "last_review": "2026-03-05T21:05:35.813Z"
     },
     "suspended": false,
     "front": "el lavavajillas\n\n*Pongo los platos en el lavavajillas*"
