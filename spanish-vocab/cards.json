@@ -13496,7 +13496,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:32:10.514Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:35:13.135Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:35:13.135Z"
+    },
     "suspended": false,
     "front": "preocupado\n\n*Estoy preocupado por mi familia*"
   },
@@ -13518,7 +13528,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:18:07.044Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:36:17.175Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:35:17.175Z"
+    },
     "suspended": false,
     "front": "asustado\n\n*El niño está asustado de la oscuridad*"
   },
