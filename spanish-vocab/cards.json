@@ -2140,7 +2140,7 @@
       "last_review": "2026-02-18T00:30:07.671Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "ir (presente continuo)": {
     "back": "yendo",
@@ -2162,7 +2162,7 @@
       "last_review": "2026-02-18T00:30:12.553Z"
     },
     "reverseState": null,
-    "suspended": false
+    "suspended": true
   },
   "haber": {
     "back": "to have (auxiliary)",
