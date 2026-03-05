@@ -13012,7 +13012,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:57.672Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:46.849Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:46.849Z"
+    },
     "suspended": false,
     "front": "el escurreplatos\n\n*Los vasos se secan en el escurreplatos*"
   },
@@ -13034,7 +13044,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:49:00.872Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:34:52.910Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:33:52.910Z"
+    },
     "suspended": false,
     "front": "la grasa\n\n*Esta sartén tiene mucha grasa*"
   },
