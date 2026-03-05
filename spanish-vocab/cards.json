@@ -13013,15 +13013,15 @@
       "last_review": "2026-02-21T20:48:57.672Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:46.849Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:05:46.173Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:33:46.849Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:05:46.173Z"
     },
     "suspended": false,
     "front": "el escurreplatos\n\n*Los vasos se secan en el escurreplatos*"
@@ -13045,15 +13045,15 @@
       "last_review": "2026-02-21T20:49:00.872Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:34:52.910Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:05:49.371Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:33:52.910Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:05:49.371Z"
     },
     "suspended": false,
     "front": "la grasa\n\n*Esta sartén tiene mucha grasa*"
@@ -13077,15 +13077,15 @@
       "last_review": "2026-02-21T20:49:03.546Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:35:12.339Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:05:54.768Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:34:12.339Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:05:54.768Z"
     },
     "suspended": false,
     "front": "la suciedad\n\n*Quito la suciedad con agua caliente*"
