@@ -13126,68 +13126,124 @@
   },
   "melancólico": {
     "back": "melancholic",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true,
     "front": "melancólico\n\n*La música me pone melancólico*"
   },
   "enojado": {
     "back": "angry",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:32:42.385Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:31:42.385Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "enojado\n\n*Estoy enojado con mi hermano*"
   },
   "furioso": {
     "back": "furious",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-21T20:31:49.834Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:31:49.834Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "furioso\n\n*Mi jefe está furioso por el error*"
   },
   "enfadado": {
     "back": "annoyed/upset",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:32:55.235Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:31:55.235Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
   },
   "irritado": {
     "back": "irritated",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-21T20:32:00.500Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:32:00.500Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "irritado\n\n*Me siento irritado por el ruido*"
   },
   "nervioso": {
     "back": "nervous",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-21T20:32:03.624Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:32:03.624Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "nervioso\n\n*Estoy nervioso antes del examen*"
   },
   "ansioso": {
@@ -13214,13 +13270,24 @@
   },
   "preocupado": {
     "back": "worried",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:33:10.514Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:32:10.514Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "preocupado\n\n*Estoy preocupado por mi familia*"
   },
   "asustado": {
@@ -13247,35 +13314,68 @@
   },
   "temeroso": {
     "back": "fearful",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:33:16.507Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:32:16.507Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "temeroso\n\n*Soy temeroso de las alturas*"
   },
   "aterrado": {
     "back": "terrified",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:33:19.994Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:32:19.994Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
   },
   "sorprendido": {
     "back": "surprised",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-05T20:33:27.459Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:32:27.459Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "sorprendido\n\n*Estoy sorprendido por la noticia*"
   },
   "asombrado": {
