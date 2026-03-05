@@ -654,15 +654,15 @@
       "last_review": "2026-02-20T03:17:21.505Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:01:02.023Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:10.603Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:02.023Z"
+      "last_review": "2026-03-05T20:54:10.603Z"
     },
     "suspended": false,
     "front": "la bañera\n\n*Los niños se bañan en la bañera*"
@@ -718,15 +718,15 @@
       "last_review": "2026-02-20T03:29:07.936Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:01:13.622Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:14.670Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:13.622Z"
+      "last_review": "2026-03-05T20:54:14.670Z"
     },
     "suspended": false,
     "front": "el lavabo\n\n*Me lavo las manos en el lavabo*"
@@ -860,15 +860,15 @@
       "last_review": "2026-03-01T17:34:49.337Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:01:36.607Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:26.341Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:36.607Z"
+      "last_review": "2026-03-05T20:54:26.341Z"
     },
     "suspended": false,
     "front": "la aspiradora\n\n*Limpio la alfombra con la aspiradora*"
@@ -924,15 +924,15 @@
       "last_review": "2026-03-05T20:52:02.027Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:01:48.538Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:54:29.999Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:48.538Z"
+      "last_review": "2026-03-05T20:54:29.999Z"
     },
     "suspended": false,
     "front": "la ventana\n\n*Abro la ventana para ventilar*"
@@ -956,15 +956,15 @@
       "last_review": "2026-02-20T03:28:57.534Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:01:52.339Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:54:35.123Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:52.339Z"
+      "last_review": "2026-03-05T20:54:35.123Z"
     },
     "suspended": false,
     "front": "el interruptor\n\n*Apago el interruptor antes de dormir*"
@@ -1056,15 +1056,15 @@
       "last_review": "2026-02-20T03:29:11.630Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:02:08.094Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:41.799Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:02:08.094Z"
+      "last_review": "2026-03-05T20:54:41.799Z"
     },
     "suspended": false,
     "front": "el suavizante\n\n*El suavizante deja la ropa suave*"
@@ -1088,15 +1088,15 @@
       "last_review": "2026-03-05T20:51:48.403Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:02:20.619Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:48.446Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:02:20.619Z"
+      "last_review": "2026-03-05T20:54:48.446Z"
     },
     "suspended": false,
     "front": "la plancha\n\n*Plancho mi camisa con la plancha*"
@@ -1175,15 +1175,15 @@
       "last_review": "2026-02-20T03:29:19.410Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:02:25.419Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:54.555Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:02:25.419Z"
+      "last_review": "2026-03-05T20:54:54.555Z"
     },
     "suspended": false,
     "front": "el tendedero\n\n*Cuelgo la ropa en el tendedero*"
@@ -1786,15 +1786,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-04T02:01:26.111Z",
-      "stability": 15.69105,
+      "due": "2026-05-07T20:54:19.726Z",
+      "stability": 63.21797487,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 17,
+      "scheduled_days": 63,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:01:26.111Z"
+      "last_review": "2026-03-05T20:54:19.726Z"
     },
     "reverseState": null,
     "suspended": false
@@ -1808,15 +1808,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-04T02:02:53.938Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:54:59.945Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:02:53.938Z"
+      "last_review": "2026-03-05T20:54:59.945Z"
     },
     "reverseState": null,
     "suspended": false
