@@ -12764,7 +12764,17 @@
       "state": 2,
       "last_review": "2026-02-21T20:48:15.956Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-21T20:32:38.811Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:32:38.811Z"
+    },
     "suspended": false,
     "front": "la esponja\n\n*Lavo los platos con la esponja*"
   },
@@ -13402,13 +13412,24 @@
   },
   "confundido": {
     "back": "confused",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-21T20:32:32.803Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T20:32:32.803Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "confundido\n\n*Estoy confundido con las instrucciones*"
   },
   "frustrado": {
