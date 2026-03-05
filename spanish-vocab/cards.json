@@ -13529,15 +13529,15 @@
       "last_review": "2026-03-05T20:45:21.483Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:36:17.175Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T21:07:02.440Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-05T20:35:17.175Z"
+      "state": 2,
+      "last_review": "2026-03-05T21:07:02.440Z"
     },
     "suspended": false,
     "front": "asustado\n\n*El niño está asustado de la oscuridad*"
@@ -13561,15 +13561,15 @@
       "last_review": "2026-03-05T21:04:26.807Z"
     },
     "reverseState": {
-      "due": "2026-03-05T20:40:06.054Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-05T21:12:11.311Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-05T20:39:06.054Z"
+      "last_review": "2026-03-05T21:07:11.311Z"
     },
     "suspended": false,
     "front": "temeroso\n\n*Soy temeroso de las alturas*"
