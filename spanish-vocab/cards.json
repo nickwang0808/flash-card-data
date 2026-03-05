@@ -13624,7 +13624,17 @@
       "state": 1,
       "last_review": "2026-03-05T20:32:27.459Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-05T20:40:37.180Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T20:39:37.180Z"
+    },
     "suspended": false,
     "front": "sorprendido\n\n*Estoy sorprendido por la noticia*"
   },
