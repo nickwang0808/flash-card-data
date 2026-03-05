@@ -1320,15 +1320,15 @@
       "last_review": "2026-03-05T20:52:04.958Z"
     },
     "reverseState": {
-      "due": "2026-03-04T02:02:56.425Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "due": "2026-08-10T20:55:02.819Z",
+      "stability": 157.78704999,
+      "difficulty": 2.13012146,
+      "elapsed_days": 17,
+      "scheduled_days": 158,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-16T02:02:56.425Z"
+      "last_review": "2026-03-05T20:55:02.819Z"
     },
     "suspended": false,
     "front": "planchar\n\n*Plancho mi ropa antes de salir*"
@@ -2406,15 +2406,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-04T17:39:54.070Z",
-      "stability": 2.86077494,
-      "difficulty": 7.73085238,
-      "elapsed_days": 0,
-      "scheduled_days": 3,
-      "reps": 5,
+      "due": "2026-03-13T20:55:13.324Z",
+      "stability": 8.44576247,
+      "difficulty": 7.71012317,
+      "elapsed_days": 4,
+      "scheduled_days": 8,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-01T17:39:54.070Z"
+      "last_review": "2026-03-05T20:55:13.324Z"
     },
     "reverseState": null,
     "suspended": false
@@ -10910,15 +10910,15 @@
       "last_review": "2026-02-21T20:42:10.447Z"
     },
     "reverseState": {
-      "due": "2026-03-04T16:23:37.566Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T20:55:06.716Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T16:22:37.566Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:55:06.716Z"
     },
     "suspended": false,
     "front": "rallar\n\n*Rallo el queso para la pizza*"
@@ -10943,15 +10943,15 @@
       "last_review": "2026-02-21T20:42:19.486Z"
     },
     "reverseState": {
-      "due": "2026-03-04T16:23:59.147Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T20:55:09.374Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T16:22:59.147Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:55:09.374Z"
     },
     "suspended": false,
     "front": "exprimir\n\n*Exprimo limones para hacer limonada*"
@@ -11445,15 +11445,15 @@
       "last_review": "2026-02-21T20:44:15.628Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:41:41.189Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
+      "due": "2026-03-05T21:00:19.950Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-04T19:40:41.189Z"
+      "last_review": "2026-03-05T20:55:19.950Z"
     },
     "suspended": false,
     "front": "el abrelatas\n\n*Abro las latas con el abrelatas*"
@@ -11477,15 +11477,15 @@
       "last_review": "2026-02-21T20:44:20.464Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:41:49.394Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T20:55:25.721Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T19:40:49.394Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:55:25.721Z"
     },
     "suspended": false,
     "front": "el sacacorchos\n\n*Abro el vino con el sacacorchos*"
@@ -11573,15 +11573,15 @@
       "last_review": "2026-02-21T20:45:00.111Z"
     },
     "reverseState": {
-      "due": "2026-03-04T19:43:10.561Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-06T20:55:31.783Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
+      "elapsed_days": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-04T19:42:10.561Z"
+      "state": 2,
+      "last_review": "2026-03-05T20:55:31.783Z"
     },
     "suspended": false,
     "front": "el rodillo\n\n*Extiendo la masa con el rodillo*"
