@@ -14072,7 +14072,17 @@
       "state": 1,
       "last_review": "2026-03-06T16:57:20.353Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:00:51.649Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:59:51.649Z"
+    },
     "suspended": false,
     "front": "celoso\n\n*Está celoso de su hermano*"
   },
@@ -14094,7 +14104,17 @@
       "state": 2,
       "last_review": "2026-03-06T16:57:26.027Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:00:59.812Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:59:59.812Z"
+    },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
   },
@@ -14116,7 +14136,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:35:02.900Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:09.717Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:09.717Z"
+    },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
   },
@@ -14138,7 +14168,17 @@
       "state": 2,
       "last_review": "2026-03-01T17:24:34.825Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-22T17:00:13.974Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T17:00:13.974Z"
+    },
     "suspended": false,
     "front": "amado\n\n*Me siento amado por mi familia*"
   },
@@ -14160,7 +14200,17 @@
       "state": 1,
       "last_review": "2026-03-06T16:57:30.002Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:19.021Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:19.021Z"
+    },
     "suspended": false,
     "front": "solitario\n\n*Me siento solitario sin mis amigos*"
   },
@@ -14182,7 +14232,17 @@
       "state": 1,
       "last_review": "2026-03-06T16:57:38.666Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:26.594Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:26.594Z"
+    },
     "suspended": false,
     "front": "nostálgico\n\n*Me siento nostálgico cuando veo fotos viejas*"
   },
@@ -14204,7 +14264,17 @@
       "state": 1,
       "last_review": "2026-03-06T16:57:43.244Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:32.688Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:32.688Z"
+    },
     "suspended": false,
     "front": "esperanzado\n\n*Estoy esperanzado sobre el futuro*"
   },
@@ -14226,7 +14296,17 @@
       "state": 2,
       "last_review": "2026-03-06T16:58:00.761Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:42.244Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:42.244Z"
+    },
     "suspended": false,
     "front": "desesperado\n\n*Está desesperado por encontrar trabajo*"
   },
@@ -14248,7 +14328,17 @@
       "state": 1,
       "last_review": "2026-03-06T16:58:05.837Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:01:51.187Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:51.187Z"
+    },
     "suspended": false,
     "front": "culpable\n\n*Me siento culpable por mentir*"
   },
@@ -14270,7 +14360,17 @@
       "state": 2,
       "last_review": "2026-03-06T16:58:11.790Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-06T17:10:59.370Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T17:00:59.370Z"
+    },
     "suspended": false,
     "front": "inocente\n\n*Él es inocente del crimen*"
   },
