@@ -14137,15 +14137,15 @@
       "last_review": "2026-03-01T17:35:02.900Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:08:26.241Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T17:10:20.401Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-06T17:03:26.241Z"
+      "last_review": "2026-03-06T17:05:20.401Z"
     },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
