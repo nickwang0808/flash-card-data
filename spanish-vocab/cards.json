@@ -13726,13 +13726,24 @@
   },
   "decepcionado": {
     "back": "disappointed",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:57:34.102Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:56:34.102Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "decepcionado\n\n*Estoy decepcionado con los resultados*"
   },
   "aburrido": {
@@ -13759,13 +13770,24 @@
   },
   "cansado": {
     "back": "tired",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:56:38.382Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:56:38.382Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "cansado\n\n*Estoy muy cansado después del trabajo*"
   },
   "agotado": {
@@ -13792,90 +13814,178 @@
   },
   "relajado": {
     "back": "relaxed",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:56:43.572Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:56:43.572Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "relajado\n\n*Me siento relajado en la playa*"
   },
   "tranquilo": {
     "back": "calm/peaceful",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:57:48.693Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:56:48.693Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "tranquilo\n\n*Estoy tranquilo ahora*"
   },
   "emocionado": {
     "back": "excited",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:56:56.246Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:56:56.246Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "emocionado\n\n*Estoy emocionado por las vacaciones*"
   },
   "entusiasmado": {
     "back": "enthusiastic",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:57:05.189Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:57:05.189Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "entusiasmado\n\n*Estoy entusiasmado con el proyecto nuevo*"
   },
   "orgulloso": {
     "back": "proud",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:09.279Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:09.279Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
   },
   "avergonzado": {
     "back": "ashamed/embarrassed",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:15.335Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:15.335Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
   },
   "celoso": {
     "back": "jealous",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:20.353Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:20.353Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "celoso\n\n*Está celoso de su hermano*"
   },
   "envidioso": {
     "back": "envious",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:57:26.027Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:57:26.027Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
   },
   "agradecido": {
