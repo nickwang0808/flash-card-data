@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-06T17:01:37.112Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:00:44.866Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T17:07:54.471Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-06T16:59:44.866Z"
+      "last_review": "2026-03-06T17:02:54.471Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
@@ -14073,15 +14073,15 @@
       "last_review": "2026-03-06T17:01:42.030Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:00:51.649Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T17:03:03.355Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-06T16:59:51.649Z"
+      "state": 2,
+      "last_review": "2026-03-06T17:03:03.355Z"
     },
     "suspended": false,
     "front": "celoso\n\n*Está celoso de su hermano*"
@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:00:59.812Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-06T17:08:12.037Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-06T16:59:59.812Z"
+      "last_review": "2026-03-06T17:03:12.037Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
