@@ -13720,7 +13720,17 @@
       "state": 2,
       "last_review": "2026-03-06T16:56:22.595Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-22T16:58:26.309Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:58:26.309Z"
+    },
     "suspended": false,
     "front": "frustrado\n\n*Me siento frustrado con este problema*"
   },
