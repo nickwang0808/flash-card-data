@@ -13849,15 +13849,15 @@
       "last_review": "2026-03-05T20:45:00.960Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:07:27.859Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T17:04:24.709Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-06T17:02:27.859Z"
+      "state": 2,
+      "last_review": "2026-03-06T17:04:24.709Z"
     },
     "suspended": false,
     "front": "agotado\n\n*Estoy completamente agotado*"
