@@ -14034,35 +14034,68 @@
   },
   "solitario": {
     "back": "lonely",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:30.002Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:30.002Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "solitario\n\n*Me siento solitario sin mis amigos*"
   },
   "nostálgico": {
     "back": "nostalgic",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:38.666Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:38.666Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "nostálgico\n\n*Me siento nostálgico cuando veo fotos viejas*"
   },
   "esperanzado": {
     "back": "hopeful",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:58:43.244Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:57:43.244Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "esperanzado\n\n*Estoy esperanzado sobre el futuro*"
   },
   "desesperado": {
