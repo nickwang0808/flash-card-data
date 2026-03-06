@@ -14100,46 +14100,90 @@
   },
   "desesperado": {
     "back": "desperate",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:58:00.761Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:58:00.761Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "desesperado\n\n*Está desesperado por encontrar trabajo*"
   },
   "culpable": {
     "back": "guilty",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:59:05.837Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:58:05.837Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "culpable\n\n*Me siento culpable por mentir*"
   },
   "inocente": {
     "back": "innocent",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-22T16:58:11.790Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-06T16:58:11.790Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "inocente\n\n*Él es inocente del crimen*"
   },
   "seguro": {
     "back": "confident/secure",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-06T16:59:15.352Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-06T16:58:15.352Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "seguro\n\n*Me siento seguro de mi decisión*"
   },
   "inseguro": {
