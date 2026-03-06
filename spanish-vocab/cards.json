@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-06T17:04:01.710Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:07:42.931Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-06T17:14:49.602Z",
+      "stability": 0.16938679,
+      "difficulty": 8.37011594,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-06T17:02:42.931Z"
+      "last_review": "2026-03-06T17:04:49.602Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
