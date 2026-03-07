@@ -8468,15 +8468,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-06T17:28:29.790Z",
-      "stability": 5.09600981,
-      "difficulty": 7.28415632,
-      "elapsed_days": 8,
-      "scheduled_days": 5,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-01T17:28:29.790Z"
+      "due": "2026-03-07T04:31:29.052Z",
+      "stability": 1.43165939,
+      "difficulty": 8.14280935,
+      "elapsed_days": 6,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-07T04:26:29.052Z"
     },
     "reverseState": null,
     "suspended": false
@@ -10910,15 +10910,15 @@
       "last_review": "2026-02-21T20:42:10.447Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:55:06.716Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-05T20:55:06.716Z"
+      "due": "2026-03-07T04:31:39.656Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-07T04:26:39.656Z"
     },
     "suspended": false,
     "front": "rallar\n\n*Rallo el queso para la pizza*"
@@ -10943,15 +10943,15 @@
       "last_review": "2026-02-21T20:42:19.486Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:55:09.374Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:26:45.130Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T20:55:09.374Z"
+      "last_review": "2026-03-07T04:26:45.130Z"
     },
     "suspended": false,
     "front": "exprimir\n\n*Exprimo limones para hacer limonada*"
@@ -11477,15 +11477,15 @@
       "last_review": "2026-02-21T20:44:20.464Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:55:25.721Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:26:52.016Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T20:55:25.721Z"
+      "last_review": "2026-03-07T04:26:52.016Z"
     },
     "suspended": false,
     "front": "el sacacorchos\n\n*Abro el vino con el sacacorchos*"
@@ -11573,15 +11573,15 @@
       "last_review": "2026-02-21T20:45:00.111Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:55:31.783Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:26:57.520Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T20:55:31.783Z"
+      "last_review": "2026-03-07T04:26:57.520Z"
     },
     "suspended": false,
     "front": "el rodillo\n\n*Extiendo la masa con el rodillo*"
@@ -11797,15 +11797,15 @@
       "last_review": "2026-02-21T20:46:36.607Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:56:39.842Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:27:05.048Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T20:56:39.842Z"
+      "last_review": "2026-03-07T04:27:05.048Z"
     },
     "suspended": false,
     "front": "el delantal\n\n*Me pongo el delantal antes de cocinar*"
@@ -11921,15 +11921,15 @@
       "last_review": "2026-02-21T20:46:46.006Z"
     },
     "reverseState": {
-      "due": "2026-03-06T20:56:49.969Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:27:09.658Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T20:56:49.969Z"
+      "last_review": "2026-03-07T04:27:09.658Z"
     },
     "suspended": false,
     "front": "la zanahoria\n\n*Las zanahorias son muy saludables*"
@@ -12696,15 +12696,15 @@
       "last_review": "2026-02-21T20:48:10.254Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:00:31.738Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:27:14.219Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:00:31.738Z"
+      "last_review": "2026-03-07T04:27:14.219Z"
     },
     "suspended": false,
     "front": "escurrir\n\n*Escurro los platos en el escurridor*"
@@ -13154,15 +13154,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-06T17:29:42.182Z",
-      "stability": 4.93910269,
-      "difficulty": 8.31268511,
-      "elapsed_days": 8,
-      "scheduled_days": 5,
-      "reps": 7,
+      "due": "2026-03-19T04:26:35.665Z",
+      "stability": 11.50716453,
+      "difficulty": 8.28927947,
+      "elapsed_days": 6,
+      "scheduled_days": 12,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-01T17:29:42.182Z"
+      "last_review": "2026-03-07T04:26:35.665Z"
     },
     "reverseState": {
       "due": "2026-03-06T21:09:54.027Z",
@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-06T17:01:37.112Z"
     },
     "reverseState": {
-      "due": "2026-03-06T17:15:00.139Z",
-      "stability": 0.16938679,
-      "difficulty": 8.37011594,
-      "elapsed_days": 0,
+      "due": "2026-03-07T04:31:19.424Z",
+      "stability": 0.08486761,
+      "difficulty": 8.87296465,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-06T17:05:00.139Z"
+      "last_review": "2026-03-07T04:26:19.424Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
