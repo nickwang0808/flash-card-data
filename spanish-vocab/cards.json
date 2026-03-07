@@ -14520,7 +14520,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:24:26.223Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:28:34.153Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:34.153Z"
+    },
     "suspended": false,
     "front": "cobarde\n\n*No seas cobarde*"
   },
@@ -14542,7 +14552,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:31.651Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T19:27:37.218Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:27:37.218Z"
+    },
     "suspended": false,
     "front": "paciente\n\n*Tienes que ser paciente*"
   },
@@ -14564,7 +14584,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:33.884Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T19:27:39.413Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:27:39.413Z"
+    },
     "suspended": false,
     "front": "impaciente\n\n*Estoy impaciente por los resultados*"
   },
@@ -14586,7 +14616,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:38.012Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:28:47.868Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:47.868Z"
+    },
     "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
   },
@@ -14608,7 +14648,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:40.910Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:37:52.876Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:52.876Z"
+    },
     "suspended": false,
     "front": "pesimista\n\n*No seas tan pesimista*"
   },
