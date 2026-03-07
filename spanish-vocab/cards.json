@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-07T04:46:55.177Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:36:10.561Z",
-      "stability": 0.05062991,
-      "difficulty": 9.33970582,
+      "due": "2026-03-07T19:45:32.931Z",
+      "stability": 0.02536703,
+      "difficulty": 9.52487763,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T19:31:10.561Z"
+      "last_review": "2026-03-07T19:40:32.931Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -13849,15 +13849,15 @@
       "last_review": "2026-03-05T20:45:00.960Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:38:18.314Z",
-      "stability": 0.20168903,
-      "difficulty": 8.66475703,
-      "elapsed_days": 1,
+      "due": "2026-03-07T19:45:48.671Z",
+      "stability": 0.10105196,
+      "difficulty": 9.07106938,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T19:33:18.314Z"
+      "last_review": "2026-03-07T19:40:48.671Z"
     },
     "suspended": false,
     "front": "agotado\n\n*Estoy completamente agotado*"
@@ -14137,15 +14137,15 @@
       "last_review": "2026-03-01T17:35:02.900Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:38:40.635Z",
-      "stability": 0.05062991,
-      "difficulty": 9.3329363,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 6,
+      "due": "2026-03-08T19:41:12.559Z",
+      "stability": 0.07127533,
+      "difficulty": 9.3048375,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 7,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-07T19:33:40.635Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:41:12.559Z"
     },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
@@ -14297,15 +14297,15 @@
       "last_review": "2026-03-06T16:58:00.761Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:38:27.782Z",
-      "stability": 0.20168903,
-      "difficulty": 8.66475703,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-08T19:40:55.740Z",
+      "stability": 0.28393201,
+      "difficulty": 8.63973185,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-07T19:33:27.782Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:40:55.740Z"
     },
     "suspended": false,
     "front": "desesperado\n\n*Está desesperado por encontrar trabajo*"
@@ -14649,15 +14649,15 @@
       "last_review": "2026-03-07T19:24:40.910Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:37:52.876Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-11T19:40:42.331Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:27:52.876Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:40:42.331Z"
     },
     "suspended": false,
     "front": "pesimista\n\n*No seas tan pesimista*"
@@ -14681,15 +14681,15 @@
       "last_review": "2026-03-07T19:33:51.503Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:38:40.269Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-07T19:46:05.405Z",
+      "stability": 1.58976351,
+      "difficulty": 6.79693258,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T19:28:40.269Z"
+      "last_review": "2026-03-07T19:41:05.405Z"
     },
     "suspended": false,
     "front": "la alegría\n\n*La alegría es contagiosa*"
@@ -14745,15 +14745,15 @@
       "last_review": "2026-03-07T19:36:00.278Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:38:57.700Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:41:17.998Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:28:57.700Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:41:17.998Z"
     },
     "suspended": false,
     "front": "la felicidad\n\n*La felicidad es lo más importante*"
@@ -14798,15 +14798,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:38:55.813Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-08T19:41:14.868Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:33:55.813Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:41:14.868Z"
     },
     "reverseState": {
       "due": "2026-03-09T19:35:53.750Z",
@@ -15046,15 +15046,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:37:20.180Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-11T19:40:37.869Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:27:20.180Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:40:37.869Z"
     },
     "reverseState": {
       "due": "2026-03-07T19:40:09.347Z",
