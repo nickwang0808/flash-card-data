@@ -14201,15 +14201,15 @@
       "last_review": "2026-03-07T19:31:47.585Z"
     },
     "reverseState": {
-      "due": "2026-03-07T17:03:32.009Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-09T19:32:41.961Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:03:32.009Z"
+      "last_review": "2026-03-07T19:32:41.961Z"
     },
     "suspended": false,
     "front": "solitario\n\n*Me siento solitario sin mis amigos*"
