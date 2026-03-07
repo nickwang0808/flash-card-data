@@ -13625,15 +13625,15 @@
       "last_review": "2026-03-07T04:27:35.033Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:10:13.593Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-09T19:30:42.508Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:10:13.593Z"
+      "last_review": "2026-03-07T19:30:42.508Z"
     },
     "suspended": false,
     "front": "sorprendido\n\n*Estoy sorprendido por la noticia*"
@@ -13657,15 +13657,15 @@
       "last_review": "2026-03-05T20:45:33.953Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:10:26.371Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-09T19:30:45.874Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:10:26.371Z"
+      "last_review": "2026-03-07T19:30:45.874Z"
     },
     "suspended": false,
     "front": "asombrado\n\n*Estoy asombrado por el paisaje*"
