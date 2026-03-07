@@ -14712,7 +14712,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:24:53.121Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:29:50.739Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:28:50.739Z"
+    },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
   },
@@ -14734,7 +14744,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:24:57.424Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:38:57.700Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:28:57.700Z"
+    },
     "suspended": false,
     "front": "la felicidad\n\n*La felicidad es lo más importante*"
   },
@@ -14756,7 +14776,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:25:00.618Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:30:01.451Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:29:01.451Z"
+    },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
   },
@@ -14778,7 +14808,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:25:04.610Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:34:10.404Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:29:10.404Z"
+    },
     "suspended": false,
     "front": "la ira\n\n*La ira no resuelve nada*"
   },
