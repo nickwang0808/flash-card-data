@@ -7699,15 +7699,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-06T21:08:21.600Z",
-      "stability": 0.92193055,
-      "difficulty": 8.42297385,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 6,
+      "due": "2026-03-10T04:46:28.311Z",
+      "stability": 3.26995397,
+      "difficulty": 8.39906088,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 7,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-05T21:08:21.600Z"
+      "last_review": "2026-03-07T04:46:28.311Z"
     },
     "reverseState": null,
     "suspended": false
@@ -13518,26 +13518,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-06T21:08:17.693Z",
-      "stability": 0.88181651,
-      "difficulty": 9.64035532,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 14,
+      "due": "2026-03-09T04:46:23.179Z",
+      "stability": 2.11659942,
+      "difficulty": 9.61084239,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 15,
       "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-05T21:08:17.693Z"
+      "last_review": "2026-03-07T04:46:23.179Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:07:02.440Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:46:06.750Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:07:02.440Z"
+      "last_review": "2026-03-07T04:46:06.750Z"
     },
     "suspended": false,
     "front": "asustado\n\n*El niño está asustado de la oscuridad*"
@@ -13593,15 +13593,15 @@
       "last_review": "2026-03-07T04:27:30.272Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:07:22.557Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:46:13.000Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:07:22.557Z"
+      "last_review": "2026-03-07T04:46:13.000Z"
     },
     "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
@@ -13689,15 +13689,15 @@
       "last_review": "2026-03-05T20:32:32.803Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:07:43.143Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-05T21:07:43.143Z"
+      "due": "2026-03-07T04:51:20.298Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-07T04:46:20.298Z"
     },
     "suspended": false,
     "front": "confundido\n\n*Estoy confundido con las instrucciones*"
