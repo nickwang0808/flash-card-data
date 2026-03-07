@@ -13261,15 +13261,15 @@
       "last_review": "2026-03-05T20:31:22.340Z"
     },
     "reverseState": {
-      "due": "2026-03-07T04:33:21.685Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
+      "due": "2026-03-07T19:35:58.324Z",
+      "stability": 0.20081743,
+      "difficulty": 8.67152654,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T04:28:21.685Z"
+      "last_review": "2026-03-07T19:30:58.324Z"
     },
     "suspended": false,
     "front": "deprimido\n\n*Él está deprimido desde hace semanas*"
@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-07T04:46:55.177Z"
     },
     "reverseState": {
-      "due": "2026-03-07T05:54:22.441Z",
-      "stability": 0.10105196,
-      "difficulty": 9.06429988,
-      "elapsed_days": 2,
+      "due": "2026-03-07T19:36:10.561Z",
+      "stability": 0.05062991,
+      "difficulty": 9.33970582,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T05:49:22.441Z"
+      "last_review": "2026-03-07T19:31:10.561Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -13689,15 +13689,15 @@
       "last_review": "2026-03-05T20:32:32.803Z"
     },
     "reverseState": {
-      "due": "2026-03-07T04:51:20.298Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-08T19:31:02.683Z",
+      "stability": 0.56424932,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-07T04:46:20.298Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:31:02.683Z"
     },
     "suspended": false,
     "front": "confundido\n\n*Estoy confundido con las instrucciones*"
