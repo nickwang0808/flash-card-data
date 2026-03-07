@@ -12925,15 +12925,15 @@
       "last_review": "2026-02-21T20:48:47.466Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:09:46.095Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-09T19:30:16.717Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:09:46.095Z"
+      "last_review": "2026-03-07T19:30:16.717Z"
     },
     "suspended": false,
     "front": "el lavavajillas\n\n*Pongo los platos en el lavavajillas*"
@@ -13165,15 +13165,15 @@
       "last_review": "2026-03-07T04:26:35.665Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:09:54.027Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-09T19:30:26.327Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:09:54.027Z"
+      "last_review": "2026-03-07T19:30:26.327Z"
     },
     "suspended": false,
     "front": "alegre\n\n*Me siento alegre cuando veo a mis amigos*"
@@ -13561,15 +13561,15 @@
       "last_review": "2026-03-07T04:47:00.492Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:10:08.434Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-09T19:30:34.963Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:10:08.434Z"
+      "last_review": "2026-03-07T19:30:34.963Z"
     },
     "suspended": false,
     "front": "temeroso\n\n*Soy temeroso de las alturas*"
@@ -14840,7 +14840,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:25:10.264Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T19:29:22.761Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:29:22.761Z"
+    },
     "suspended": false,
     "front": "el miedo\n\n*El miedo me paraliza*"
   },
@@ -14862,7 +14872,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:25:12.761Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-06T19:29:27.174Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:29:27.174Z"
+    },
     "suspended": false,
     "front": "el terror\n\n*Siento terror en la oscuridad*"
   },
@@ -14884,7 +14904,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:26:47.615Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:39:36.355Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:29:36.355Z"
+    },
     "suspended": false,
     "front": "la ansiedad\n\n*La ansiedad afecta mi sueño*"
   },
@@ -14906,7 +14936,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:26:54.018Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:30:45.539Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:29:45.539Z"
+    },
     "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
   },
@@ -14928,7 +14968,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:27:00.797Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:30:54.770Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:29:54.770Z"
+    },
     "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
   },
@@ -14950,7 +15000,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:27:07.461Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:31:01.661Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:30:01.661Z"
+    },
     "suspended": false,
     "front": "el asombro\n\n*Miro con asombro las estrellas*"
   },
@@ -14996,7 +15056,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:27:20.180Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:40:09.347Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:30:09.347Z"
+    },
     "suspended": false,
     "front": "la decepción\n\n*La decepción duele*"
   },
