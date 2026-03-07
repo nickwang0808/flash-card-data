@@ -14628,57 +14628,112 @@
   },
   "la felicidad": {
     "back": "happiness",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:34:57.424Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:24:57.424Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la felicidad\n\n*La felicidad es lo más importante*"
   },
   "el enojo": {
     "back": "anger",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:25:00.618Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:25:00.618Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
   },
   "la ira": {
     "back": "rage/wrath",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:26:04.610Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:25:04.610Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la ira\n\n*La ira no resuelve nada*"
   },
   "el miedo": {
     "back": "fear",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:25:10.264Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:25:10.264Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el miedo\n\n*El miedo me paraliza*"
   },
   "el terror": {
     "back": "terror",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:25:12.761Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:25:12.761Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el terror\n\n*Siento terror en la oscuridad*"
   },
   "la ansiedad": {
