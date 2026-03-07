@@ -13977,15 +13977,15 @@
       "last_review": "2026-03-06T16:57:05.189Z"
     },
     "reverseState": {
-      "due": "2026-03-08T03:56:02.166Z",
-      "stability": 0.11947418,
-      "difficulty": 8.84698172,
-      "elapsed_days": 1,
+      "due": "2026-03-08T19:44:27.864Z",
+      "stability": 0.07298801,
+      "difficulty": 9.16613208,
+      "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
+      "reps": 7,
+      "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T03:56:02.166Z"
+      "last_review": "2026-03-07T19:44:27.864Z"
     },
     "suspended": false,
     "front": "entusiasmado\n\n*Estoy entusiasmado con el proyecto nuevo*"
