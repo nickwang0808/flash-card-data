@@ -13013,15 +13013,15 @@
       "last_review": "2026-02-21T20:48:57.672Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:05:46.173Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:28:02.770Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:05:46.173Z"
+      "last_review": "2026-03-07T04:28:02.770Z"
     },
     "suspended": false,
     "front": "el escurreplatos\n\n*Los vasos se secan en el escurreplatos*"
@@ -13045,15 +13045,15 @@
       "last_review": "2026-02-21T20:49:00.872Z"
     },
     "reverseState": {
-      "due": "2026-03-06T21:05:49.371Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-11T04:28:04.905Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:05:49.371Z"
+      "last_review": "2026-03-07T04:28:04.905Z"
     },
     "suspended": false,
     "front": "la grasa\n\n*Esta sartén tiene mucha grasa*"
