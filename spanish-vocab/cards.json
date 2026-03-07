@@ -13785,15 +13785,15 @@
       "last_review": "2026-03-01T17:17:57.514Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:32:27.085Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-13T19:35:42.175Z",
+      "stability": 6.28863826,
+      "difficulty": 6.70242594,
+      "elapsed_days": 1,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:02:22.370Z"
+      "last_review": "2026-03-07T19:35:42.175Z"
     },
     "suspended": false,
     "front": "aburrido\n\n*Estoy aburrido en casa*"
@@ -14382,15 +14382,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:32:08.003Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-13T19:35:39.600Z",
+      "stability": 6.28863826,
+      "difficulty": 6.70242594,
+      "elapsed_days": 1,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:02:06.115Z"
+      "last_review": "2026-03-07T19:35:39.600Z"
     },
     "reverseState": {
       "due": "2026-03-22T17:01:02.501Z",
