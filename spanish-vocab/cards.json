@@ -14408,112 +14408,222 @@
   },
   "inseguro": {
     "back": "insecure",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:24:16.964Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:16.964Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "inseguro\n\n*Me siento inseguro en situaciones nuevas*"
   },
   "tímido": {
     "back": "shy",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:24:19.245Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:19.245Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "tímido\n\n*Soy muy tímido con gente nueva*"
   },
   "valiente": {
     "back": "brave",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:25:21.950Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:24:21.950Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "valiente\n\n*Eres muy valiente*"
   },
   "cobarde": {
     "back": "cowardly",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:25:26.223Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:24:26.223Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "cobarde\n\n*No seas cobarde*"
   },
   "paciente": {
     "back": "patient",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:24:31.651Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:31.651Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "paciente\n\n*Tienes que ser paciente*"
   },
   "impaciente": {
     "back": "impatient",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:24:33.884Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:33.884Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "impaciente\n\n*Estoy impaciente por los resultados*"
   },
   "optimista": {
     "back": "optimistic",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:24:38.012Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:38.012Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
   },
   "pesimista": {
     "back": "pessimistic",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-05-06T19:24:40.910Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:24:40.910Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "pesimista\n\n*No seas tan pesimista*"
   },
   "la alegría": {
     "back": "joy/happiness",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:25:47.146Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:24:47.146Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la alegría\n\n*La alegría es contagiosa*"
   },
   "la tristeza": {
     "back": "sadness",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:34:53.121Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:24:53.121Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
   },
   "la felicidad": {
