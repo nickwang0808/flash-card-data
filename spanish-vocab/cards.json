@@ -10910,15 +10910,15 @@
       "last_review": "2026-02-21T20:42:10.447Z"
     },
     "reverseState": {
-      "due": "2026-03-08T05:49:43.445Z",
+      "due": "2026-03-09T19:44:51.545Z",
       "stability": 0.56424932,
-      "difficulty": 8.04822548,
+      "difficulty": 8.02603635,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "scheduled_days": 2,
+      "reps": 5,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T05:49:43.445Z"
+      "last_review": "2026-03-07T19:44:51.545Z"
     },
     "suspended": false,
     "front": "rallar\n\n*Rallo el queso para la pizza*"
@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-07T19:31:39.315Z"
     },
     "reverseState": {
-      "due": "2026-03-08T05:49:36.747Z",
-      "stability": 0.11947418,
-      "difficulty": 8.84698172,
+      "due": "2026-03-08T19:44:47.075Z",
+      "stability": 0.07298801,
+      "difficulty": 9.16613208,
       "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
+      "reps": 7,
+      "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T05:49:36.747Z"
+      "last_review": "2026-03-07T19:44:47.075Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
