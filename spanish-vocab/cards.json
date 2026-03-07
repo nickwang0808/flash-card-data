@@ -14680,7 +14680,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:24:47.146Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:38:40.269Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:28:40.269Z"
+    },
     "suspended": false,
     "front": "la alegría\n\n*La alegría es contagiosa*"
   },
