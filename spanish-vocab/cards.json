@@ -14424,7 +14424,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:16.964Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T19:27:22.970Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:27:22.970Z"
+    },
     "suspended": false,
     "front": "inseguro\n\n*Me siento inseguro en situaciones nuevas*"
   },
@@ -14446,7 +14456,17 @@
       "state": 2,
       "last_review": "2026-03-07T19:24:19.245Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T19:27:24.847Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:27:24.847Z"
+    },
     "suspended": false,
     "front": "tímido\n\n*Soy muy tímido con gente nueva*"
   },
@@ -14468,7 +14488,17 @@
       "state": 1,
       "last_review": "2026-03-07T19:24:21.950Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T19:28:30.748Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:30.748Z"
+    },
     "suspended": false,
     "front": "valiente\n\n*Eres muy valiente*"
   },
@@ -14738,79 +14768,136 @@
   },
   "la ansiedad": {
     "back": "anxiety",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:26:47.615Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:26:47.615Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la ansiedad\n\n*La ansiedad afecta mi sueño*"
   },
   "la preocupación": {
     "back": "worry",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:26:54.018Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:26:54.018Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
   },
   "la sorpresa": {
     "back": "surprise",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-23T19:27:00.797Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T19:27:00.797Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
   },
   "el asombro": {
     "back": "amazement/wonder",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:28:07.461Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:07.461Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el asombro\n\n*Miro con asombro las estrellas*"
   },
   "la confusión": {
     "back": "confusion",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true,
     "front": "la confusión\n\n*La confusión es normal al principio*"
   },
   "la frustración": {
     "back": "frustration",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true,
     "front": "la frustración\n\n*La frustración es parte del aprendizaje*"
   },
   "la decepción": {
     "back": "disappointment",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-07T19:37:20.180Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T19:27:20.180Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la decepción\n\n*La decepción duele*"
   },
   "el aburrimiento": {
