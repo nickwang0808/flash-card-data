@@ -14222,15 +14222,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:31:52.464Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-13T19:35:03.305Z",
+      "stability": 6.28863826,
+      "difficulty": 6.70242594,
+      "elapsed_days": 1,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:01:54.910Z"
+      "last_review": "2026-03-07T19:35:03.305Z"
     },
     "reverseState": {
       "due": "2026-03-13T19:32:52.964Z",
@@ -14254,15 +14254,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:31:55.989Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-09T19:35:11.692Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:01:58.865Z"
+      "last_review": "2026-03-07T19:35:11.692Z"
     },
     "reverseState": {
       "due": "2026-03-09T19:32:57.847Z",
@@ -14318,15 +14318,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T19:32:03.829Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-09T19:35:16.101Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:02:02.819Z"
+      "last_review": "2026-03-07T19:35:16.101Z"
     },
     "reverseState": {
       "due": "2026-03-09T19:33:02.527Z",
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:24:53.121Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:29:50.739Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T19:39:31.848Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T19:28:50.739Z"
+      "last_review": "2026-03-07T19:34:31.848Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:30:01.451Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T19:34:38.272Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:29:01.451Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:34:38.272Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -14937,15 +14937,15 @@
       "last_review": "2026-03-07T19:26:54.018Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:30:45.539Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T19:34:43.490Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:29:45.539Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:34:43.490Z"
     },
     "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
@@ -14969,15 +14969,15 @@
       "last_review": "2026-03-07T19:27:00.797Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:30:54.770Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T19:34:50.950Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T19:29:54.770Z"
+      "state": 2,
+      "last_review": "2026-03-07T19:34:50.950Z"
     },
     "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
@@ -15001,15 +15001,15 @@
       "last_review": "2026-03-07T19:34:00.522Z"
     },
     "reverseState": {
-      "due": "2026-03-07T19:31:01.661Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T19:39:59.403Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T19:30:01.661Z"
+      "last_review": "2026-03-07T19:34:59.403Z"
     },
     "suspended": false,
     "front": "el asombro\n\n*Miro con asombro las estrellas*"
