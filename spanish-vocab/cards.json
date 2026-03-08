@@ -13261,15 +13261,15 @@
       "last_review": "2026-03-05T20:31:22.340Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:36:05.068Z",
-      "stability": 0.282705,
-      "difficulty": 8.64647023,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
+      "due": "2026-03-10T17:50:33.431Z",
+      "stability": 1.3873132,
+      "difficulty": 8.62152917,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:36:05.068Z"
+      "last_review": "2026-03-08T17:50:33.431Z"
     },
     "suspended": false,
     "front": "deprimido\n\n*Él está deprimido desde hace semanas*"
@@ -14297,15 +14297,15 @@
       "last_review": "2026-03-06T16:58:00.761Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:40:55.740Z",
-      "stability": 0.28393201,
-      "difficulty": 8.63973185,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
+      "due": "2026-03-10T17:50:43.351Z",
+      "stability": 1.3924146,
+      "difficulty": 8.61482179,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:40:55.740Z"
+      "last_review": "2026-03-08T17:50:43.351Z"
     },
     "suspended": false,
     "front": "desesperado\n\n*Está desesperado por encontrar trabajo*"
@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:34:38.272Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-10T17:50:11.897Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:34:38.272Z"
+      "last_review": "2026-03-08T17:50:11.897Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -14937,15 +14937,15 @@
       "last_review": "2026-03-07T19:26:54.018Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:34:43.490Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-10T17:50:19.054Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:34:43.490Z"
+      "last_review": "2026-03-08T17:50:19.054Z"
     },
     "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
@@ -14969,15 +14969,15 @@
       "last_review": "2026-03-07T19:27:00.797Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:34:50.950Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-10T17:50:26.327Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:34:50.950Z"
+      "last_review": "2026-03-08T17:50:26.327Z"
     },
     "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
