@@ -15408,7 +15408,17 @@
       "state": 1,
       "last_review": "2026-03-08T17:40:41.341Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T17:52:56.571Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:42:56.571Z"
+    },
     "suspended": false,
     "front": "la soledad\n\n*La soledad puede ser dolorosa*"
   },
@@ -15430,7 +15440,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:40:46.046Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:03.041Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:03.041Z"
+    },
     "suspended": false,
     "front": "la nostalgia\n\n*Siento nostalgia por mi niñez*"
   },
@@ -15452,7 +15472,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:40:48.344Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:07.328Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:07.328Z"
+    },
     "suspended": false,
     "front": "la esperanza\n\n*La esperanza es lo último que se pierde*"
   },
@@ -15474,7 +15504,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:40:52.052Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:13.755Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:13.755Z"
+    },
     "suspended": false,
     "front": "la desesperación\n\n*La desesperación me invade*"
   },
@@ -15496,7 +15536,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:40:54.296Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:18.585Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:18.585Z"
+    },
     "suspended": false,
     "front": "la culpa\n\n*La culpa me atormenta*"
   },
@@ -15518,7 +15568,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:40:58.515Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T17:44:26.316Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:43:26.316Z"
+    },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
   },
@@ -15540,7 +15600,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:41:06.000Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:35.335Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:35.335Z"
+    },
     "suspended": false,
     "front": "la seguridad\n\n*La seguridad en uno mismo es clave*"
   },
@@ -15562,7 +15632,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:41:08.439Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T17:43:39.256Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:43:39.256Z"
+    },
     "suspended": false,
     "front": "la inseguridad\n\n*La inseguridad me frena*"
   },
@@ -15584,7 +15664,17 @@
       "state": 2,
       "last_review": "2026-03-08T17:41:11.328Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T17:44:44.628Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:43:44.628Z"
+    },
     "suspended": false,
     "front": "la timidez\n\n*La timidez se puede superar*"
   },
