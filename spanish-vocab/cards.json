@@ -8468,15 +8468,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-09T05:49:41.080Z",
-      "stability": 2.01544888,
-      "difficulty": 8.12018513,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-11T17:53:49.645Z",
+      "stability": 3.42083861,
+      "difficulty": 8.09766499,
+      "elapsed_days": 1,
+      "scheduled_days": 3,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T05:49:41.080Z"
+      "last_review": "2026-03-08T17:53:49.645Z"
     },
     "reverseState": null,
     "suspended": false
@@ -12797,15 +12797,15 @@
       "last_review": "2026-02-21T20:48:22.495Z"
     },
     "reverseState": {
-      "due": "2026-03-09T04:47:06.722Z",
-      "stability": 2.4769328,
-      "difficulty": 8.03820349,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 4,
+      "due": "2026-03-12T17:53:39.594Z",
+      "stability": 3.90147267,
+      "difficulty": 8.01606046,
+      "elapsed_days": 1,
+      "scheduled_days": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T04:47:06.722Z"
+      "last_review": "2026-03-08T17:53:39.594Z"
     },
     "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
@@ -12861,15 +12861,15 @@
       "last_review": "2026-03-05T20:44:25.953Z"
     },
     "reverseState": {
-      "due": "2026-03-09T04:47:12.102Z",
-      "stability": 2.4769328,
-      "difficulty": 8.03820349,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 4,
+      "due": "2026-03-12T17:53:45.245Z",
+      "stability": 3.90147267,
+      "difficulty": 8.01606046,
+      "elapsed_days": 1,
+      "scheduled_days": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T04:47:12.102Z"
+      "last_review": "2026-03-08T17:53:45.245Z"
     },
     "suspended": false,
     "front": "el trapo\n\n*Seco los platos con el trapo*"
