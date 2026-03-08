@@ -15153,15 +15153,15 @@
       "last_review": "2026-03-08T17:39:46.141Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:51:58.507Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-15T17:47:15.460Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:41:58.507Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:15.460Z"
     },
     "suspended": false,
     "front": "la emoción\n\n*La emoción es palpable*"
@@ -15185,15 +15185,15 @@
       "last_review": "2026-03-08T17:39:54.263Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:52:04.774Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-12T17:47:24.344Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:04.774Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:24.344Z"
     },
     "suspended": false,
     "front": "el entusiasmo\n\n*Tu entusiasmo es inspirador*"
@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-08T17:44:03.854Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:51:38.656Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-03-09T17:47:11.299Z",
+      "stability": 0.07127533,
+      "difficulty": 9.05423157,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 4,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:46:38.656Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:11.299Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
@@ -15569,15 +15569,15 @@
       "last_review": "2026-03-08T17:40:58.515Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:51:03.590Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-03-09T17:47:04.423Z",
+      "stability": 0.14225804,
+      "difficulty": 8.65468874,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:46:03.590Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:04.423Z"
     },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
