@@ -15302,15 +15302,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T17:50:26.972Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-12T17:46:21.950Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:40:26.972Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:46:21.950Z"
     },
     "reverseState": {
       "due": "2026-03-08T17:50:44.011Z",
