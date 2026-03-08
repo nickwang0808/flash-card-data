@@ -14137,15 +14137,15 @@
       "last_review": "2026-03-01T17:35:02.900Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:41:12.559Z",
-      "stability": 0.07127533,
-      "difficulty": 9.3048375,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
+      "due": "2026-03-10T17:50:54.085Z",
+      "stability": 0.61038143,
+      "difficulty": 9.27686795,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:41:12.559Z"
+      "last_review": "2026-03-08T17:50:54.085Z"
     },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:41:28.652Z",
+      "due": "2026-03-09T17:51:11.543Z",
       "stability": 0.28393201,
-      "difficulty": 8.06044885,
+      "difficulty": 8.63973185,
       "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
+      "reps": 5,
+      "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:41:28.652Z"
+      "last_review": "2026-03-08T17:51:11.543Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
@@ -14798,15 +14798,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T19:41:14.868Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-10T17:50:57.369Z",
+      "stability": 1.6644706,
+      "difficulty": 8.03820349,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:41:14.868Z"
+      "last_review": "2026-03-08T17:50:57.369Z"
     },
     "reverseState": {
       "due": "2026-03-09T19:35:53.750Z",
