@@ -15217,15 +15217,15 @@
       "last_review": "2026-03-08T17:45:49.763Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:52:11.565Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-12T17:47:39.837Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:11.565Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:39.837Z"
     },
     "suspended": false,
     "front": "el orgullo\n\n*El orgullo es importante*"
@@ -15345,15 +15345,15 @@
       "last_review": "2026-03-08T17:40:30.963Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:52:43.088Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-12T17:47:47.039Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:43.088Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:47.039Z"
     },
     "suspended": false,
     "front": "la gratitud\n\n*Siento gratitud por todo*"
@@ -15377,15 +15377,15 @@
       "last_review": "2026-03-08T17:40:32.767Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:52:49.245Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-15T17:47:50.768Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:49.245Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:50.768Z"
     },
     "suspended": false,
     "front": "el amor\n\n*El amor lo conquista todo*"
@@ -15409,15 +15409,15 @@
       "last_review": "2026-03-08T17:46:45.309Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:52:56.571Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-12T17:47:58.551Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:56.571Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:47:58.551Z"
     },
     "suspended": false,
     "front": "la soledad\n\n*La soledad puede ser dolorosa*"
