@@ -15313,15 +15313,15 @@
       "last_review": "2026-03-08T17:40:26.972Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:43:36.252Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:49:56.469Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:42:36.252Z"
+      "last_review": "2026-03-08T17:44:56.469Z"
     },
     "suspended": false,
     "front": "la envidia\n\n*La envidia no lleva a nada bueno*"
@@ -15569,15 +15569,15 @@
       "last_review": "2026-03-08T17:40:58.515Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:44:26.316Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:50:06.011Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:43:26.316Z"
+      "last_review": "2026-03-08T17:45:06.011Z"
     },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
@@ -15665,15 +15665,15 @@
       "last_review": "2026-03-08T17:41:11.328Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:44:44.628Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:50:13.653Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:43:44.628Z"
+      "last_review": "2026-03-08T17:45:13.653Z"
     },
     "suspended": false,
     "front": "la timidez\n\n*La timidez se puede superar*"
@@ -15686,15 +15686,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T17:49:17.447Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-09T17:45:18.492Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:44:17.447Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:45:18.492Z"
     },
     "reverseState": {
       "due": "2026-03-08T17:53:55.345Z",
