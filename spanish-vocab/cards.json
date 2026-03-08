@@ -15057,15 +15057,15 @@
       "last_review": "2026-03-07T19:40:37.869Z"
     },
     "reverseState": {
-      "due": "2026-03-08T19:42:29.930Z",
-      "stability": 1.12131352,
-      "difficulty": 7.79410254,
+      "due": "2026-03-09T17:51:59.342Z",
+      "stability": 0.66724907,
+      "difficulty": 8.46147515,
       "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 4,
-      "lapses": 0,
+      "reps": 6,
+      "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:42:29.930Z"
+      "last_review": "2026-03-08T17:51:59.342Z"
     },
     "suspended": false,
     "front": "la decepción\n\n*La decepción duele*"
