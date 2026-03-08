@@ -15072,13 +15072,24 @@
   },
   "el aburrimiento": {
     "back": "boredom",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:39:29.674Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:39:29.674Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el aburrimiento\n\n*El aburrimiento me mata*"
   },
   "el cansancio": {
