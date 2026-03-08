@@ -15238,15 +15238,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T17:41:12.966Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:54:03.854Z",
+      "stability": 0.33807815,
+      "difficulty": 7.6297166,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:40:12.966Z"
+      "last_review": "2026-03-08T17:44:03.854Z"
     },
     "reverseState": {
       "due": "2026-03-08T17:43:19.156Z",
@@ -15270,15 +15270,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T17:41:19.689Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-09T17:44:08.877Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:40:19.689Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:44:08.877Z"
     },
     "reverseState": {
       "due": "2026-03-08T17:43:27.267Z",
@@ -15686,17 +15686,27 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T17:42:21.330Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:49:17.447Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:44:17.447Z"
+    },
+    "reverseState": {
+      "due": "2026-03-08T17:53:55.345Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
       "elapsed_days": 0,
       "scheduled_days": 0,
       "reps": 1,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:41:21.330Z"
+      "last_review": "2026-03-08T17:43:55.345Z"
     },
-    "reverseState": null,
     "suspended": false,
     "front": "el valor\n\n*Necesitas tener valor*"
   },
