@@ -15121,15 +15121,15 @@
       "last_review": "2026-03-08T17:39:40.356Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:42:50.807Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-09T17:44:30.634Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:41:50.807Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:44:30.634Z"
     },
     "suspended": false,
     "front": "el cansancio\n\n*El cansancio es evidente*"
@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-08T17:44:03.854Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:43:19.156Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T17:49:38.585Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:42:19.156Z"
+      "last_review": "2026-03-08T17:44:38.585Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
@@ -15281,15 +15281,15 @@
       "last_review": "2026-03-08T17:44:08.877Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:43:27.267Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-10T17:44:41.544Z",
+      "stability": 0.94991933,
+      "difficulty": 6.72355574,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:42:27.267Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:44:41.544Z"
     },
     "suspended": false,
     "front": "los celos\n\n*Los celos son tóxicos*"
