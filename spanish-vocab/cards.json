@@ -15569,15 +15569,15 @@
       "last_review": "2026-03-08T17:40:58.515Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:50:06.011Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-08T17:51:03.590Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-08T17:45:06.011Z"
+      "last_review": "2026-03-08T17:46:03.590Z"
     },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
@@ -15665,15 +15665,15 @@
       "last_review": "2026-03-08T17:41:11.328Z"
     },
     "reverseState": {
-      "due": "2026-03-08T17:50:13.653Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-09T17:46:09.825Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T17:45:13.653Z"
+      "state": 2,
+      "last_review": "2026-03-08T17:46:09.825Z"
     },
     "suspended": false,
     "front": "la timidez\n\n*La timidez se puede superar*"
