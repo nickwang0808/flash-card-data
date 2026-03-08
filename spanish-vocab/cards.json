@@ -15182,112 +15182,222 @@
   },
   "la vergüenza": {
     "back": "shame/embarrassment",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-08T17:41:12.966Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:40:12.966Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
   },
   "los celos": {
     "back": "jealousy",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-08T17:41:19.689Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:40:19.689Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "los celos\n\n*Los celos son tóxicos*"
   },
   "la envidia": {
     "back": "envy",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-08T17:50:26.972Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:40:26.972Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la envidia\n\n*La envidia no lleva a nada bueno*"
   },
   "la gratitud": {
     "back": "gratitude",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:30.963Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:30.963Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la gratitud\n\n*Siento gratitud por todo*"
   },
   "el amor": {
     "back": "love",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:32.767Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:32.767Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el amor\n\n*El amor lo conquista todo*"
   },
   "la soledad": {
     "back": "loneliness",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-08T17:50:41.341Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T17:40:41.341Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la soledad\n\n*La soledad puede ser dolorosa*"
   },
   "la nostalgia": {
     "back": "nostalgia",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:46.046Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:46.046Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la nostalgia\n\n*Siento nostalgia por mi niñez*"
   },
   "la esperanza": {
     "back": "hope",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:48.344Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:48.344Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la esperanza\n\n*La esperanza es lo último que se pierde*"
   },
   "la desesperación": {
     "back": "desperation",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:52.052Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:52.052Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la desesperación\n\n*La desesperación me invade*"
   },
   "la culpa": {
     "back": "guilt",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-24T17:40:54.296Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T17:40:54.296Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la culpa\n\n*La culpa me atormenta*"
   },
   "la inocencia": {
