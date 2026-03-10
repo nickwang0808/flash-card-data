@@ -15728,7 +15728,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:16:05.278Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:29:49.449Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:19:49.449Z"
+    },
     "suspended": false,
     "front": "la cobardía\n\n*La cobardía no es excusa*"
   },
@@ -15750,7 +15760,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:16:12.318Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:29:58.568Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:19:58.568Z"
+    },
     "suspended": false,
     "front": "la paciencia\n\n*La paciencia es una virtud*"
   },
@@ -15772,7 +15792,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:16:15.784Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:30:03.034Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:20:03.034Z"
+    },
     "suspended": false,
     "front": "la impaciencia\n\n*La impaciencia me traiciona*"
   },
@@ -15794,7 +15824,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:16:20.339Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T03:20:09.844Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:20:09.844Z"
+    },
     "suspended": false,
     "front": "el optimismo\n\n*El optimismo ayuda mucho*"
   },
@@ -15816,7 +15856,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:16:22.489Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T03:20:13.742Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:20:13.742Z"
+    },
     "suspended": false,
     "front": "el pesimismo\n\n*El pesimismo no sirve*"
   },
@@ -16392,14 +16442,25 @@
   },
   "entristecerse": {
     "back": "to become sad",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:19:42.228Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:19:42.228Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "entristecerse\n\n*Me entristezco cuando pienso en eso*"
   },
   "enojarse": {
