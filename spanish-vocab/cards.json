@@ -16996,13 +16996,24 @@
   },
   "el estado de ánimo": {
     "back": "mood",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:46:52.348Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:45:52.348Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el estado de ánimo\n\n*Mi estado de ánimo cambia mucho*"
   },
   "el corazón": {
