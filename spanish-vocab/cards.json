@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:54:53.612Z",
-      "stability": 0.84213076,
-      "difficulty": 8.05829378,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-11T19:53:45.781Z",
+      "stability": 1.18552744,
+      "difficulty": 8.03605834,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T19:49:53.612Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:45.781Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -14990,15 +14990,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:54:35.358Z",
-      "stability": 0.84213076,
-      "difficulty": 8.05829378,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-11T19:53:41.906Z",
+      "stability": 1.18552744,
+      "difficulty": 8.03605834,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T19:49:35.358Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:41.906Z"
     },
     "reverseState": {
       "due": "2026-03-14T19:51:00.691Z",
@@ -16780,15 +16780,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:54:23.965Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:53:37.457Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:44:23.965Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:37.457Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:57:50.133Z",
@@ -16956,15 +16956,15 @@
       "last_review": "2026-03-10T19:51:52.497Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:48:24.028Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:53:06.186Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:47:24.028Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:06.186Z"
     },
     "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
@@ -17021,15 +17021,15 @@
       "last_review": "2026-03-10T19:51:58.499Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:48:35.745Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-10T19:58:14.756Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T19:47:35.745Z"
+      "last_review": "2026-03-10T19:53:14.756Z"
     },
     "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
@@ -17053,15 +17053,15 @@
       "last_review": "2026-03-10T19:52:04.528Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:52:45.270Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-03-12T19:53:34.204Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:47:45.270Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:34.204Z"
     },
     "suspended": false,
     "front": "la risa\n\n*La risa es la mejor medicina*"
@@ -17074,15 +17074,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:55:04.662Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:53:48.704Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:45:04.662Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:48.704Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:57:47.608Z",
@@ -17106,26 +17106,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:55:12.128Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:53:52.434Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:45:12.128Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:52.434Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:48:53.522Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-10T19:58:23.552Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T19:47:53.522Z"
+      "last_review": "2026-03-10T19:53:23.552Z"
     },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
@@ -17138,26 +17138,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:55:20.077Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:53:55.439Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:45:20.077Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:55.439Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:49:01.741Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:53:30.155Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:48:01.741Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:30.155Z"
     },
     "suspended": false,
     "front": "el suspiro\n\n*Dejo escapar un suspiro*"
@@ -17170,15 +17170,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:55:40.281Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:53:58.105Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:45:40.281Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:53:58.105Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:58:08.556Z",
