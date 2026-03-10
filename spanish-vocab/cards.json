@@ -15238,26 +15238,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T17:48:48.525Z",
-      "stability": 0.47593669,
-      "difficulty": 7.60945261,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-13T03:26:45.531Z",
+      "stability": 3.32446519,
+      "difficulty": 7.58928184,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:48:48.525Z"
+      "last_review": "2026-03-10T03:26:45.531Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:47:11.299Z",
-      "stability": 0.07127533,
-      "difficulty": 9.05423157,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T17:47:11.299Z"
+      "due": "2026-03-10T03:31:41.505Z",
+      "stability": 0.05062991,
+      "difficulty": 9.3329363,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-10T03:26:41.505Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
