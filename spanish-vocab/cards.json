@@ -15922,7 +15922,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:16:45.133Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:30:56.932Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:20:56.932Z"
+    },
     "suspended": false,
     "front": "reír\n\n*Río mucho con mis amigos*"
   },
@@ -16165,7 +16175,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:17:58.952Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:30:59.421Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:20:59.421Z"
+    },
     "suspended": false,
     "front": "sonreír\n\n*Sonrío cuando te veo*"
   },
@@ -16308,7 +16328,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:18:57.549Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:22:03.071Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:21:03.071Z"
+    },
     "suspended": false,
     "front": "gritar\n\n*Grito cuando estoy enojado*"
   },
@@ -16331,7 +16361,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:19:04.576Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:22:10.427Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:21:10.427Z"
+    },
     "suspended": false,
     "front": "suspirar\n\n*Suspiro de alivio*"
   },
@@ -16354,7 +16394,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:19:09.751Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:22:17.728Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:21:17.728Z"
+    },
     "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
   },
@@ -16377,7 +16427,17 @@
       "state": 1,
       "last_review": "2026-03-10T03:19:16.925Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:31:26.067Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:21:26.067Z"
+    },
     "suspended": false,
     "front": "calmarse\n\n*Necesito calmarme*"
   },
