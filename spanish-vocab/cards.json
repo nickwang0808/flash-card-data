@@ -16565,14 +16565,25 @@
   },
   "enojarse": {
     "back": "to get angry",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:43:29.560Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:43:29.560Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "enojarse\n\n*Me enojo fácilmente*"
   },
   "asustarse": {
