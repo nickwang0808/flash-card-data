@@ -60,15 +60,15 @@
       "last_review": "2026-03-05T21:08:13.541Z"
     },
     "reverseState": {
-      "due": "2026-03-10T20:45:48.506Z",
-      "stability": 5.42614746,
-      "difficulty": 8.49820972,
-      "elapsed_days": 4,
-      "scheduled_days": 5,
-      "reps": 9,
-      "lapses": 3,
+      "due": "2026-03-12T19:56:05.258Z",
+      "stability": 1.95846412,
+      "difficulty": 8.93271061,
+      "elapsed_days": 0,
+      "scheduled_days": 2,
+      "reps": 11,
+      "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-05T20:45:48.506Z"
+      "last_review": "2026-03-10T19:56:05.258Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
