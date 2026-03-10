@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-10T04:03:10.314Z",
-      "stability": 0.10105196,
-      "difficulty": 9.3329443,
+      "due": "2026-03-10T04:05:50.339Z",
+      "stability": 0.05062991,
+      "difficulty": 9.52033146,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-10T03:58:10.314Z"
+      "last_review": "2026-03-10T04:00:50.339Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
@@ -15121,15 +15121,15 @@
       "last_review": "2026-03-08T17:39:40.356Z"
     },
     "reverseState": {
-      "due": "2026-03-10T04:01:41.245Z",
-      "stability": 0.20081743,
-      "difficulty": 8.67152654,
+      "due": "2026-03-10T04:05:37.075Z",
+      "stability": 0.10061526,
+      "difficulty": 9.07562093,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-10T03:56:41.245Z"
+      "last_review": "2026-03-10T04:00:37.075Z"
     },
     "suspended": false,
     "front": "el cansancio\n\n*El cansancio es evidente*"
@@ -15313,15 +15313,15 @@
       "last_review": "2026-03-08T17:46:21.950Z"
     },
     "reverseState": {
-      "due": "2026-03-10T04:02:14.436Z",
-      "stability": 0.05062991,
-      "difficulty": 9.33970582,
+      "due": "2026-03-11T04:00:43.110Z",
+      "stability": 0.07127533,
+      "difficulty": 9.31157588,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 6,
+      "scheduled_days": 1,
+      "reps": 7,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T03:57:14.436Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:00:43.110Z"
     },
     "suspended": false,
     "front": "la envidia\n\n*La envidia no lleva a nada bueno*"
@@ -16143,15 +16143,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T04:00:54.933Z",
-      "stability": 1.58976351,
-      "difficulty": 6.79693258,
+      "due": "2026-03-10T04:05:27.232Z",
+      "stability": 0.79651687,
+      "difficulty": 7.81521984,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T03:55:54.933Z"
+      "last_review": "2026-03-10T04:00:27.232Z"
     },
     "reverseState": null,
     "suspended": false
