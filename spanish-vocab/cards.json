@@ -16147,108 +16147,155 @@
   },
   "sonreír (nosotros/nosotras, presente)": {
     "back": "sonreímos",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (ellos/ellas/ustedes, presente)": {
     "back": "sonríen",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (tú, pretérito)": {
     "back": "sonreíste",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (él/ella/usted, pretérito)": {
     "back": "sonrió",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (nosotros/nosotras, pretérito)": {
     "back": "sonreímos",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (ellos/ellas/ustedes, pretérito)": {
     "back": "sonrieron",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "sonreír (presente continuo)": {
     "back": "sonriendo",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "gritar": {
     "back": "to shout/scream",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:19:57.549Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:18:57.549Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "gritar\n\n*Grito cuando estoy enojado*"
   },
   "suspirar": {
     "back": "to sigh",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:20:04.576Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:19:04.576Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "suspirar\n\n*Suspiro de alivio*"
   },
   "temblar": {
     "back": "to tremble",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:29:09.751Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:19:09.751Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
   },
   "calmarse": {
