@@ -15718,15 +15718,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T03:21:05.278Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-03-12T03:55:15.186Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:16:05.278Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:55:15.186Z"
     },
     "reverseState": {
       "due": "2026-03-10T03:29:49.449Z",
@@ -16329,15 +16329,15 @@
       "last_review": "2026-03-10T03:54:58.263Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:22:03.071Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-10T04:00:21.915Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T03:21:03.071Z"
+      "last_review": "2026-03-10T03:55:21.915Z"
     },
     "suspended": false,
     "front": "gritar\n\n*Grito cuando estoy enojado*"
@@ -16362,15 +16362,15 @@
       "last_review": "2026-03-10T03:55:04.377Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:22:10.427Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-10T04:00:26.197Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T03:21:10.427Z"
+      "last_review": "2026-03-10T03:55:26.197Z"
     },
     "suspended": false,
     "front": "suspirar\n\n*Suspiro de alivio*"
@@ -16395,15 +16395,15 @@
       "last_review": "2026-03-10T03:19:09.751Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:22:17.728Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T03:55:31.099Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:21:17.728Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:55:31.099Z"
     },
     "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
