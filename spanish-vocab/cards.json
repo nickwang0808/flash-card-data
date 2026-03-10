@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:50:11.897Z",
-      "stability": 2.48051861,
-      "difficulty": 7.15845635,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T17:50:11.897Z"
+      "due": "2026-03-10T19:54:53.612Z",
+      "stability": 0.84213076,
+      "difficulty": 8.05829378,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-10T19:49:53.612Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -14937,15 +14937,15 @@
       "last_review": "2026-03-07T19:26:54.018Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:50:19.054Z",
-      "stability": 2.48051861,
-      "difficulty": 7.15845635,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T19:50:02.389Z",
+      "stability": 6.02048934,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 6,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:50:19.054Z"
+      "last_review": "2026-03-10T19:50:02.389Z"
     },
     "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
@@ -14969,15 +14969,15 @@
       "last_review": "2026-03-07T19:27:00.797Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:50:26.327Z",
-      "stability": 2.48051861,
-      "difficulty": 7.15845635,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T19:50:07.193Z",
+      "stability": 6.02048934,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 6,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:50:26.327Z"
+      "last_review": "2026-03-10T19:50:07.193Z"
     },
     "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
