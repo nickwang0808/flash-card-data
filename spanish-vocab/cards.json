@@ -16329,15 +16329,15 @@
       "last_review": "2026-03-10T19:56:32.503Z"
     },
     "reverseState": {
-      "due": "2026-03-11T04:00:12.163Z",
+      "due": "2026-03-12T19:58:32.542Z",
       "stability": 0.28393201,
-      "difficulty": 8.06044885,
+      "difficulty": 8.03820349,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T04:00:12.163Z"
+      "last_review": "2026-03-10T19:58:32.542Z"
     },
     "suspended": false,
     "front": "gritar\n\n*Grito cuando estoy enojado*"
@@ -16351,26 +16351,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T04:00:03.950Z",
+      "due": "2026-03-12T19:58:28.582Z",
       "stability": 0.28393201,
-      "difficulty": 8.06044885,
+      "difficulty": 8.03820349,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T04:00:03.950Z"
+      "last_review": "2026-03-10T19:58:28.582Z"
     },
     "reverseState": {
-      "due": "2026-03-11T04:00:15.045Z",
+      "due": "2026-03-12T19:58:35.093Z",
       "stability": 0.28393201,
-      "difficulty": 8.06044885,
+      "difficulty": 8.03820349,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T04:00:15.045Z"
+      "last_review": "2026-03-10T19:58:35.093Z"
     },
     "suspended": false,
     "front": "suspirar\n\n*Suspiro de alivio*"
