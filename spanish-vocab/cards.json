@@ -16659,15 +16659,15 @@
       "last_review": "2026-03-10T19:43:56.349Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:57:31.633Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-10T19:59:44.059Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T19:52:31.633Z"
+      "last_review": "2026-03-10T19:54:44.059Z"
     },
     "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
@@ -16692,15 +16692,15 @@
       "last_review": "2026-03-10T19:51:21.437Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:57:37.717Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-11T19:54:50.758Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:52:37.717Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:50.758Z"
     },
     "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
@@ -16791,15 +16791,15 @@
       "last_review": "2026-03-10T19:53:37.457Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:57:50.133Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-11T19:54:59.567Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:52:50.133Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:59.567Z"
     },
     "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
@@ -17085,15 +17085,15 @@
       "last_review": "2026-03-10T19:53:48.704Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:57:47.608Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:54:54.777Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:47:47.608Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:54.777Z"
     },
     "suspended": false,
     "front": "la sonrisa\n\n*Tu sonrisa ilumina mi día*"
@@ -17181,15 +17181,15 @@
       "last_review": "2026-03-10T19:53:58.105Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:58:08.556Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:55:03.291Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:48:08.556Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:55:03.291Z"
     },
     "suspended": false,
     "front": "el sentimiento\n\n*Tengo sentimientos encontrados*"
