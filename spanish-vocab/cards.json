@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-08T17:53:26.734Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:51:42.895Z",
-      "stability": 0.01789222,
-      "difficulty": 9.68337048,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 11,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-08T17:51:42.895Z"
+      "due": "2026-03-10T03:32:54.788Z",
+      "stability": 0.01270961,
+      "difficulty": 9.75594383,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 12,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-10T03:27:54.788Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -14617,15 +14617,15 @@
       "last_review": "2026-03-07T19:24:38.012Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:49:40.819Z",
-      "stability": 0.44831982,
-      "difficulty": 8.04822548,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T17:49:40.819Z"
+      "due": "2026-03-10T03:32:37.760Z",
+      "stability": 0.31846071,
+      "difficulty": 8.65653853,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-10T03:27:37.760Z"
     },
     "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:51:11.543Z",
-      "stability": 0.28393201,
-      "difficulty": 8.63973185,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T17:51:11.543Z"
+      "due": "2026-03-10T03:32:47.595Z",
+      "stability": 0.20168903,
+      "difficulty": 9.05424347,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-10T03:27:47.595Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
