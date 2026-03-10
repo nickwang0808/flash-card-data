@@ -16889,7 +16889,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:37.568Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:48:12.887Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:12.887Z"
+    },
     "suspended": false,
     "front": "liberar\n\n*Libero mis emociones*"
   },
@@ -16912,7 +16922,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:44:40.517Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T19:47:17.126Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:47:17.126Z"
+    },
     "suspended": false,
     "front": "compartir\n\n*Comparto mis sentimientos con amigos*"
   },
@@ -16935,7 +16955,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:47.274Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:48:24.028Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:24.028Z"
+    },
     "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
   },
@@ -16958,7 +16988,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:44:49.093Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T19:47:25.887Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:47:25.887Z"
+    },
     "suspended": false,
     "front": "mostrar\n\n*Muestro mi alegría*"
   },
@@ -16980,7 +17020,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:55.509Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:48:35.745Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:35.745Z"
+    },
     "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
   },
@@ -17002,7 +17052,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:58.143Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:52:45.270Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:45.270Z"
+    },
     "suspended": false,
     "front": "la risa\n\n*La risa es la mejor medicina*"
   },
@@ -17024,7 +17084,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:45:04.662Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:57:47.608Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:47.608Z"
+    },
     "suspended": false,
     "front": "la sonrisa\n\n*Tu sonrisa ilumina mi día*"
   },
@@ -17046,7 +17116,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:45:12.128Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:48:53.522Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:53.522Z"
+    },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
   },
@@ -17068,7 +17148,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:45:20.077Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:49:01.741Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:48:01.741Z"
+    },
     "suspended": false,
     "front": "el suspiro\n\n*Dejo escapar un suspiro*"
   },
@@ -17090,7 +17180,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:45:40.281Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:58:08.556Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:48:08.556Z"
+    },
     "suspended": false,
     "front": "el sentimiento\n\n*Tengo sentimientos encontrados*"
   },
