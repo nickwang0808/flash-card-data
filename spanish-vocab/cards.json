@@ -15822,26 +15822,48 @@
   },
   "llorar": {
     "back": "to cry",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:17:35.958Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:16:35.958Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "llorar\n\n*Lloro cuando estoy triste*"
   },
   "reír": {
     "back": "to laugh",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:26:45.133Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:16:45.133Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "reír\n\n*Río mucho con mis amigos*"
   },
   "reír (yo, presente)": {
