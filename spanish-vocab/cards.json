@@ -6575,15 +6575,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-09T17:18:32.759Z",
-      "stability": 8.13891944,
-      "difficulty": 7.15845635,
-      "elapsed_days": 8,
-      "scheduled_days": 8,
-      "reps": 3,
+      "due": "2026-04-27T03:24:12.509Z",
+      "stability": 48.24116515,
+      "difficulty": 6.68139334,
+      "elapsed_days": 9,
+      "scheduled_days": 48,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:18:32.759Z"
+      "last_review": "2026-03-10T03:24:12.509Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6865,15 +6865,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-09T17:18:41.498Z",
-      "stability": 8.13891944,
-      "difficulty": 7.15845635,
-      "elapsed_days": 8,
-      "scheduled_days": 8,
-      "reps": 3,
+      "due": "2026-04-01T03:24:20.491Z",
+      "stability": 21.55193894,
+      "difficulty": 7.14036016,
+      "elapsed_days": 9,
+      "scheduled_days": 22,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:18:41.498Z"
+      "last_review": "2026-03-10T03:24:20.491Z"
     },
     "reverseState": null,
     "suspended": false
@@ -7062,15 +7062,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-09T17:18:57.679Z",
-      "stability": 8.13891944,
-      "difficulty": 7.15845635,
-      "elapsed_days": 8,
-      "scheduled_days": 8,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-01T17:18:57.679Z"
+      "due": "2026-03-10T03:29:25.511Z",
+      "stability": 1.85033361,
+      "difficulty": 8.05829378,
+      "elapsed_days": 9,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-10T03:24:25.511Z"
     },
     "reverseState": null,
     "suspended": false
@@ -16526,7 +16526,17 @@
       "state": 2,
       "last_review": "2026-03-05T21:02:59.337Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T03:25:07.587Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:24:07.587Z"
+    },
     "suspended": false,
     "front": "alegrarse\n\n*Me alegro de verte*"
   },
