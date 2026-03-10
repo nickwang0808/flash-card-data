@@ -4884,15 +4884,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T04:03:52.605Z",
-      "stability": 1.41717212,
-      "difficulty": 6.88489564,
+      "due": "2026-03-11T04:01:39.099Z",
+      "stability": 0.99957903,
+      "difficulty": 7.85297327,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T03:58:52.605Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:01:39.099Z"
     },
     "reverseState": null,
     "suspended": false
@@ -7699,15 +7699,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T04:46:28.311Z",
-      "stability": 3.26995397,
-      "difficulty": 8.39906088,
-      "elapsed_days": 2,
-      "scheduled_days": 3,
-      "reps": 7,
+      "due": "2026-03-17T04:01:45.606Z",
+      "stability": 6.70917444,
+      "difficulty": 8.37525791,
+      "elapsed_days": 3,
+      "scheduled_days": 7,
+      "reps": 8,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-07T04:46:28.311Z"
+      "last_review": "2026-03-10T04:01:45.606Z"
     },
     "reverseState": null,
     "suspended": false
@@ -10712,15 +10712,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T04:04:52.268Z",
-      "stability": 1.41717212,
-      "difficulty": 6.88489564,
+      "due": "2026-03-12T04:01:18.162Z",
+      "stability": 1.99505412,
+      "difficulty": 6.86805783,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T03:59:52.268Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:01:18.162Z"
     },
     "reverseState": null,
     "suspended": false
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-10T04:05:50.339Z",
-      "stability": 0.05062991,
-      "difficulty": 9.52033146,
+      "due": "2026-03-11T04:01:35.545Z",
+      "stability": 0.07127533,
+      "difficulty": 9.49137064,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-10T04:00:50.339Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:01:35.545Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
@@ -15121,15 +15121,15 @@
       "last_review": "2026-03-08T17:39:40.356Z"
     },
     "reverseState": {
-      "due": "2026-03-10T04:05:37.075Z",
-      "stability": 0.10061526,
-      "difficulty": 9.07562093,
+      "due": "2026-03-11T04:01:30.631Z",
+      "stability": 0.14164327,
+      "difficulty": 9.04870578,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 5,
+      "scheduled_days": 1,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T04:00:37.075Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:01:30.631Z"
     },
     "suspended": false,
     "front": "el cansancio\n\n*El cansancio es evidente*"
@@ -16143,15 +16143,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T04:05:27.232Z",
-      "stability": 0.79651687,
-      "difficulty": 7.81521984,
+      "due": "2026-03-11T04:01:21.712Z",
+      "stability": 1.12131352,
+      "difficulty": 7.79410254,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T04:00:27.232Z"
+      "state": 2,
+      "last_review": "2026-03-10T04:01:21.712Z"
     },
     "reverseState": null,
     "suspended": false
