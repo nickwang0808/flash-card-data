@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-08T17:53:26.734Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:32:54.788Z",
-      "stability": 0.01270961,
-      "difficulty": 9.75594383,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 12,
+      "due": "2026-03-11T03:58:14.646Z",
+      "stability": 0.01789222,
+      "difficulty": 9.7258992,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 13,
       "lapses": 3,
-      "state": 3,
-      "last_review": "2026-03-10T03:27:54.788Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:58:14.646Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-10T03:29:58.357Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:31:59.846Z",
-      "stability": 0.04252109,
-      "difficulty": 9.55961252,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 9,
+      "due": "2026-03-11T03:58:00.305Z",
+      "stability": 0.05985997,
+      "difficulty": 9.53047101,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 10,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-10T03:26:59.846Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:58:00.305Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
@@ -14617,15 +14617,15 @@
       "last_review": "2026-03-07T19:24:38.012Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:32:37.760Z",
-      "stability": 0.31846071,
-      "difficulty": 8.65653853,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 5,
+      "due": "2026-03-11T03:58:04.124Z",
+      "stability": 0.44831982,
+      "difficulty": 8.63155116,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 6,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-10T03:27:37.760Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:58:04.124Z"
     },
     "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:32:47.595Z",
-      "stability": 0.20168903,
-      "difficulty": 9.05424347,
-      "elapsed_days": 2,
+      "due": "2026-03-10T04:03:10.314Z",
+      "stability": 0.10105196,
+      "difficulty": 9.3329443,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-10T03:27:47.595Z"
+      "last_review": "2026-03-10T03:58:10.314Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
