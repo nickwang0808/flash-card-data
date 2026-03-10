@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:56:14.902Z",
-      "stability": 0.97472194,
-      "difficulty": 8.90140475,
-      "elapsed_days": 3,
-      "scheduled_days": 0,
-      "reps": 6,
+      "due": "2026-03-11T19:54:09.642Z",
+      "stability": 1.37218549,
+      "difficulty": 8.875291,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 7,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T19:51:14.902Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:09.642Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
@@ -16593,15 +16593,15 @@
       "last_review": "2026-03-10T19:43:29.560Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:56:13.715Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:54:03.493Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:46:13.715Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:03.493Z"
     },
     "suspended": false,
     "front": "enojarse\n\n*Me enojo fácilmente*"
@@ -16626,15 +16626,15 @@
       "last_review": "2026-03-10T19:43:50.037Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:56:17.478Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:54:13.922Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:46:17.478Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:13.922Z"
     },
     "suspended": false,
     "front": "asustarse\n\n*Me asusto con las películas de terror*"
@@ -16758,15 +16758,15 @@
       "last_review": "2026-03-05T20:52:15.178Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:56:51.742Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:54:17.876Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:46:51.742Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:17.876Z"
     },
     "suspended": false,
     "front": "amar\n\n*Amo a mi familia*"
@@ -16857,15 +16857,15 @@
       "last_review": "2026-03-10T19:51:30.135Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:57:03.480Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:54:21.931Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:47:03.480Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:54:21.931Z"
     },
     "suspended": false,
     "front": "reprimir\n\n*Reprimo mi rabia*"
