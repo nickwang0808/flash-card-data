@@ -12850,15 +12850,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T20:44:25.953Z",
-      "stability": 4.61932708,
-      "difficulty": 8.02603635,
-      "elapsed_days": 4,
-      "scheduled_days": 5,
-      "reps": 5,
+      "due": "2026-03-21T19:55:44.265Z",
+      "stability": 10.80541253,
+      "difficulty": 8.00394929,
+      "elapsed_days": 5,
+      "scheduled_days": 11,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T20:44:25.953Z"
+      "last_review": "2026-03-10T19:55:44.265Z"
     },
     "reverseState": {
       "due": "2026-03-12T17:53:45.245Z",
@@ -16659,15 +16659,15 @@
       "last_review": "2026-03-10T19:43:56.349Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:59:44.059Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-03-11T19:55:33.570Z",
+      "stability": 0.14225804,
+      "difficulty": 8.65468874,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:54:44.059Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:55:33.570Z"
     },
     "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
@@ -17021,15 +17021,15 @@
       "last_review": "2026-03-10T19:51:58.499Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:58:14.756Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-11T19:55:40.733Z",
+      "stability": 0.14225804,
+      "difficulty": 8.65468874,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:53:14.756Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:55:40.733Z"
     },
     "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
@@ -17117,15 +17117,15 @@
       "last_review": "2026-03-10T19:53:52.434Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:58:23.552Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-11T19:55:25.638Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:53:23.552Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:55:25.638Z"
     },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
@@ -17213,15 +17213,15 @@
       "last_review": "2026-03-10T19:52:09.517Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:58:15.652Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T19:55:17.649Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:48:15.652Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:55:17.649Z"
     },
     "suspended": false,
     "front": "el estado de ánimo\n\n*Mi estado de ánimo cambia mucho*"
