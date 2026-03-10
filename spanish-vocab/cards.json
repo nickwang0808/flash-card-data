@@ -13849,15 +13849,15 @@
       "last_review": "2026-03-08T17:53:02.670Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:51:30.677Z",
-      "stability": 0.93510884,
-      "difficulty": 9.01740467,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 7,
+      "due": "2026-03-13T19:51:06.215Z",
+      "stability": 2.74329942,
+      "difficulty": 8.99075732,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T17:51:30.677Z"
+      "last_review": "2026-03-10T19:51:06.215Z"
     },
     "suspended": false,
     "front": "agotado\n\n*Estoy completamente agotado*"
@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-10T19:33:30.017Z",
-      "stability": 2.98478203,
-      "difficulty": 8.41241489,
-      "elapsed_days": 1,
-      "scheduled_days": 3,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-07T19:33:30.017Z"
+      "due": "2026-03-10T19:56:14.902Z",
+      "stability": 0.97472194,
+      "difficulty": 8.90140475,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-10T19:51:14.902Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
@@ -15001,15 +15001,15 @@
       "last_review": "2026-03-10T19:49:35.358Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:51:24.794Z",
-      "stability": 1.6644706,
-      "difficulty": 8.03820349,
-      "elapsed_days": 1,
-      "scheduled_days": 2,
-      "reps": 4,
+      "due": "2026-03-14T19:51:00.691Z",
+      "stability": 4.41503393,
+      "difficulty": 8.01606046,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:51:24.794Z"
+      "last_review": "2026-03-10T19:51:00.691Z"
     },
     "suspended": false,
     "front": "el asombro\n\n*Miro con asombro las estrellas*"
@@ -16681,15 +16681,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:45:11.690Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:51:21.437Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:44:11.690Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:51:21.437Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:47:34.717Z",
@@ -16714,15 +16714,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:45:14.974Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:51:27.005Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:44:14.974Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:51:27.005Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:47:43.625Z",
@@ -16846,15 +16846,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:45:30.648Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:51:30.135Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:44:30.648Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:51:30.135Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:57:03.480Z",
@@ -16879,15 +16879,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T19:45:37.568Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T19:51:37.355Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T19:44:37.568Z"
+      "state": 2,
+      "last_review": "2026-03-10T19:51:37.355Z"
     },
     "reverseState": {
       "due": "2026-03-10T19:48:12.887Z",
