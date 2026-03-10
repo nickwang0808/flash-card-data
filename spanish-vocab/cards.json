@@ -244,15 +244,15 @@
       "last_review": "2026-02-20T03:29:26.561Z"
     },
     "reverseState": {
-      "due": "2026-03-09T21:08:24.679Z",
-      "stability": 3.98191723,
-      "difficulty": 5.40319354,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-04-18T03:54:38.630Z",
+      "stability": 38.81066258,
+      "difficulty": 4.65069428,
+      "elapsed_days": 5,
+      "scheduled_days": 39,
+      "reps": 4,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T21:08:24.679Z"
+      "last_review": "2026-03-10T03:54:38.630Z"
     },
     "suspended": false,
     "front": "el vaso\n\n*Bebo agua en un vaso*"
@@ -514,15 +514,15 @@
       "last_review": "2026-03-05T20:51:53.701Z"
     },
     "reverseState": {
-      "due": "2026-03-09T21:08:29.501Z",
-      "stability": 3.98191723,
-      "difficulty": 5.40319354,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-04-18T03:54:43.556Z",
+      "stability": 38.81066258,
+      "difficulty": 4.65069428,
+      "elapsed_days": 5,
+      "scheduled_days": 39,
+      "reps": 4,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T21:08:29.501Z"
+      "last_review": "2026-03-10T03:54:43.556Z"
     },
     "suspended": false,
     "front": "la sábana\n\n*Las sábanas están limpias*"
@@ -13337,15 +13337,15 @@
       "last_review": "2026-03-05T20:31:49.834Z"
     },
     "reverseState": {
-      "due": "2026-03-09T21:08:05.822Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-04-19T03:54:34.627Z",
+      "stability": 40.0951669,
+      "difficulty": 4.50003363,
+      "elapsed_days": 5,
+      "scheduled_days": 40,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:08:05.822Z"
+      "last_review": "2026-03-10T03:54:34.627Z"
     },
     "suspended": false,
     "front": "furioso\n\n*Mi jefe está furioso por el error*"
