@@ -15057,15 +15057,15 @@
       "last_review": "2026-03-07T19:40:37.869Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:28:05.727Z",
+      "due": "2026-03-11T19:56:22.463Z",
       "stability": 1.18656365,
-      "difficulty": 8.68588798,
-      "elapsed_days": 2,
+      "difficulty": 8.87302129,
+      "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 7,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T03:28:05.727Z"
+      "last_review": "2026-03-10T19:56:22.463Z"
     },
     "suspended": false,
     "front": "la decepción\n\n*La decepción duele*"
@@ -15569,15 +15569,15 @@
       "last_review": "2026-03-08T17:40:58.515Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:57:20.974Z",
+      "due": "2026-03-12T19:56:53.590Z",
       "stability": 0.14225804,
-      "difficulty": 9.03743681,
+      "difficulty": 9.01069731,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 6,
+      "scheduled_days": 2,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T03:57:20.974Z"
+      "last_review": "2026-03-10T19:56:53.590Z"
     },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
@@ -15665,15 +15665,15 @@
       "last_review": "2026-03-08T17:41:11.328Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:56:55.538Z",
+      "due": "2026-03-12T19:56:49.441Z",
       "stability": 0.28393201,
-      "difficulty": 8.63973185,
+      "difficulty": 8.61482179,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T03:56:55.538Z"
+      "last_review": "2026-03-10T19:56:49.441Z"
     },
     "suspended": false,
     "front": "la timidez\n\n*La timidez se puede superar*"
@@ -15879,15 +15879,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T03:54:54.647Z",
+      "due": "2026-03-12T19:56:30.044Z",
       "stability": 0.5666983,
-      "difficulty": 7.17663617,
+      "difficulty": 7.15845635,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:54:54.647Z"
+      "last_review": "2026-03-10T19:56:30.044Z"
     },
     "reverseState": {
       "due": "2026-03-14T03:56:33.451Z",
@@ -16318,15 +16318,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T03:54:58.263Z",
+      "due": "2026-03-12T19:56:32.503Z",
       "stability": 0.5666983,
-      "difficulty": 7.17663617,
+      "difficulty": 7.15845635,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:54:58.263Z"
+      "last_review": "2026-03-10T19:56:32.503Z"
     },
     "reverseState": {
       "due": "2026-03-11T04:00:12.163Z",
@@ -16395,15 +16395,15 @@
       "last_review": "2026-03-10T03:55:57.283Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:55:31.099Z",
+      "due": "2026-03-12T19:56:36.920Z",
       "stability": 0.5666983,
-      "difficulty": 7.17663617,
+      "difficulty": 7.15845635,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:55:31.099Z"
+      "last_review": "2026-03-10T19:56:36.920Z"
     },
     "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
@@ -16527,15 +16527,15 @@
       "last_review": "2026-03-05T21:02:59.337Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:55:45.280Z",
+      "due": "2026-03-12T19:56:43.004Z",
       "stability": 0.5666983,
-      "difficulty": 7.17663617,
+      "difficulty": 7.15845635,
       "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:55:45.280Z"
+      "last_review": "2026-03-10T19:56:43.004Z"
     },
     "suspended": false,
     "front": "alegrarse\n\n*Me alegro de verte*"
