@@ -16634,26 +16634,48 @@
   },
   "enamorarse": {
     "back": "to fall in love",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:11.690Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:11.690Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
   },
   "odiar": {
     "back": "to hate",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:14.974Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:14.974Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "odiar\n\n*Odio la mentira*"
   },
   "amar": {
@@ -16681,97 +16703,185 @@
   },
   "expresar": {
     "back": "to express",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:54:23.965Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:23.965Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
   },
   "controlar": {
     "back": "to control",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:44:26.276Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:44:26.276Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "controlar\n\n*Controlo mis emociones*"
   },
   "reprimir": {
     "back": "to repress",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:30.648Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:30.648Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "reprimir\n\n*Reprimo mi rabia*"
   },
   "liberar": {
     "back": "to release/free",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:37.568Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:37.568Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "liberar\n\n*Libero mis emociones*"
   },
   "compartir": {
     "back": "to share",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:44:40.517Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:44:40.517Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "compartir\n\n*Comparto mis sentimientos con amigos*"
   },
   "ocultar": {
     "back": "to hide",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:47.274Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:47.274Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
   },
   "mostrar": {
     "back": "to show",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:44:49.093Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:44:49.093Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "mostrar\n\n*Muestro mi alegría*"
   },
   "la lágrima": {
     "back": "tear",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:45:55.509Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:44:55.509Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
   },
   "la risa": {
