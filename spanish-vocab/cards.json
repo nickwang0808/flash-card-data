@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-07T19:33:07.324Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:49:04.866Z",
-      "stability": 0.05985997,
-      "difficulty": 9.39136701,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 8,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T17:49:04.866Z"
+      "due": "2026-03-10T03:31:59.846Z",
+      "stability": 0.04252109,
+      "difficulty": 9.55961252,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 9,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-10T03:26:59.846Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
@@ -14489,15 +14489,15 @@
       "last_review": "2026-03-07T19:33:43.317Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:49:29.397Z",
-      "stability": 0.44831982,
-      "difficulty": 8.04822548,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "due": "2026-03-13T03:27:07.455Z",
+      "stability": 2.90085765,
+      "difficulty": 8.02603635,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 5,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T17:49:29.397Z"
+      "last_review": "2026-03-10T03:27:07.455Z"
     },
     "suspended": false,
     "front": "valiente\n\n*Eres muy valiente*"
