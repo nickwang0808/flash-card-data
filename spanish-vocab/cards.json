@@ -13881,15 +13881,15 @@
       "last_review": "2026-03-06T16:56:43.572Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:05:39.655Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-24T19:48:59.754Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:05:39.655Z"
+      "last_review": "2026-03-10T19:48:59.754Z"
     },
     "suspended": false,
     "front": "relajado\n\n*Me siento relajado en la playa*"
@@ -14361,15 +14361,15 @@
       "last_review": "2026-03-06T16:58:11.790Z"
     },
     "reverseState": {
-      "due": "2026-03-10T17:06:05.244Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-24T19:49:05.380Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-06T17:06:05.244Z"
+      "last_review": "2026-03-10T19:49:05.380Z"
     },
     "suspended": false,
     "front": "inocente\n\n*Él es inocente del crimen*"
