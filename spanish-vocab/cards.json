@@ -16493,7 +16493,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:19:28.203Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T03:23:51.108Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:23:51.108Z"
+    },
     "suspended": false,
     "front": "preocuparse\n\n*Me preocupo demasiado*"
   },
