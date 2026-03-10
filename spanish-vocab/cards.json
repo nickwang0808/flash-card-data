@@ -16559,7 +16559,17 @@
       "state": 2,
       "last_review": "2026-03-10T03:19:42.228Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:47:07.791Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:07.791Z"
+    },
     "suspended": false,
     "front": "entristecerse\n\n*Me entristezco cuando pienso en eso*"
   },
@@ -16582,7 +16592,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:43:29.560Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:56:13.715Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:13.715Z"
+    },
     "suspended": false,
     "front": "enojarse\n\n*Me enojo fácilmente*"
   },
@@ -16605,7 +16625,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:43:50.037Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:56:17.478Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:17.478Z"
+    },
     "suspended": false,
     "front": "asustarse\n\n*Me asusto con las películas de terror*"
   },
@@ -16628,7 +16658,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:43:56.349Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:47:27.088Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:27.088Z"
+    },
     "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
   },
@@ -16651,7 +16691,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:11.690Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:47:34.717Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:34.717Z"
+    },
     "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
   },
@@ -16674,7 +16724,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:14.974Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:47:43.625Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:43.625Z"
+    },
     "suspended": false,
     "front": "odiar\n\n*Odio la mentira*"
   },
@@ -16697,7 +16757,17 @@
       "state": 2,
       "last_review": "2026-03-05T20:52:15.178Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:56:51.742Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:51.742Z"
+    },
     "suspended": false,
     "front": "amar\n\n*Amo a mi familia*"
   },
@@ -16720,7 +16790,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:23.965Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:47:57.093Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:46:57.093Z"
+    },
     "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
   },
@@ -16743,7 +16823,17 @@
       "state": 2,
       "last_review": "2026-03-10T19:44:26.276Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-26T19:46:59.882Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:46:59.882Z"
+    },
     "suspended": false,
     "front": "controlar\n\n*Controlo mis emociones*"
   },
@@ -16766,7 +16856,17 @@
       "state": 1,
       "last_review": "2026-03-10T19:44:30.648Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-10T19:57:03.480Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:47:03.480Z"
+    },
     "suspended": false,
     "front": "reprimir\n\n*Reprimo mi rabia*"
   },
