@@ -16588,26 +16588,48 @@
   },
   "asustarse": {
     "back": "to get scared",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:43:50.037Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:43:50.037Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "asustarse\n\n*Me asusto con las películas de terror*"
   },
   "sorprenderse": {
     "back": "to be surprised",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T19:43:56.349Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T19:43:56.349Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
   },
   "enamorarse": {
