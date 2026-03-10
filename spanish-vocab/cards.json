@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-10T03:29:31.310Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:58:36.436Z",
-      "stability": 0.0514809,
-      "difficulty": 9.60471606,
+      "due": "2026-03-11T19:57:47.523Z",
+      "stability": 0.03187459,
+      "difficulty": 9.67325841,
       "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 13,
-      "lapses": 3,
+      "reps": 15,
+      "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-10T03:58:36.436Z"
+      "last_review": "2026-03-10T19:57:47.523Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
