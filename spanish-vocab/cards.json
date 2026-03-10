@@ -12137,15 +12137,15 @@
       "last_review": "2026-02-21T20:47:07.348Z"
     },
     "reverseState": {
-      "due": "2026-03-09T21:00:44.729Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-26T03:54:07.456Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:00:44.729Z"
+      "last_review": "2026-03-10T03:54:07.456Z"
     },
     "suspended": false,
     "front": "la mantequilla\n\n*Unto la sartén con mantequilla*"
@@ -12981,15 +12981,15 @@
       "last_review": "2026-03-10T03:53:34.262Z"
     },
     "reverseState": {
-      "due": "2026-03-09T21:07:51.369Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-26T03:54:15.138Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:07:51.369Z"
+      "last_review": "2026-03-10T03:54:15.138Z"
     },
     "suspended": false,
     "front": "el escurridor\n\n*Pongo los platos en el escurridor*"
