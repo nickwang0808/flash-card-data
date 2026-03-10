@@ -15313,15 +15313,15 @@
       "last_review": "2026-03-08T17:46:21.950Z"
     },
     "reverseState": {
-      "due": "2026-03-09T17:46:52.280Z",
-      "stability": 0.14225804,
-      "difficulty": 8.65468874,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T17:46:52.280Z"
+      "due": "2026-03-10T03:31:15.504Z",
+      "stability": 0.10105196,
+      "difficulty": 9.06429988,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-10T03:26:15.504Z"
     },
     "suspended": false,
     "front": "la envidia\n\n*La envidia no lleva a nada bueno*"
