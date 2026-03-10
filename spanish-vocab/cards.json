@@ -12829,15 +12829,15 @@
       "last_review": "2026-03-10T03:53:22.046Z"
     },
     "reverseState": {
-      "due": "2026-03-10T20:05:40.689Z",
-      "stability": 1.12042243,
-      "difficulty": 8.05829378,
-      "elapsed_days": 3,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-12T20:00:42.672Z",
+      "stability": 1.57729845,
+      "difficulty": 8.03605834,
+      "elapsed_days": 0,
+      "scheduled_days": 2,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T20:00:40.689Z"
+      "state": 2,
+      "last_review": "2026-03-10T20:00:42.672Z"
     },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
@@ -12893,15 +12893,15 @@
       "last_review": "2026-03-10T03:53:25.962Z"
     },
     "reverseState": {
-      "due": "2026-03-11T04:27:51.093Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-19T20:00:51.672Z",
+      "stability": 8.92402295,
+      "difficulty": 7.14036016,
+      "elapsed_days": 3,
+      "scheduled_days": 9,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T04:27:51.093Z"
+      "last_review": "2026-03-10T20:00:51.672Z"
     },
     "suspended": false,
     "front": "el paño de cocina\n\n*Limpio el mostrador con el paño*"
