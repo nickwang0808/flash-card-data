@@ -16974,13 +16974,24 @@
   },
   "el sentimiento": {
     "back": "feeling",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T19:55:40.281Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T19:45:40.281Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el sentimiento\n\n*Tengo sentimientos encontrados*"
   },
   "el estado de ánimo": {
