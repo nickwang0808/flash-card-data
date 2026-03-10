@@ -15712,57 +15712,112 @@
   },
   "la cobardía": {
     "back": "cowardice",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:21:05.278Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:16:05.278Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la cobardía\n\n*La cobardía no es excusa*"
   },
   "la paciencia": {
     "back": "patience",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:16:12.318Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:16:12.318Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la paciencia\n\n*La paciencia es una virtud*"
   },
   "la impaciencia": {
     "back": "impatience",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:16:15.784Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:16:15.784Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "la impaciencia\n\n*La impaciencia me traiciona*"
   },
   "el optimismo": {
     "back": "optimism",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:16:20.339Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:16:20.339Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el optimismo\n\n*El optimismo ayuda mucho*"
   },
   "el pesimismo": {
     "back": "pessimism",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:16:22.489Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:16:22.489Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "el pesimismo\n\n*El pesimismo no sirve*"
   },
   "llorar": {
