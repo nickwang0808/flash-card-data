@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-10T03:26:45.531Z"
     },
     "reverseState": {
-      "due": "2026-03-11T03:57:45.690Z",
+      "due": "2026-03-11T19:57:05.075Z",
       "stability": 0.07127533,
-      "difficulty": 9.3048375,
+      "difficulty": 9.38915077,
       "elapsed_days": 0,
       "scheduled_days": 1,
-      "reps": 7,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T03:57:45.690Z"
+      "last_review": "2026-03-10T19:57:05.075Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
