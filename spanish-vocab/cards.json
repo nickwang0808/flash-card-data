@@ -7062,15 +7062,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T03:29:25.511Z",
-      "stability": 1.85033361,
-      "difficulty": 8.05829378,
-      "elapsed_days": 9,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-14T03:56:07.351Z",
+      "stability": 4.36633379,
+      "difficulty": 7.72243348,
+      "elapsed_days": 0,
+      "scheduled_days": 4,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-10T03:24:25.511Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:56:07.351Z"
     },
     "reverseState": null,
     "suspended": false
@@ -15729,15 +15729,15 @@
       "last_review": "2026-03-10T03:55:15.186Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:29:49.449Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T03:56:13.474Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:19:49.449Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:56:13.474Z"
     },
     "suspended": false,
     "front": "la cobardía\n\n*La cobardía no es excusa*"
@@ -15761,15 +15761,15 @@
       "last_review": "2026-03-10T03:16:12.318Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:29:58.568Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-14T03:56:18.589Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:19:58.568Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:56:18.589Z"
     },
     "suspended": false,
     "front": "la paciencia\n\n*La paciencia es una virtud*"
@@ -15793,15 +15793,15 @@
       "last_review": "2026-03-10T03:16:15.784Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:30:03.034Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-17T03:56:21.931Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:20:03.034Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:56:21.931Z"
     },
     "suspended": false,
     "front": "la impaciencia\n\n*La impaciencia me traiciona*"
@@ -15912,15 +15912,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T03:26:45.133Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-17T03:55:48.466Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:16:45.133Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:55:48.466Z"
     },
     "reverseState": {
       "due": "2026-03-10T03:30:56.932Z",
@@ -16143,15 +16143,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-10T03:27:50.793Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-10T04:00:54.933Z",
+      "stability": 1.58976351,
+      "difficulty": 6.79693258,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-10T03:17:50.793Z"
+      "last_review": "2026-03-10T03:55:54.933Z"
     },
     "reverseState": null,
     "suspended": false
@@ -16384,15 +16384,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T03:29:09.751Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-17T03:55:57.283Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:19:09.751Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:55:57.283Z"
     },
     "reverseState": {
       "due": "2026-03-11T03:55:31.099Z",
@@ -16417,15 +16417,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-10T03:29:16.925Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-17T03:56:01.222Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:19:16.925Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:56:01.222Z"
     },
     "reverseState": {
       "due": "2026-03-10T03:31:26.067Z",
@@ -16527,15 +16527,15 @@
       "last_review": "2026-03-05T21:02:59.337Z"
     },
     "reverseState": {
-      "due": "2026-03-10T03:25:07.587Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T03:55:45.280Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-10T03:24:07.587Z"
+      "state": 2,
+      "last_review": "2026-03-10T03:55:45.280Z"
     },
     "suspended": false,
     "front": "alegrarse\n\n*Me alegro de verte*"
