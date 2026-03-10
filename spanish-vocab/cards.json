@@ -16300,38 +16300,71 @@
   },
   "calmarse": {
     "back": "to calm down",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-10T03:29:16.925Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-10T03:19:16.925Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "calmarse\n\n*Necesito calmarme*"
   },
   "relajarse": {
     "back": "to relax",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:19:23.803Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:19:23.803Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "relajarse\n\n*Me relajo con música*"
   },
   "preocuparse": {
     "back": "to worry",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "emotions"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-26T03:19:28.203Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-10T03:19:28.203Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "preocuparse\n\n*Me preocupo demasiado*"
   },
   "alegrarse": {
