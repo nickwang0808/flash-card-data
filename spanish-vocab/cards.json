@@ -17244,7 +17244,17 @@
       "state": 2,
       "last_review": "2026-03-11T16:02:50.001Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-27T16:07:17.562Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-11T16:07:17.562Z"
+    },
     "suspended": false,
     "front": "el corazón\n\n*Mi corazón está roto*"
   },
@@ -17266,7 +17276,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:02:52.316Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:17:20.141Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:20.141Z"
+    },
     "suspended": false,
     "front": "el alma\n\n*Mi alma está en paz*"
   },
@@ -17311,7 +17331,17 @@
       "state": 2,
       "last_review": "2026-03-11T16:03:41.457Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:17:29.813Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:29.813Z"
+    },
     "suspended": false,
     "front": "me dices\n\n*¿Por qué no me dices la verdad?*"
   },
@@ -17334,7 +17364,17 @@
       "state": 2,
       "last_review": "2026-03-11T16:03:52.002Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:17:34.941Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:34.941Z"
+    },
     "suspended": false,
     "front": "te digo\n\n*Te digo que es importante.*"
   },
@@ -17624,54 +17664,98 @@
   },
   "no me digas": {
     "back": "don't tell me\n\n> Negative commands flip the pronoun back to before the verb. Compare: dime (tell me) vs no me digas (don't tell me).",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:16:58.191Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:06:58.191Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "no me digas\n\n*No me digas mentiras.*"
   },
   "no le digas": {
     "back": "don't tell him/her\n\n> Negative commands flip the pronoun back to before the verb. Compare: dile (tell him/her) vs no le digas (don't tell him/her).",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:17:03.821Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:03.821Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
   },
   "no me escuches": {
     "back": "don't listen to me\n\n> Negative commands flip the pronoun back to before the verb. Compare: escúchame (listen to me) vs no me escuches (don't listen to me).",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:17:10.760Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:10.760Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "no me escuches\n\n*No me escuches, estoy bromeando.*"
   },
   "no nos digas": {
     "back": "don't tell us\n\n> Negative commands flip the pronoun back to before the verb. Compare: dinos (tell us) vs no nos digas (don't tell us).",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:17:15.457Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:15.457Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
   },
   "diciéndome": {
