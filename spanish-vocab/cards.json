@@ -17397,7 +17397,17 @@
       "state": 2,
       "last_review": "2026-03-11T16:04:06.069Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:17:46.710Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:46.710Z"
+    },
     "suspended": false,
     "front": "le digo\n\n*Siempre le digo buenos días.*"
   },
