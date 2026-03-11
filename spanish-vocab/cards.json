@@ -17530,7 +17530,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:04:59.857Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:15:41.164Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:05:41.164Z"
+    },
     "suspended": false,
     "front": "dime\n\n*Dime qué pasó.*"
   },
@@ -17554,7 +17564,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:05:08.770Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:15:45.817Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:05:45.817Z"
+    },
     "suspended": false,
     "front": "dile\n\n*Dile que venga mañana.*"
   },
@@ -17578,7 +17598,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:05:12.232Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:15:49.564Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:05:49.564Z"
+    },
     "suspended": false,
     "front": "dinos\n\n*Dinos la historia completa.*"
   },
@@ -17602,7 +17632,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:05:16.040Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:15:56.690Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:05:56.690Z"
+    },
     "suspended": false,
     "front": "diles\n\n*Diles que no se preocupen.*"
   },
