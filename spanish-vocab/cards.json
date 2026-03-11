@@ -17272,13 +17272,25 @@
   },
   "colgar (yo, pretérito)": {
     "back": "colgué",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "household-items",
       "conjugations"
-    ]
+    ],
+    "created": "2026-02-13T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-27T16:03:09.055Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-11T16:03:09.055Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "me dices": {
     "back": "you tell me\n\n> me (to me) + dices (you tell). Object pronoun goes before conjugated verb.",
