@@ -17363,38 +17363,71 @@
   },
   "nos dice": {
     "back": "he/she tells us\n\n> nos (to us) + dice (he/she tells). Object pronoun goes before conjugated verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:05:27.283Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:04:27.283Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "nos dice\n\n*Nos dice que vamos a ganar.*"
   },
   "les digo": {
     "back": "I tell them\n\n> les (to them) + digo (I tell). Object pronoun goes before conjugated verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:05:34.927Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:04:34.927Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
   },
   "me dicen": {
     "back": "they tell me\n\n> me (to me) + dicen (they tell). Object pronoun goes before conjugated verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:05:44.676Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:04:44.676Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "me dicen\n\n*Me dicen que todo está bien.*"
   },
   "dime": {
