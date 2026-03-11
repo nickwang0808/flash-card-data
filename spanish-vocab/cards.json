@@ -17666,7 +17666,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:06:03.965Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:18:03.354Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:08:03.354Z"
+    },
     "suspended": false,
     "front": "decirme\n\n*¿Puedes decirme dónde está?*"
   },
@@ -17690,7 +17700,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:06:07.166Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:18:08.227Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:08:08.227Z"
+    },
     "suspended": false,
     "front": "decirte\n\n*Quiero decirte algo importante.*"
   },
@@ -17714,7 +17734,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:06:29.368Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:18:12.753Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:08:12.753Z"
+    },
     "suspended": false,
     "front": "escúchame\n\n*Escúchame, esto es serio.*"
   },
@@ -17738,7 +17768,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:06:36.053Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:18:15.172Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:08:15.172Z"
+    },
     "suspended": false,
     "front": "ayúdame\n\n*Ayúdame con la tarea, por favor.*"
   },
@@ -17762,7 +17802,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:06:58.191Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T23:18:24.123Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T23:08:24.123Z"
+    },
     "suspended": false,
     "front": "no me digas\n\n*No me digas mentiras.*"
   },
