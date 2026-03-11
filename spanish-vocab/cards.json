@@ -17528,28 +17528,50 @@
   },
   "decirme": {
     "back": "to tell me\n\n> decir (to tell) + me (to me). Pronoun attaches to end of infinitives.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "infinitive"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:16:03.965Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:06:03.965Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "decirme\n\n*¿Puedes decirme dónde está?*"
   },
   "decirte": {
     "back": "to tell you\n\n> decir (to tell) + te (to you). Pronoun attaches to end of infinitives.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "infinitive"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:16:07.166Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:06:07.166Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "decirte\n\n*Quiero decirte algo importante.*"
   },
   "escúchame": {
