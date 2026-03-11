@@ -17432,54 +17432,98 @@
   },
   "dime": {
     "back": "tell me\n\n> di (tell, tú command) + me (to me). Pronoun attaches to end of affirmative commands.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:14:59.857Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:04:59.857Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "dime\n\n*Dime qué pasó.*"
   },
   "dile": {
     "back": "tell him/her\n\n> di (tell, tú command) + le (to him/her). Pronoun attaches to end of affirmative commands.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:15:08.770Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:05:08.770Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "dile\n\n*Dile que venga mañana.*"
   },
   "dinos": {
     "back": "tell us\n\n> di (tell, tú command) + nos (to us). Pronoun attaches to end of affirmative commands.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:15:12.232Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:05:12.232Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "dinos\n\n*Dinos la historia completa.*"
   },
   "diles": {
     "back": "tell them\n\n> di (tell, tú command) + les (to them). Pronoun attaches to end of affirmative commands.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:15:16.040Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:05:16.040Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "diles\n\n*Diles que no se preocupen.*"
   },
   "decirme": {
