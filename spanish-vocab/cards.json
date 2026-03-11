@@ -17463,7 +17463,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:04:34.927Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:09:17.900Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:08:17.900Z"
+    },
     "suspended": false,
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
   },
@@ -17486,7 +17496,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:04:44.676Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:18:22.643Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:08:22.643Z"
+    },
     "suspended": false,
     "front": "me dicen\n\n*Me dicen que todo está bien.*"
   },
