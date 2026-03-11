@@ -17430,7 +17430,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:04:27.283Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T16:17:59.910Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:07:59.910Z"
+    },
     "suspended": false,
     "front": "nos dice\n\n*Nos dice que vamos a ganar.*"
   },
