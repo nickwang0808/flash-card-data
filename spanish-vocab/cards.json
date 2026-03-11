@@ -17340,14 +17340,25 @@
   },
   "le digo": {
     "back": "I tell him/her\n\n> le (to him/her) + digo (I tell). Object pronoun goes before conjugated verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-27T16:04:06.069Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-11T16:04:06.069Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "le digo\n\n*Siempre le digo buenos días.*"
   },
   "nos dice": {
