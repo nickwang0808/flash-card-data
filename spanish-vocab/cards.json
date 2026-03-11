@@ -17576,28 +17576,50 @@
   },
   "escúchame": {
     "back": "listen to me\n\n> escucha (listen, tú command) + me (to me). Same pattern works with any verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:16:29.368Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:06:29.368Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "escúchame\n\n*Escúchame, esto es serio.*"
   },
   "ayúdame": {
     "back": "help me\n\n> ayuda (help, tú command) + me (to me). Same pattern works with any verb.",
-    "created": "2026-02-13T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "verbs",
       "object-pronouns",
       "imperative"
     ],
+    "created": "2026-02-13T00:00:00Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-11T16:16:36.053Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T16:06:36.053Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "ayúdame\n\n*Ayúdame con la tarea, por favor.*"
   },
   "no me digas": {
