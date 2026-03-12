@@ -4884,15 +4884,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-12T19:59:36.225Z",
-      "stability": 0.99957903,
-      "difficulty": 7.8316823,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-16T22:36:59.894Z",
+      "stability": 3.90144691,
+      "difficulty": 7.81048927,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T19:59:36.225Z"
+      "last_review": "2026-03-12T22:36:59.894Z"
     },
     "reverseState": null,
     "suspended": false
@@ -11701,15 +11701,15 @@
       "last_review": "2026-02-21T20:45:21.806Z"
     },
     "reverseState": {
-      "due": "2026-03-12T21:00:00.528Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 1,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-04-07T22:37:20.909Z",
+      "stability": 25.59370236,
+      "difficulty": 4.50506778,
+      "elapsed_days": 7,
+      "scheduled_days": 26,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:00:00.528Z"
+      "last_review": "2026-03-12T22:37:20.909Z"
     },
     "suspended": false,
     "front": "el procesador de alimentos\n\n*Pico las verduras en el procesador*"
@@ -12829,15 +12829,15 @@
       "last_review": "2026-03-10T03:53:22.046Z"
     },
     "reverseState": {
-      "due": "2026-03-12T20:00:42.672Z",
-      "stability": 1.57729845,
-      "difficulty": 8.03605834,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 5,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T20:00:42.672Z"
+      "due": "2026-03-12T22:42:05.881Z",
+      "stability": 0.65818887,
+      "difficulty": 8.64835783,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-12T22:37:05.881Z"
     },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
@@ -13593,15 +13593,15 @@
       "last_review": "2026-03-10T20:00:28.334Z"
     },
     "reverseState": {
-      "due": "2026-03-12T20:01:28.266Z",
-      "stability": 1.57729845,
-      "difficulty": 8.03605834,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 5,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T20:01:28.266Z"
+      "due": "2026-03-12T22:42:12.305Z",
+      "stability": 0.65818887,
+      "difficulty": 8.64835783,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-12T22:37:12.305Z"
     },
     "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
@@ -16516,15 +16516,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T21:02:59.337Z",
-      "stability": 6.84572068,
-      "difficulty": 9.31176282,
-      "elapsed_days": 4,
-      "scheduled_days": 7,
-      "reps": 12,
+      "due": "2026-03-24T22:37:25.410Z",
+      "stability": 11.56502113,
+      "difficulty": 9.28376142,
+      "elapsed_days": 7,
+      "scheduled_days": 12,
+      "reps": 13,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-05T21:02:59.337Z"
+      "last_review": "2026-03-12T22:37:25.410Z"
     },
     "reverseState": {
       "due": "2026-03-16T22:34:08.955Z",
@@ -17939,15 +17939,15 @@
       "last_review": "2026-03-12T22:33:01.062Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:30:15.913Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-13T22:37:31.646Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T22:29:15.913Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:37:31.646Z"
     },
     "suspended": false,
     "front": "diciéndome\n\n*Sigue diciéndome la historia.*"
@@ -18036,15 +18036,15 @@
       "last_review": "2026-03-12T22:33:06.213Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:30:27.888Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-12T22:42:36.653Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-12T22:29:27.888Z"
+      "last_review": "2026-03-12T22:37:36.653Z"
     },
     "suspended": false
   },
@@ -18098,15 +18098,15 @@
       "last_review": "2026-03-12T22:33:18.270Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:30:36.253Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-13T22:37:39.890Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T22:29:36.253Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:37:39.890Z"
     },
     "suspended": false
   },
@@ -18222,15 +18222,15 @@
       "last_review": "2026-03-12T22:33:26.519Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:30:54.331Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-13T22:37:42.514Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T22:29:54.331Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:37:42.514Z"
     },
     "suspended": false
   },
@@ -18284,15 +18284,15 @@
       "last_review": "2026-03-12T18:41:40.774Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:31:01.732Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-12T22:42:47.034Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-12T22:30:01.732Z"
+      "last_review": "2026-03-12T22:37:47.034Z"
     },
     "suspended": false
   },
