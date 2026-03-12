@@ -118,7 +118,7 @@
     "front": "el microondas\n\n*Caliento la comida en el microondas*"
   },
   "el fregadero": {
-    "back": "sink\n\n> Kitchen sink; use 'el lavabo' for bathroom sink",
+    "back": "sink\n\n> Kitchen sink (use lavabo for bathroom sink)",
     "tags": [
       "household-items"
     ],
@@ -700,7 +700,7 @@
     "front": "el inodoro\n\n*El inodoro está limpio*"
   },
   "el lavabo": {
-    "back": "sink\n\n> Bathroom sink; use 'el fregadero' for kitchen sink",
+    "back": "sink\n\n> Bathroom sink (use fregadero for kitchen sink)",
     "tags": [
       "household-items"
     ],
@@ -17313,7 +17313,7 @@
     "suspended": false
   },
   "me dices": {
-    "back": "you tell me\n\n> me (to me) + dices (you tell). Object pronoun goes before conjugated verb.",
+    "back": "you tell me",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17346,7 +17346,7 @@
     "front": "me dices\n\n*¿Por qué no me dices la verdad?*"
   },
   "te digo": {
-    "back": "I tell you\n\n> te (to you) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell you",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17379,7 +17379,7 @@
     "front": "te digo\n\n*Te digo que es importante.*"
   },
   "le digo": {
-    "back": "I tell him/her\n\n> le (to him/her) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell him/her",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17412,7 +17412,7 @@
     "front": "le digo\n\n*Siempre le digo buenos días.*"
   },
   "nos dice": {
-    "back": "he/she tells us\n\n> nos (to us) + dice (he/she tells). Object pronoun goes before conjugated verb.",
+    "back": "he/she tells us",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17445,7 +17445,7 @@
     "front": "nos dice\n\n*Nos dice que vamos a ganar.*"
   },
   "les digo": {
-    "back": "I tell them\n\n> les (to them) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell them",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17478,7 +17478,7 @@
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
   },
   "me dicen": {
-    "back": "they tell me\n\n> me (to me) + dicen (they tell). Object pronoun goes before conjugated verb.",
+    "back": "they tell me",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17511,7 +17511,7 @@
     "front": "me dicen\n\n*Me dicen que todo está bien.*"
   },
   "dime": {
-    "back": "tell me\n\n> di (tell, tú command) + me (to me). Pronoun attaches to end of affirmative commands.",
+    "back": "tell me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17545,7 +17545,7 @@
     "front": "dime\n\n*Dime qué pasó.*"
   },
   "dile": {
-    "back": "tell him/her\n\n> di (tell, tú command) + le (to him/her). Pronoun attaches to end of affirmative commands.",
+    "back": "tell him/her\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17579,7 +17579,7 @@
     "front": "dile\n\n*Dile que venga mañana.*"
   },
   "dinos": {
-    "back": "tell us\n\n> di (tell, tú command) + nos (to us). Pronoun attaches to end of affirmative commands.",
+    "back": "tell us\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17613,7 +17613,7 @@
     "front": "dinos\n\n*Dinos la historia completa.*"
   },
   "diles": {
-    "back": "tell them\n\n> di (tell, tú command) + les (to them). Pronoun attaches to end of affirmative commands.",
+    "back": "tell them\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17647,7 +17647,7 @@
     "front": "diles\n\n*Diles que no se preocupen.*"
   },
   "decirme": {
-    "back": "to tell me\n\n> decir (to tell) + me (to me). Pronoun attaches to end of infinitives.",
+    "back": "to tell me\n\n> Pronoun attaches to the end of infinitives",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17681,7 +17681,7 @@
     "front": "decirme\n\n*¿Puedes decirme dónde está?*"
   },
   "decirte": {
-    "back": "to tell you\n\n> decir (to tell) + te (to you). Pronoun attaches to end of infinitives.",
+    "back": "to tell you\n\n> Pronoun attaches to the end of infinitives",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17715,7 +17715,7 @@
     "front": "decirte\n\n*Quiero decirte algo importante.*"
   },
   "escúchame": {
-    "back": "listen to me\n\n> escucha (listen, tú command) + me (to me). Same pattern works with any verb.",
+    "back": "listen to me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17749,7 +17749,7 @@
     "front": "escúchame\n\n*Escúchame, esto es serio.*"
   },
   "ayúdame": {
-    "back": "help me\n\n> ayuda (help, tú command) + me (to me). Same pattern works with any verb.",
+    "back": "help me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17783,7 +17783,7 @@
     "front": "ayúdame\n\n*Ayúdame con la tarea, por favor.*"
   },
   "no me digas": {
-    "back": "don't tell me\n\n> Negative commands flip the pronoun back to before the verb. Compare: dime (tell me) vs no me digas (don't tell me).",
+    "back": "don't tell me\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17817,7 +17817,7 @@
     "front": "no me digas\n\n*No me digas mentiras.*"
   },
   "no le digas": {
-    "back": "don't tell him/her\n\n> Negative commands flip the pronoun back to before the verb. Compare: dile (tell him/her) vs no le digas (don't tell him/her).",
+    "back": "don't tell him/her\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17841,7 +17841,7 @@
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
   },
   "no me escuches": {
-    "back": "don't listen to me\n\n> Negative commands flip the pronoun back to before the verb. Compare: escúchame (listen to me) vs no me escuches (don't listen to me).",
+    "back": "don't listen to me\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17865,7 +17865,7 @@
     "front": "no me escuches\n\n*No me escuches, estoy bromeando.*"
   },
   "no nos digas": {
-    "back": "don't tell us\n\n> Negative commands flip the pronoun back to before the verb. Compare: dinos (tell us) vs no nos digas (don't tell us).",
+    "back": "don't tell us\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17889,7 +17889,7 @@
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
   },
   "diciéndome": {
-    "back": "telling me\n\n> diciendo (telling, gerund) + me (to me). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "back": "telling me\n\n> Pronoun attaches to the end of gerunds",
     "created": "2026-02-13T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -17902,7 +17902,7 @@
     "front": "diciéndome\n\n*Sigue diciéndome la historia.*"
   },
   "diciéndote": {
-    "back": "telling you\n\n> diciendo (telling, gerund) + te (to you). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "back": "telling you\n\n> Pronoun attaches to the end of gerunds",
     "created": "2026-02-13T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -17913,5 +17913,1606 @@
     ],
     "reversible": true,
     "front": "diciéndote\n\n*Estoy diciéndote la verdad.*"
+  },
+  "lunes": {
+    "back": "Monday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "martes": {
+    "back": "Tuesday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "miércoles": {
+    "back": "Wednesday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "jueves": {
+    "back": "Thursday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "viernes": {
+    "back": "Friday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "sábado": {
+    "back": "Saturday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "domingo": {
+    "back": "Sunday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "enero": {
+    "back": "January",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "febrero": {
+    "back": "February",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "marzo": {
+    "back": "March",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "abril": {
+    "back": "April",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "mayo": {
+    "back": "May",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "junio": {
+    "back": "June",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "julio": {
+    "back": "July",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "agosto": {
+    "back": "August",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "septiembre": {
+    "back": "September",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "octubre": {
+    "back": "October",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "noviembre": {
+    "back": "November",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "diciembre": {
+    "back": "December",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "la primavera": {
+    "back": "spring",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "el verano": {
+    "back": "summer",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "el otoño": {
+    "back": "autumn / fall",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "el invierno": {
+    "back": "winter",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "hoy": {
+    "back": "today",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "mañana": {
+    "back": "tomorrow / morning",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "ayer": {
+    "back": "yesterday",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "pasado mañana": {
+    "back": "the day after tomorrow\n\n*Pasado mañana llega mi hermano*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "anteayer": {
+    "back": "the day before yesterday\n\n*Anteayer fui al médico*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "el fin de semana": {
+    "back": "the weekend",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "la semana pasada": {
+    "back": "last week\n\n*La semana pasada fui al cine*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "la semana que viene": {
+    "back": "next week\n\n*La semana que viene tengo examen*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "el mes pasado": {
+    "back": "last month\n\n*El mes pasado viajé a España*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "el mes que viene": {
+    "back": "next month\n\n*El mes que viene empiezo un curso nuevo*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "el año pasado": {
+    "back": "last year\n\n*El año pasado aprendí mucho español*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "el año que viene": {
+    "back": "next year\n\n*El año que viene voy a vivir en México*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": false
+  },
+  "la fecha": {
+    "back": "the date",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "el siglo": {
+    "back": "the century",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "la década": {
+    "back": "the decade",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "dates"
+    ],
+    "reversible": true
+  },
+  "llueve": {
+    "back": "it is raining\n\n*Llueve mucho en abril*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "nieva": {
+    "back": "it is snowing\n\n*Nieva en las montañas en invierno*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hace calor": {
+    "back": "it is hot\n\n*Hace calor en verano*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hace frío": {
+    "back": "it is cold\n\n*Hace frío en invierno*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hace viento": {
+    "back": "it is windy\n\n*Hace viento hoy, lleva una chaqueta*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hace sol": {
+    "back": "it is sunny\n\n*Hace sol, vamos a la playa*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "está nublado": {
+    "back": "it is cloudy\n\n*Está nublado, puede llover*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hay niebla": {
+    "back": "it is foggy\n\n*Hay niebla por la mañana*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hay tormenta": {
+    "back": "there is a storm\n\n*Hay tormenta, mejor quedarse en casa*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hay relámpagos": {
+    "back": "there is lightning\n\n*Hay relámpagos en la tormenta*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "hay truenos": {
+    "back": "there is thunder\n\n*Hay truenos, el perro tiene miedo*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": false
+  },
+  "la lluvia": {
+    "back": "rain",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "la nieve": {
+    "back": "snow",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el viento": {
+    "back": "wind",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el sol": {
+    "back": "sun",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "la niebla": {
+    "back": "fog",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "la tormenta": {
+    "back": "storm",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el relámpago": {
+    "back": "lightning",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el trueno": {
+    "back": "thunder",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el cielo": {
+    "back": "sky",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "la nube": {
+    "back": "cloud",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "la temperatura": {
+    "back": "temperature",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el clima": {
+    "back": "climate",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el tiempo": {
+    "back": "weather / time",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "weather"
+    ],
+    "reversible": true
+  },
+  "el padre": {
+    "back": "father",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "la madre": {
+    "back": "mother",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "el hijo": {
+    "back": "son",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "la hija": {
+    "back": "daughter",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "el hermano": {
+    "back": "brother",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "la hermana": {
+    "back": "sister",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "el abuelo": {
+    "back": "grandfather",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "la abuela": {
+    "back": "grandmother",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "los padres": {
+    "back": "parents",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "los hijos": {
+    "back": "children / sons",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "los abuelos": {
+    "back": "grandparents",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true,
+    "suspended": true
+  },
+  "el nieto": {
+    "back": "grandson",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la nieta": {
+    "back": "granddaughter",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el tío": {
+    "back": "uncle",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la tía": {
+    "back": "aunt",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el primo": {
+    "back": "cousin (m)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la prima": {
+    "back": "cousin (f)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el sobrino": {
+    "back": "nephew",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la sobrina": {
+    "back": "niece",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el suegro": {
+    "back": "father-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la suegra": {
+    "back": "mother-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el yerno": {
+    "back": "son-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la nuera": {
+    "back": "daughter-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el cuñado": {
+    "back": "brother-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la cuñada": {
+    "back": "sister-in-law",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el marido": {
+    "back": "husband",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el esposo": {
+    "back": "husband",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la mujer": {
+    "back": "wife / woman",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la esposa": {
+    "back": "wife",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "el gemelo": {
+    "back": "twin (m)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la gemela": {
+    "back": "twin (f)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "family"
+    ],
+    "reversible": true
+  },
+  "la cabeza": {
+    "back": "head",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la cara": {
+    "back": "face",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el ojo": {
+    "back": "eye",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la nariz": {
+    "back": "nose",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la boca": {
+    "back": "mouth",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el oído": {
+    "back": "inner ear / hearing",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la oreja": {
+    "back": "ear (outer)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el diente": {
+    "back": "tooth",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la lengua": {
+    "back": "tongue",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la mejilla": {
+    "back": "cheek",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la frente": {
+    "back": "forehead",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el cuello": {
+    "back": "neck",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el hombro": {
+    "back": "shoulder",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el pecho": {
+    "back": "chest",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la espalda": {
+    "back": "back",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el estómago": {
+    "back": "stomach",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la cadera": {
+    "back": "hip",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el ombligo": {
+    "back": "belly button / navel",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el brazo": {
+    "back": "arm",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el codo": {
+    "back": "elbow",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la muñeca": {
+    "back": "wrist\n\n> Also means *doll*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la mano": {
+    "back": "hand",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el dedo": {
+    "back": "finger",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la uña": {
+    "back": "nail (finger/toe)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la pierna": {
+    "back": "leg",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la rodilla": {
+    "back": "knee",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el tobillo": {
+    "back": "ankle",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el pie": {
+    "back": "foot",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el dedo del pie": {
+    "back": "toe",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el pulmón": {
+    "back": "lung",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el hueso": {
+    "back": "bone",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la sangre": {
+    "back": "blood",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "la piel": {
+    "back": "skin",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "el músculo": {
+    "back": "muscle",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "body-parts"
+    ],
+    "reversible": true
+  },
+  "ya": {
+    "back": "already / now / anymore\n\n*Ya terminé el trabajo*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "todavía": {
+    "back": "still / yet\n\n*Todavía no he comido*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "aún": {
+    "back": "still / yet / even\n\n*Aún no sé qué hacer*\n\n> Without accent (*aun*) means even",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "siempre": {
+    "back": "always\n\n*Siempre llego a tiempo*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "nunca": {
+    "back": "never\n\n*Nunca como carne*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "jamás": {
+    "back": "never (emphatic)\n\n*Jamás volvería a hacer eso*\n\n> Stronger than *nunca*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "antes": {
+    "back": "before / previously\n\n*Antes vivía en Madrid*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "después": {
+    "back": "after / later\n\n*Después del trabajo voy al gimnasio*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "pronto": {
+    "back": "soon\n\n*Vuelvo pronto*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "tarde": {
+    "back": "late\n\n*Llegué tarde a la reunión*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "enseguida": {
+    "back": "right away / immediately\n\n*Enseguida te atiendo*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "a veces": {
+    "back": "sometimes\n\n*A veces como fuera de casa*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "de vez en cuando": {
+    "back": "from time to time\n\n*De vez en cuando veo a mis primos*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "bastante": {
+    "back": "quite / enough / rather\n\n*Estoy bastante cansado hoy*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "demasiado": {
+    "back": "too much / too many\n\n*Comes demasiado rápido*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "apenas": {
+    "back": "barely / hardly\n\n*Apenas dormí anoche*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "casi": {
+    "back": "almost\n\n*Casi pierdo el tren*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "solo": {
+    "back": "only / just\n\n*Solo quiero un café*\n\n> Without accent when used as adjective (*solo* = alone)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "también": {
+    "back": "also / too\n\n*Yo también quiero ir*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "tampoco": {
+    "back": "neither / not either\n\n*Yo tampoco lo sé*\n\n> Negative counterpart of *también*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adverbs"
+    ],
+    "reversible": false
+  },
+  "pero": {
+    "back": "but\n\n*Quiero ir, pero estoy cansado*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "sino": {
+    "back": "but rather / but instead\n\n*No es rojo, sino azul*\n\n> Use after a negative to correct it; contrast with *pero*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "aunque": {
+    "back": "although / even though / even if\n\n*Aunque llueve, voy a salir*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "además": {
+    "back": "furthermore / besides / also\n\n*Además, no tengo dinero*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "sin embargo": {
+    "back": "however / nevertheless\n\n*Es caro; sin embargo, lo compro*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "por eso": {
+    "back": "that is why / therefore\n\n*Estaba cansado, por eso me dormí*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "así que": {
+    "back": "so / therefore\n\n*Tenía hambre, así que comí*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "de hecho": {
+    "back": "in fact / actually\n\n*De hecho, ya lo sabía*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "o sea": {
+    "back": "I mean / that is / in other words\n\n*O sea, no vas a venir*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "es decir": {
+    "back": "that is to say / in other words\n\n*Es decir, tienes que esperar*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "en cambio": {
+    "back": "on the other hand / instead\n\n*Él trabaja mucho; ella, en cambio, descansa*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
+  },
+  "por lo tanto": {
+    "back": "therefore / consequently\n\n*No estudió, por lo tanto suspendió*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "connectors"
+    ],
+    "reversible": false
   }
 }
