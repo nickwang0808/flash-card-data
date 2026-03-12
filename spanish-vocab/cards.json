@@ -60,15 +60,15 @@
       "last_review": "2026-03-05T21:08:13.541Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:56:05.258Z",
-      "stability": 1.95846412,
-      "difficulty": 8.93271061,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 11,
+      "due": "2026-03-16T22:33:53.614Z",
+      "stability": 3.87545907,
+      "difficulty": 8.90645285,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 12,
       "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-10T19:56:05.258Z"
+      "last_review": "2026-03-12T22:33:53.614Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
@@ -12507,15 +12507,15 @@
       "last_review": "2026-03-10T03:25:20.653Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:42:52.304Z",
-      "stability": 4.85428674,
-      "difficulty": 6.70746009,
-      "elapsed_days": 2,
-      "scheduled_days": 5,
-      "reps": 3,
+      "due": "2026-03-26T22:33:35.891Z",
+      "stability": 13.77706898,
+      "difficulty": 6.69143848,
+      "elapsed_days": 5,
+      "scheduled_days": 14,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:42:52.304Z"
+      "last_review": "2026-03-12T22:33:35.891Z"
     },
     "suspended": false,
     "front": "fregar\n\n*Friego los platos con esponja*"
@@ -14137,15 +14137,15 @@
       "last_review": "2026-03-01T17:35:02.900Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:50:37.459Z",
-      "stability": 2.1158572,
-      "difficulty": 9.24902706,
+      "due": "2026-03-16T22:33:43.161Z",
+      "stability": 3.73702018,
+      "difficulty": 9.22131424,
       "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 9,
+      "scheduled_days": 4,
+      "reps": 10,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T19:50:37.459Z"
+      "last_review": "2026-03-12T22:33:43.161Z"
     },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
@@ -15879,15 +15879,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T19:56:30.044Z",
-      "stability": 0.5666983,
-      "difficulty": 7.15845635,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T22:33:58.077Z",
+      "stability": 3.88784713,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:56:30.044Z"
+      "last_review": "2026-03-12T22:33:58.077Z"
     },
     "reverseState": {
       "due": "2026-03-14T03:56:33.451Z",
@@ -16318,15 +16318,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T19:56:32.503Z",
-      "stability": 0.5666983,
-      "difficulty": 7.15845635,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T22:34:00.205Z",
+      "stability": 3.88784713,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:56:32.503Z"
+      "last_review": "2026-03-12T22:34:00.205Z"
     },
     "reverseState": {
       "due": "2026-03-12T19:58:32.542Z",
@@ -16395,15 +16395,15 @@
       "last_review": "2026-03-10T03:55:57.283Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:56:36.920Z",
-      "stability": 0.5666983,
-      "difficulty": 7.15845635,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T22:34:05.302Z",
+      "stability": 3.88784713,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:56:36.920Z"
+      "last_review": "2026-03-12T22:34:05.302Z"
     },
     "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
@@ -16527,15 +16527,15 @@
       "last_review": "2026-03-05T21:02:59.337Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:56:43.004Z",
-      "stability": 0.5666983,
-      "difficulty": 7.15845635,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 3,
+      "due": "2026-03-16T22:34:08.955Z",
+      "stability": 3.88784713,
+      "difficulty": 7.14036016,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:56:43.004Z"
+      "last_review": "2026-03-12T22:34:08.955Z"
     },
     "suspended": false,
     "front": "alegrarse\n\n*Me alegro de verte*"
@@ -17053,15 +17053,15 @@
       "last_review": "2026-03-12T03:20:13.000Z"
     },
     "reverseState": {
-      "due": "2026-03-12T19:53:34.204Z",
-      "stability": 1.66658995,
-      "difficulty": 6.47329177,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-03-18T22:33:46.622Z",
+      "stability": 5.87044905,
+      "difficulty": 6.45834734,
+      "elapsed_days": 2,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:53:34.204Z"
+      "last_review": "2026-03-12T22:33:46.622Z"
     },
     "suspended": false,
     "front": "la risa\n\n*La risa es la mejor medicina*"
@@ -17905,15 +17905,15 @@
       "last_review": "2026-03-12T03:18:10.103Z"
     },
     "reverseState": {
-      "due": "2026-03-12T18:52:11.130Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-16T22:33:32.242Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T18:42:11.130Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:33:32.242Z"
     },
     "suspended": false,
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
@@ -18211,15 +18211,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T18:51:35.943Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-16T22:33:26.519Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T18:41:35.943Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:33:26.519Z"
     },
     "reverseState": {
       "due": "2026-03-12T22:30:54.331Z",
