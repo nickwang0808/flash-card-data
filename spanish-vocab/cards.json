@@ -19473,14 +19473,15 @@
     "reversible": false
   },
   "o sea": {
-    "back": "I mean / that is to say",
+    "back": "I mean / that is to say\n\n*It's expensive, I mean, I can't buy it*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
       "fillers"
     ],
-    "reversible": false
+    "reversible": false,
+    "front": "o sea\n\n*Es caro, o sea, no lo puedo comprar*"
   },
   "es decir": {
     "back": "that is to say / in other words\n\n*Es decir, tienes que esperar*",
@@ -19735,43 +19736,47 @@
     "reversible": false
   },
   "es que...": {
-    "back": "the thing is... / it's just that...",
+    "back": "the thing is... / it's just that...\n\n*I didn't go, the thing is I was really tired*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
       "fillers"
     ],
-    "reversible": false
+    "reversible": false,
+    "front": "es que...\n\n*No fui, es que estaba muy cansado*"
   },
   "a ver": {
-    "back": "let's see",
+    "back": "let's see\n\n*Let's see, let me think*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
       "fillers"
     ],
-    "reversible": true
+    "reversible": true,
+    "front": "a ver\n\n*A ver, déjame pensar*"
   },
   "por cierto": {
-    "back": "by the way",
+    "back": "by the way\n\n*By the way, did you see the movie?*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
       "fillers"
     ],
-    "reversible": true
+    "reversible": true,
+    "front": "por cierto\n\n*Por cierto, ¿viste la película?*"
   },
   "oye": {
-    "back": "hey / listen",
+    "back": "hey / listen\n\n*Hey, do you have a moment?*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
       "fillers"
     ],
-    "reversible": true
+    "reversible": true,
+    "front": "oye\n\n*Oye, ¿tienes un momento?*"
   }
 }
