@@ -16714,15 +16714,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T03:24:50.700Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-13T03:24:41.555Z",
+      "stability": 0.56424932,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:19:50.700Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:41.555Z"
     },
     "reverseState": {
       "due": "2026-03-16T03:20:36.165Z",
@@ -16945,15 +16945,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T03:25:05.147Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-13T03:24:44.972Z",
+      "stability": 0.56424932,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:20:05.147Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:44.972Z"
     },
     "reverseState": {
       "due": "2026-03-12T03:25:53.322Z",
@@ -17871,15 +17871,15 @@
       "last_review": "2026-03-12T03:18:02.851Z"
     },
     "reverseState": {
-      "due": "2026-03-12T02:47:09.061Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-16T03:24:39.299Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T02:37:09.061Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:39.299Z"
     },
     "suspended": false,
     "front": "no me escuches\n\n*No me escuches, estoy bromeando.*"
