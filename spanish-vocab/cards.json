@@ -17904,7 +17904,17 @@
       "state": 2,
       "last_review": "2026-03-12T03:18:10.103Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-12T18:52:11.130Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T18:42:11.130Z"
+    },
     "suspended": false,
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
   },
@@ -18315,13 +18325,24 @@
   },
   "noviembre": {
     "back": "November",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "dates"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-28T18:42:02.893Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-12T18:42:02.893Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "diciembre": {
     "back": "December",
