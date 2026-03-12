@@ -9951,15 +9951,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-11T19:42:58.996Z",
-      "stability": 3.94606439,
-      "difficulty": 8.60000221,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 7,
+      "due": "2026-03-21T03:19:39.453Z",
+      "stability": 8.9412569,
+      "difficulty": 8.57527491,
+      "elapsed_days": 5,
+      "scheduled_days": 9,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:42:58.996Z"
+      "last_review": "2026-03-12T03:19:39.453Z"
     },
     "reverseState": null,
     "suspended": false
@@ -10065,15 +10065,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-11T19:42:38.000Z",
-      "stability": 3.50087696,
-      "difficulty": 8.98408081,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 8,
+      "due": "2026-03-20T03:19:34.205Z",
+      "stability": 7.69145586,
+      "difficulty": 8.95758675,
+      "elapsed_days": 5,
+      "scheduled_days": 8,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T19:42:38.000Z"
+      "last_review": "2026-03-12T03:19:34.205Z"
     },
     "reverseState": null,
     "suspended": false
@@ -14905,15 +14905,15 @@
       "last_review": "2026-03-07T19:26:47.615Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:41:37.626Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-28T03:19:25.965Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:41:37.626Z"
+      "last_review": "2026-03-12T03:19:25.965Z"
     },
     "suspended": false,
     "front": "la ansiedad\n\n*La ansiedad afecta mi sueño*"
@@ -16681,15 +16681,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:21.437Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:19:46.046Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:51:21.437Z"
+      "last_review": "2026-03-12T03:19:46.046Z"
     },
     "reverseState": {
       "due": "2026-03-11T19:54:50.758Z",
@@ -16714,15 +16714,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:27.005Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:51:27.005Z"
+      "due": "2026-03-12T03:24:50.700Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:19:50.700Z"
     },
     "reverseState": {
       "due": "2026-03-11T19:52:45.810Z",
@@ -16846,15 +16846,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:30.135Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:19:54.169Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:51:30.135Z"
+      "last_review": "2026-03-12T03:19:54.169Z"
     },
     "reverseState": {
       "due": "2026-03-14T19:54:21.931Z",
@@ -16879,15 +16879,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:37.355Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:20:01.599Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:51:37.355Z"
+      "last_review": "2026-03-12T03:20:01.599Z"
     },
     "reverseState": {
       "due": "2026-03-11T19:52:56.065Z",
@@ -16945,15 +16945,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:52.497Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:51:52.497Z"
+      "due": "2026-03-12T03:25:05.147Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:20:05.147Z"
     },
     "reverseState": {
       "due": "2026-03-11T19:53:06.186Z",
@@ -17010,15 +17010,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:51:58.499Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:20:10.072Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:51:58.499Z"
+      "last_review": "2026-03-12T03:20:10.072Z"
     },
     "reverseState": {
       "due": "2026-03-11T19:55:40.733Z",
@@ -17042,15 +17042,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:52:04.528Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:20:13.000Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:52:04.528Z"
+      "last_review": "2026-03-12T03:20:13.000Z"
     },
     "reverseState": {
       "due": "2026-03-12T19:53:34.204Z",
