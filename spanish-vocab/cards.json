@@ -118,7 +118,7 @@
     "front": "el microondas\n\n*Caliento la comida en el microondas*"
   },
   "el fregadero": {
-    "back": "sink\n\n> Kitchen sink; use 'el lavabo' for bathroom sink",
+    "back": "sink\n\n> Kitchen sink (use lavabo for bathroom sink)",
     "tags": [
       "household-items"
     ],
@@ -700,7 +700,7 @@
     "front": "el inodoro\n\n*El inodoro está limpio*"
   },
   "el lavabo": {
-    "back": "sink\n\n> Bathroom sink; use 'el fregadero' for kitchen sink",
+    "back": "sink\n\n> Bathroom sink (use fregadero for kitchen sink)",
     "tags": [
       "household-items"
     ],
@@ -17313,7 +17313,7 @@
     "suspended": false
   },
   "me dices": {
-    "back": "you tell me\n\n> me (to me) + dices (you tell). Object pronoun goes before conjugated verb.",
+    "back": "you tell me",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17346,7 +17346,7 @@
     "front": "me dices\n\n*¿Por qué no me dices la verdad?*"
   },
   "te digo": {
-    "back": "I tell you\n\n> te (to you) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell you",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17379,7 +17379,7 @@
     "front": "te digo\n\n*Te digo que es importante.*"
   },
   "le digo": {
-    "back": "I tell him/her\n\n> le (to him/her) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell him/her",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17412,7 +17412,7 @@
     "front": "le digo\n\n*Siempre le digo buenos días.*"
   },
   "nos dice": {
-    "back": "he/she tells us\n\n> nos (to us) + dice (he/she tells). Object pronoun goes before conjugated verb.",
+    "back": "he/she tells us",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17445,7 +17445,7 @@
     "front": "nos dice\n\n*Nos dice que vamos a ganar.*"
   },
   "les digo": {
-    "back": "I tell them\n\n> les (to them) + digo (I tell). Object pronoun goes before conjugated verb.",
+    "back": "I tell them",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17478,7 +17478,7 @@
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
   },
   "me dicen": {
-    "back": "they tell me\n\n> me (to me) + dicen (they tell). Object pronoun goes before conjugated verb.",
+    "back": "they tell me",
     "tags": [
       "verbs",
       "object-pronouns"
@@ -17511,7 +17511,7 @@
     "front": "me dicen\n\n*Me dicen que todo está bien.*"
   },
   "dime": {
-    "back": "tell me\n\n> di (tell, tú command) + me (to me). Pronoun attaches to end of affirmative commands.",
+    "back": "tell me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17535,7 +17535,7 @@
     "front": "dime\n\n*Dime qué pasó.*"
   },
   "dile": {
-    "back": "tell him/her\n\n> di (tell, tú command) + le (to him/her). Pronoun attaches to end of affirmative commands.",
+    "back": "tell him/her\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17559,7 +17559,7 @@
     "front": "dile\n\n*Dile que venga mañana.*"
   },
   "dinos": {
-    "back": "tell us\n\n> di (tell, tú command) + nos (to us). Pronoun attaches to end of affirmative commands.",
+    "back": "tell us\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17583,7 +17583,7 @@
     "front": "dinos\n\n*Dinos la historia completa.*"
   },
   "diles": {
-    "back": "tell them\n\n> di (tell, tú command) + les (to them). Pronoun attaches to end of affirmative commands.",
+    "back": "tell them\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17607,7 +17607,7 @@
     "front": "diles\n\n*Diles que no se preocupen.*"
   },
   "decirme": {
-    "back": "to tell me\n\n> decir (to tell) + me (to me). Pronoun attaches to end of infinitives.",
+    "back": "to tell me\n\n> Pronoun attaches to the end of infinitives",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17631,7 +17631,7 @@
     "front": "decirme\n\n*¿Puedes decirme dónde está?*"
   },
   "decirte": {
-    "back": "to tell you\n\n> decir (to tell) + te (to you). Pronoun attaches to end of infinitives.",
+    "back": "to tell you\n\n> Pronoun attaches to the end of infinitives",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17655,7 +17655,7 @@
     "front": "decirte\n\n*Quiero decirte algo importante.*"
   },
   "escúchame": {
-    "back": "listen to me\n\n> escucha (listen, tú command) + me (to me). Same pattern works with any verb.",
+    "back": "listen to me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17679,7 +17679,7 @@
     "front": "escúchame\n\n*Escúchame, esto es serio.*"
   },
   "ayúdame": {
-    "back": "help me\n\n> ayuda (help, tú command) + me (to me). Same pattern works with any verb.",
+    "back": "help me\n\n> Affirmative command: pronoun attaches to the end",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17703,7 +17703,7 @@
     "front": "ayúdame\n\n*Ayúdame con la tarea, por favor.*"
   },
   "no me digas": {
-    "back": "don't tell me\n\n> Negative commands flip the pronoun back to before the verb. Compare: dime (tell me) vs no me digas (don't tell me).",
+    "back": "don't tell me\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17727,7 +17727,7 @@
     "front": "no me digas\n\n*No me digas mentiras.*"
   },
   "no le digas": {
-    "back": "don't tell him/her\n\n> Negative commands flip the pronoun back to before the verb. Compare: dile (tell him/her) vs no le digas (don't tell him/her).",
+    "back": "don't tell him/her\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17751,7 +17751,7 @@
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
   },
   "no me escuches": {
-    "back": "don't listen to me\n\n> Negative commands flip the pronoun back to before the verb. Compare: escúchame (listen to me) vs no me escuches (don't listen to me).",
+    "back": "don't listen to me\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17775,7 +17775,7 @@
     "front": "no me escuches\n\n*No me escuches, estoy bromeando.*"
   },
   "no nos digas": {
-    "back": "don't tell us\n\n> Negative commands flip the pronoun back to before the verb. Compare: dinos (tell us) vs no nos digas (don't tell us).",
+    "back": "don't tell us\n\n> Negative command: pronoun goes before the verb",
     "tags": [
       "verbs",
       "object-pronouns",
@@ -17799,7 +17799,7 @@
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
   },
   "diciéndome": {
-    "back": "telling me\n\n> diciendo (telling, gerund) + me (to me). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "back": "telling me\n\n> Pronoun attaches to the end of gerunds",
     "created": "2026-02-13T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -17812,7 +17812,7 @@
     "front": "diciéndome\n\n*Sigue diciéndome la historia.*"
   },
   "diciéndote": {
-    "back": "telling you\n\n> diciendo (telling, gerund) + te (to you). Pronoun attaches to end of gerunds, same as commands and infinitives.",
+    "back": "telling you\n\n> Pronoun attaches to the end of gerunds",
     "created": "2026-02-13T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18105,7 +18105,7 @@
     "reversible": false
   },
   "el fin de semana": {
-    "back": "the weekend\n\n*El fin de semana descanso*",
+    "back": "the weekend",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18175,7 +18175,7 @@
     "reversible": false
   },
   "la fecha": {
-    "back": "the date\n\n*¿Cuál es la fecha de hoy?*",
+    "back": "the date",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18185,7 +18185,7 @@
     "reversible": true
   },
   "el siglo": {
-    "back": "the century\n\n*Vivimos en el siglo veintiuno*",
+    "back": "the century",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18195,7 +18195,7 @@
     "reversible": true
   },
   "la década": {
-    "back": "the decade\n\n*En la última década todo ha cambiado*",
+    "back": "the decade",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18435,7 +18435,7 @@
     "reversible": true
   },
   "el tiempo": {
-    "back": "weather / time\n\n*¿Qué tiempo hace hoy?*",
+    "back": "weather / time",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18816,7 +18816,7 @@
     "reversible": true
   },
   "el oído": {
-    "back": "inner ear / hearing\n\n> Use *el oído* for hearing/inner ear, *la oreja* for the outer ear",
+    "back": "inner ear / hearing",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
@@ -18826,7 +18826,7 @@
     "reversible": true
   },
   "la oreja": {
-    "back": "ear (outer)\n\n> Use *la oreja* for the visible ear, *el oído* for hearing/inner ear",
+    "back": "ear (outer)",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
