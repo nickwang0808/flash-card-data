@@ -16692,15 +16692,15 @@
       "last_review": "2026-03-12T03:19:46.046Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:54:50.758Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:54:50.758Z"
+      "due": "2026-03-12T03:26:33.182Z",
+      "stability": 0.20168903,
+      "difficulty": 8.66475703,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:21:33.182Z"
     },
     "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
@@ -16791,15 +16791,15 @@
       "last_review": "2026-03-10T19:53:37.457Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:54:59.567Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:54:59.567Z"
+      "due": "2026-03-12T03:26:37.692Z",
+      "stability": 0.20168903,
+      "difficulty": 8.66475703,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:21:37.692Z"
     },
     "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
