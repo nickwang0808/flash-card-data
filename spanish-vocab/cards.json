@@ -11445,15 +11445,15 @@
       "last_review": "2026-03-10T03:52:45.277Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:53:11.752Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:08.213Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:11.752Z"
+      "last_review": "2026-03-12T22:32:08.213Z"
     },
     "suspended": false,
     "front": "el abrelatas\n\n*Abro las latas con el abrelatas*"
@@ -11765,15 +11765,15 @@
       "last_review": "2026-03-10T03:52:57.680Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:53:18.406Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:12.841Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:18.406Z"
+      "last_review": "2026-03-12T22:32:12.841Z"
     },
     "suspended": false,
     "front": "el temporizador\n\n*Pongo el temporizador para 20 minutos*"
@@ -12650,15 +12650,15 @@
       "last_review": "2026-03-01T17:22:00.304Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:53:22.749Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:16.121Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:22.749Z"
+      "last_review": "2026-03-12T22:32:16.121Z"
     },
     "suspended": false,
     "front": "enjuagar\n\n*Enjuago los platos con agua limpia*"
@@ -12797,15 +12797,15 @@
       "last_review": "2026-03-10T03:53:19.504Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:53:39.594Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:33.066Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:39.594Z"
+      "last_review": "2026-03-12T22:32:33.066Z"
     },
     "suspended": false,
     "front": "el estropajo\n\n*Uso el estropajo para quitar la grasa*"
@@ -13358,15 +13358,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T17:53:26.734Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:20.532Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:26.734Z"
+      "last_review": "2026-03-12T22:32:20.532Z"
     },
     "reverseState": {
       "due": "2026-03-12T19:57:33.874Z",
@@ -13550,15 +13550,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T17:53:31.274Z",
-      "stability": 3.90147267,
-      "difficulty": 8.01606046,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-21T22:32:27.376Z",
+      "stability": 8.99695429,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:53:31.274Z"
+      "last_review": "2026-03-12T22:32:27.376Z"
     },
     "reverseState": {
       "due": "2026-03-16T03:29:01.109Z",
@@ -15345,15 +15345,15 @@
       "last_review": "2026-03-08T17:40:30.963Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:47:47.039Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-26T22:31:46.856Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:47:47.039Z"
+      "last_review": "2026-03-12T22:31:46.856Z"
     },
     "suspended": false,
     "front": "la gratitud\n\n*Siento gratitud por todo*"
@@ -15409,15 +15409,15 @@
       "last_review": "2026-03-12T22:31:18.817Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:47:58.551Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-26T22:31:53.377Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:47:58.551Z"
+      "last_review": "2026-03-12T22:31:53.377Z"
     },
     "suspended": false,
     "front": "la soledad\n\n*La soledad puede ser dolorosa*"
@@ -15697,15 +15697,15 @@
       "last_review": "2026-03-12T22:30:24.111Z"
     },
     "reverseState": {
-      "due": "2026-03-12T17:48:42.069Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-26T22:32:01.852Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T17:48:42.069Z"
+      "last_review": "2026-03-12T22:32:01.852Z"
     },
     "suspended": false,
     "front": "el valor\n\n*Necesitas tener valor*"
