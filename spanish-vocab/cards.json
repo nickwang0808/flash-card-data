@@ -1334,14 +1334,17 @@
     "front": "planchar\n\n*Plancho mi ropa antes de salir*"
   },
   "doblar": {
-    "back": "to turn",
-    "created": "2026-03-11T00:00:00Z",
+    "back": "to fold",
+    "created": "2026-02-03T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "directions"
+      "verbs",
+      "household-items"
     ],
-    "reversible": true
+    "reversible": true,
+    "suspended": true,
+    "front": "doblar\n\n*Doblo la ropa después de secarla*"
   },
   "colgar": {
     "back": "to hang\n\n> Stem-changing verb: o→ue in present tense",
@@ -19778,5 +19781,16 @@
     ],
     "reversible": true,
     "front": "oye\n\n*Oye, ¿tienes un momento?*"
+  },
+  "doblar (direcciones)": {
+    "front": "doblar\n\n*Dobla a la derecha en la esquina*",
+    "back": "to turn (directions)\n\n*Turn right at the corner*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
+    ],
+    "reversible": false
   }
 }
