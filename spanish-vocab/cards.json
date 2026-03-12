@@ -14617,15 +14617,15 @@
       "last_review": "2026-03-07T19:24:38.012Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:57:28.734Z",
-      "stability": 0.2496448,
-      "difficulty": 9.02195159,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 8,
+      "due": "2026-03-14T03:22:29.274Z",
+      "stability": 1.67044608,
+      "difficulty": 8.99528332,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 9,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-10T19:57:28.734Z"
+      "last_review": "2026-03-12T03:22:29.274Z"
     },
     "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-10T03:26:45.531Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:57:05.075Z",
-      "stability": 0.07127533,
-      "difficulty": 9.38915077,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 8,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T19:57:05.075Z"
+      "due": "2026-03-12T03:27:25.464Z",
+      "stability": 0.05062991,
+      "difficulty": 9.55812242,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 9,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-12T03:22:25.464Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
