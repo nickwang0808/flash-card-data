@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-10T03:29:31.310Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:27:45.599Z",
-      "stability": 0.02264188,
-      "difficulty": 9.74914489,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 16,
+      "due": "2026-03-13T03:25:37.162Z",
+      "stability": 0.03187459,
+      "difficulty": 9.71913153,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 17,
       "lapses": 5,
-      "state": 3,
-      "last_review": "2026-03-12T03:22:45.599Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:37.162Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:26:22.281Z",
-      "stability": 0.60629087,
-      "difficulty": 9.2126239,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 8,
+      "due": "2026-03-13T03:25:04.884Z",
+      "stability": 0.85351883,
+      "difficulty": 9.18507854,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-12T03:21:22.281Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:04.884Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:26:12.580Z",
-      "stability": 0.56914608,
-      "difficulty": 8.64835783,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 6,
+      "due": "2026-03-13T03:25:01.167Z",
+      "stability": 0.80122747,
+      "difficulty": 8.62340809,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 7,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-12T03:21:12.580Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:01.167Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-10T03:26:45.531Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:27:25.464Z",
-      "stability": 0.05062991,
-      "difficulty": 9.55812242,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 9,
+      "due": "2026-03-13T03:25:30.995Z",
+      "stability": 0.07127533,
+      "difficulty": 9.52898776,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 10,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-12T03:22:25.464Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:30.995Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
@@ -16560,15 +16560,15 @@
       "last_review": "2026-03-10T03:19:42.228Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:25:32.761Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-13T03:24:55.212Z",
+      "stability": 0.56424932,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:20:32.761Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:55.212Z"
     },
     "suspended": false,
     "front": "entristecerse\n\n*Me entristezco cuando pienso en eso*"
@@ -16659,15 +16659,15 @@
       "last_review": "2026-03-10T19:43:56.349Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:27:02.221Z",
-      "stability": 0.10105196,
-      "difficulty": 9.06429988,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 5,
+      "due": "2026-03-13T03:25:24.496Z",
+      "stability": 0.14225804,
+      "difficulty": 9.03743681,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:22:02.221Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:24.496Z"
     },
     "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
@@ -16692,15 +16692,15 @@
       "last_review": "2026-03-12T03:19:46.046Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:26:33.182Z",
-      "stability": 0.20168903,
-      "difficulty": 8.66475703,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-13T03:25:10.199Z",
+      "stability": 0.28393201,
+      "difficulty": 8.63973185,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:21:33.182Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:10.199Z"
     },
     "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
@@ -16791,15 +16791,15 @@
       "last_review": "2026-03-10T19:53:37.457Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:26:37.692Z",
-      "stability": 0.20168903,
-      "difficulty": 8.66475703,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-13T03:25:12.762Z",
+      "stability": 0.28393201,
+      "difficulty": 8.63973185,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:21:37.692Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:12.762Z"
     },
     "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
@@ -16956,15 +16956,15 @@
       "last_review": "2026-03-12T03:24:44.972Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:25:53.322Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-13T03:24:57.628Z",
+      "stability": 0.56424932,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:20:53.322Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:57.628Z"
     },
     "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
@@ -17117,15 +17117,15 @@
       "last_review": "2026-03-10T19:53:52.434Z"
     },
     "reverseState": {
-      "due": "2026-03-12T03:26:55.008Z",
-      "stability": 0.20168903,
-      "difficulty": 8.66475703,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-13T03:25:19.306Z",
+      "stability": 0.28393201,
+      "difficulty": 8.63973185,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-12T03:21:55.008Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:25:19.306Z"
     },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
