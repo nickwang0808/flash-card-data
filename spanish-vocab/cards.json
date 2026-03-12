@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:54:09.642Z",
-      "stability": 1.37218549,
-      "difficulty": 8.875291,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T19:54:09.642Z"
+      "due": "2026-03-12T03:26:22.281Z",
+      "stability": 0.60629087,
+      "difficulty": 9.2126239,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-12T03:21:22.281Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:53:45.781Z",
-      "stability": 1.18552744,
-      "difficulty": 8.03605834,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T19:53:45.781Z"
+      "due": "2026-03-12T03:26:12.580Z",
+      "stability": 0.56914608,
+      "difficulty": 8.64835783,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-12T03:21:12.580Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -14990,15 +14990,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:53:41.906Z",
-      "stability": 1.18552744,
-      "difficulty": 8.03605834,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
+      "due": "2026-03-16T03:21:05.942Z",
+      "stability": 3.92232109,
+      "difficulty": 8.01392518,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T19:53:41.906Z"
+      "last_review": "2026-03-12T03:21:05.942Z"
     },
     "reverseState": {
       "due": "2026-03-14T19:51:00.691Z",
@@ -16890,15 +16890,15 @@
       "last_review": "2026-03-12T03:20:01.599Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:52:56.065Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:20:50.227Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:52:56.065Z"
+      "last_review": "2026-03-12T03:20:50.227Z"
     },
     "suspended": false,
     "front": "liberar\n\n*Libero mis emociones*"
@@ -16956,15 +16956,15 @@
       "last_review": "2026-03-12T03:20:05.147Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:53:06.186Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:53:06.186Z"
+      "due": "2026-03-12T03:25:53.322Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:20:53.322Z"
     },
     "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
@@ -17149,15 +17149,15 @@
       "last_review": "2026-03-10T19:53:55.439Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:53:30.155Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:21:00.847Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:53:30.155Z"
+      "last_review": "2026-03-12T03:21:00.847Z"
     },
     "suspended": false,
     "front": "el suspiro\n\n*Dejo escapar un suspiro*"
