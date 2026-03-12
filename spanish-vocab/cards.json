@@ -18439,15 +18439,15 @@
       "last_review": "2026-03-12T18:41:55.584Z"
     },
     "reverseState": {
-      "due": "2026-03-12T22:42:53.604Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-13T22:38:59.579Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T22:37:53.604Z"
+      "state": 2,
+      "last_review": "2026-03-12T22:38:59.579Z"
     },
     "suspended": false
   },
