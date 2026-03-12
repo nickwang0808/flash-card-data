@@ -15057,15 +15057,15 @@
       "last_review": "2026-03-12T03:19:09.301Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:56:22.463Z",
-      "stability": 1.18656365,
-      "difficulty": 8.87302129,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 8,
+      "due": "2026-03-15T03:22:12.581Z",
+      "stability": 3.15059947,
+      "difficulty": 8.8470381,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T19:56:22.463Z"
+      "last_review": "2026-03-12T03:22:12.581Z"
     },
     "suspended": false,
     "front": "la decepción\n\n*La decepción duele*"
@@ -16659,15 +16659,15 @@
       "last_review": "2026-03-10T19:43:56.349Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:55:33.570Z",
-      "stability": 0.14225804,
-      "difficulty": 8.65468874,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:55:33.570Z"
+      "due": "2026-03-12T03:27:02.221Z",
+      "stability": 0.10105196,
+      "difficulty": 9.06429988,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:22:02.221Z"
     },
     "suspended": false,
     "front": "sorprenderse\n\n*Me sorprendo cada día*"
@@ -17021,15 +17021,15 @@
       "last_review": "2026-03-12T03:20:10.072Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:55:40.733Z",
-      "stability": 0.14225804,
-      "difficulty": 8.65468874,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "due": "2026-03-14T03:22:07.831Z",
+      "stability": 1.5145147,
+      "difficulty": 8.62970988,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:55:40.733Z"
+      "last_review": "2026-03-12T03:22:07.831Z"
     },
     "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
@@ -17117,15 +17117,15 @@
       "last_review": "2026-03-10T19:53:52.434Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:55:25.638Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:55:25.638Z"
+      "due": "2026-03-12T03:26:55.008Z",
+      "stability": 0.20168903,
+      "difficulty": 8.66475703,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:21:55.008Z"
     },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
