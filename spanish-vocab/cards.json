@@ -16560,15 +16560,15 @@
       "last_review": "2026-03-10T03:19:42.228Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:52:20.209Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:52:20.209Z"
+      "due": "2026-03-12T03:25:32.761Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-12T03:20:32.761Z"
     },
     "suspended": false,
     "front": "entristecerse\n\n*Me entristezco cuando pienso en eso*"
@@ -16725,15 +16725,15 @@
       "last_review": "2026-03-12T03:19:50.700Z"
     },
     "reverseState": {
-      "due": "2026-03-11T19:52:45.810Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T03:20:36.165Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:52:45.810Z"
+      "last_review": "2026-03-12T03:20:36.165Z"
     },
     "suspended": false,
     "front": "odiar\n\n*Odio la mentira*"
@@ -17202,15 +17202,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T19:52:09.517Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
+      "due": "2026-03-13T03:20:23.728Z",
+      "stability": 1.33190575,
+      "difficulty": 7.61448676,
+      "elapsed_days": 2,
       "scheduled_days": 1,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:52:09.517Z"
+      "last_review": "2026-03-12T03:20:23.728Z"
     },
     "reverseState": {
       "due": "2026-03-14T19:55:17.649Z",
