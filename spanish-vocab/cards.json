@@ -17836,7 +17836,17 @@
       "state": 1,
       "last_review": "2026-03-11T16:07:03.821Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-12T02:37:54.821Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T02:36:54.821Z"
+    },
     "suspended": false,
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
   },
