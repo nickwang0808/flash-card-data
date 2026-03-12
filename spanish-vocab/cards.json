@@ -19196,14 +19196,14 @@
     "reversible": true
   },
   "ya": {
-    "back": "already / now / anymore\n\n*Ya terminé el trabajo*",
+    "back": "already / now",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "adverbs"
+      "time-expressions"
     ],
-    "reversible": false
+    "reversible": true
   },
   "todavía": {
     "back": "still / yet\n\n*Todavía no he comido*",
@@ -19276,14 +19276,14 @@
     "reversible": false
   },
   "pronto": {
-    "back": "soon\n\n*Vuelvo pronto*",
+    "back": "soon",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "adverbs"
+      "time-expressions"
     ],
-    "reversible": false
+    "reversible": true
   },
   "tarde": {
     "back": "late\n\n*Llegué tarde a la reunión*",
@@ -19296,14 +19296,14 @@
     "reversible": false
   },
   "enseguida": {
-    "back": "right away / immediately\n\n*Enseguida te atiendo*",
+    "back": "right away / in a moment",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "adverbs"
+      "time-expressions"
     ],
-    "reversible": false
+    "reversible": true
   },
   "a veces": {
     "back": "sometimes\n\n*A veces como fuera de casa*",
@@ -19316,14 +19316,14 @@
     "reversible": false
   },
   "de vez en cuando": {
-    "back": "from time to time\n\n*De vez en cuando veo a mis primos*",
+    "back": "from time to time",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "adverbs"
+      "time-expressions"
     ],
-    "reversible": false
+    "reversible": true
   },
   "bastante": {
     "back": "quite / enough / rather\n\n*Estoy bastante cansado hoy*",
@@ -19476,14 +19476,15 @@
     "reversible": false
   },
   "o sea": {
-    "back": "I mean / that is / in other words\n\n*O sea, no vas a venir*",
+    "back": "I mean / that is to say\n\n*It's expensive, I mean, I can't buy it*",
     "created": "2026-03-11T00:00:00Z",
     "state": null,
     "reverseState": null,
     "tags": [
-      "connectors"
+      "fillers"
     ],
-    "reversible": false
+    "reversible": false,
+    "front": "o sea\n\n*Es caro, o sea, no lo puedo comprar*"
   },
   "es decir": {
     "back": "that is to say / in other words\n\n*Es decir, tienes que esperar*",
@@ -19512,6 +19513,283 @@
     "reverseState": null,
     "tags": [
       "connectors"
+    ],
+    "reversible": false
+  },
+  "todo recto": {
+    "back": "straight ahead",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
+    ],
+    "reversible": true
+  },
+  "la esquina": {
+    "back": "corner",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
+    ],
+    "reversible": true
+  },
+  "la maleta": {
+    "back": "suitcase",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "el equipaje": {
+    "back": "luggage",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "el billete": {
+    "back": "ticket",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "la ida y vuelta": {
+    "back": "round trip",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "¿Cómo llego a...?": {
+    "back": "How do I get to...?",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel",
+      "directions"
+    ],
+    "reversible": false
+  },
+  "a pie": {
+    "back": "on foot",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel",
+      "directions"
+    ],
+    "reversible": true
+  },
+  "a la vuelta de la esquina": {
+    "back": "just around the corner",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
+    ],
+    "reversible": false
+  },
+  "seguir recto": {
+    "back": "to keep going straight",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
+    ],
+    "reversible": true
+  },
+  "el elevador": {
+    "back": "elevator",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "el alojamiento": {
+    "back": "accommodation / lodging",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "travel"
+    ],
+    "reversible": true
+  },
+  "pesado/a": {
+    "back": "heavy",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adjectives"
+    ],
+    "reversible": true
+  },
+  "ligero/a": {
+    "back": "light (not heavy)",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adjectives"
+    ],
+    "reversible": true
+  },
+  "peligroso/a": {
+    "back": "dangerous",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adjectives"
+    ],
+    "reversible": true
+  },
+  "lento/a": {
+    "back": "slow",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adjectives"
+    ],
+    "reversible": true
+  },
+  "débil": {
+    "back": "weak",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "adjectives"
+    ],
+    "reversible": true
+  },
+  "por fin": {
+    "back": "finally",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "time-expressions"
+    ],
+    "reversible": true
+  },
+  "de repente": {
+    "back": "suddenly",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "time-expressions"
+    ],
+    "reversible": true
+  },
+  "hace un rato": {
+    "back": "a while ago",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "time-expressions"
+    ],
+    "reversible": false
+  },
+  "mientras tanto": {
+    "back": "meanwhile",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "time-expressions"
+    ],
+    "reversible": true
+  },
+  "cuanto antes": {
+    "back": "as soon as possible",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "time-expressions"
+    ],
+    "reversible": false
+  },
+  "es que...": {
+    "back": "the thing is... / it's just that...\n\n*I didn't go, the thing is I was really tired*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "fillers"
+    ],
+    "reversible": false,
+    "front": "es que...\n\n*No fui, es que estaba muy cansado*"
+  },
+  "a ver": {
+    "back": "let's see\n\n*Let's see, let me think*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "fillers"
+    ],
+    "reversible": true,
+    "front": "a ver\n\n*A ver, déjame pensar*"
+  },
+  "por cierto": {
+    "back": "by the way\n\n*By the way, did you see the movie?*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "fillers"
+    ],
+    "reversible": true,
+    "front": "por cierto\n\n*Por cierto, ¿viste la película?*"
+  },
+  "oye": {
+    "back": "hey / listen\n\n*Hey, do you have a moment?*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "fillers"
+    ],
+    "reversible": true,
+    "front": "oye\n\n*Oye, ¿tienes un momento?*"
+  },
+  "doblar (direcciones)": {
+    "front": "doblar\n\n*Dobla a la derecha en la esquina*",
+    "back": "to turn (directions)\n\n*Turn right at the corner*",
+    "created": "2026-03-11T00:00:00Z",
+    "state": null,
+    "reverseState": null,
+    "tags": [
+      "directions"
     ],
     "reversible": false
   }
