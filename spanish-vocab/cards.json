@@ -17803,15 +17803,15 @@
       "last_review": "2026-03-12T03:17:49.583Z"
     },
     "reverseState": {
-      "due": "2026-03-11T23:18:24.123Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "due": "2026-03-16T03:24:09.679Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
+      "elapsed_days": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-11T23:08:24.123Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:09.679Z"
     },
     "suspended": false,
     "front": "no me digas\n\n*No me digas mentiras.*"
@@ -17837,15 +17837,15 @@
       "last_review": "2026-03-12T03:17:59.266Z"
     },
     "reverseState": {
-      "due": "2026-03-12T02:37:54.821Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-13T03:24:17.384Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-12T02:36:54.821Z"
+      "state": 2,
+      "last_review": "2026-03-12T03:24:17.384Z"
     },
     "suspended": false,
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
