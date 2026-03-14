@@ -16714,15 +16714,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T03:24:41.555Z",
-      "stability": 0.56424932,
-      "difficulty": 8.04822548,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "due": "2026-03-17T20:00:09.761Z",
+      "stability": 3.11451898,
+      "difficulty": 8.02603635,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 5,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T03:24:41.555Z"
+      "last_review": "2026-03-14T20:00:09.761Z"
     },
     "reverseState": {
       "due": "2026-03-16T03:20:36.165Z",
@@ -16945,15 +16945,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T03:24:44.972Z",
-      "stability": 0.56424932,
-      "difficulty": 8.04822548,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 4,
+      "due": "2026-03-17T20:00:12.841Z",
+      "stability": 3.11451898,
+      "difficulty": 8.02603635,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 5,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T03:24:44.972Z"
+      "last_review": "2026-03-14T20:00:12.841Z"
     },
     "reverseState": {
       "due": "2026-03-13T03:24:57.628Z",
@@ -17202,15 +17202,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T03:20:23.728Z",
-      "stability": 1.33190575,
-      "difficulty": 7.61448676,
+      "due": "2026-03-18T19:59:59.681Z",
+      "stability": 4.46872699,
+      "difficulty": 7.59429283,
       "elapsed_days": 2,
-      "scheduled_days": 1,
-      "reps": 3,
+      "scheduled_days": 4,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:23.728Z"
+      "last_review": "2026-03-14T19:59:59.681Z"
     },
     "reverseState": {
       "due": "2026-03-14T19:55:17.649Z",
@@ -17464,15 +17464,15 @@
       "last_review": "2026-03-14T19:59:45.166Z"
     },
     "reverseState": {
-      "due": "2026-03-13T03:17:06.690Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-18T19:59:55.833Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:17:06.690Z"
+      "last_review": "2026-03-14T19:59:55.833Z"
     },
     "suspended": false,
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
@@ -17837,15 +17837,15 @@
       "last_review": "2026-03-12T03:17:59.266Z"
     },
     "reverseState": {
-      "due": "2026-03-13T03:24:17.384Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-18T20:00:07.423Z",
+      "stability": 3.87213004,
+      "difficulty": 7.15845635,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:24:17.384Z"
+      "last_review": "2026-03-14T20:00:07.423Z"
     },
     "suspended": false,
     "front": "no le digas\n\n*No le digas nada a tu hermano.*"
