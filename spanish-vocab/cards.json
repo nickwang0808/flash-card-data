@@ -16593,15 +16593,15 @@
       "last_review": "2026-03-10T19:43:29.560Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:54:03.493Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-28T20:11:07.084Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:54:03.493Z"
+      "last_review": "2026-03-14T20:11:07.084Z"
     },
     "suspended": false,
     "front": "enojarse\n\n*Me enojo fácilmente*"
@@ -16626,15 +16626,15 @@
       "last_review": "2026-03-10T19:43:50.037Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:54:13.922Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-28T20:11:15.214Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:54:13.922Z"
+      "last_review": "2026-03-14T20:11:15.214Z"
     },
     "suspended": false,
     "front": "asustarse\n\n*Me asusto con las películas de terror*"
