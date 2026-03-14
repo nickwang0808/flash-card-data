@@ -18694,43 +18694,87 @@
   },
   "pasado mañana": {
     "back": "the day after tomorrow\n\n*Pasado mañana llega mi hermano*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "dates"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:51:59.884Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:50:59.884Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "anteayer": {
     "back": "the day before yesterday\n\n*Anteayer fui al médico*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "dates"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T20:01:07.472Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:51:07.472Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el fin de semana": {
     "back": "the weekend",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "dates"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-30T19:51:10.448Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-14T19:51:10.448Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la semana pasada": {
     "back": "last week\n\n*La semana pasada fui al cine*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "dates"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:52:16.931Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:51:16.931Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la semana que viene": {
     "back": "next week\n\n*La semana que viene tengo examen*",
