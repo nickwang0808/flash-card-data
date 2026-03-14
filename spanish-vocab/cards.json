@@ -14745,15 +14745,15 @@
       "last_review": "2026-03-14T20:07:45.070Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:41:17.998Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-05-15T20:07:47.244Z",
+      "stability": 61.62141928,
+      "difficulty": 3.61848086,
+      "elapsed_days": 7,
+      "scheduled_days": 62,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T19:41:17.998Z"
+      "last_review": "2026-03-14T20:07:47.244Z"
     },
     "suspended": false,
     "front": "la felicidad\n\n*La felicidad es lo más importante*"
