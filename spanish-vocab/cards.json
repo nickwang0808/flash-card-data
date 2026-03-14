@@ -7062,15 +7062,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T03:56:07.351Z",
-      "stability": 4.36633379,
-      "difficulty": 7.72243348,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 5,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T03:56:07.351Z"
+      "due": "2026-03-14T20:09:48.049Z",
+      "stability": 1.23210092,
+      "difficulty": 8.43748917,
+      "elapsed_days": 4,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-14T20:04:48.049Z"
     },
     "reverseState": null,
     "suspended": false
@@ -14713,15 +14713,15 @@
       "last_review": "2026-03-07T19:35:58.423Z"
     },
     "reverseState": {
-      "due": "2026-03-14T03:22:59.523Z",
-      "stability": 0.68050975,
-      "difficulty": 9.51562408,
+      "due": "2026-03-16T20:04:37.625Z",
+      "stability": 1.99529858,
+      "difficulty": 9.48668492,
       "elapsed_days": 2,
       "scheduled_days": 2,
-      "reps": 11,
+      "reps": 12,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-12T03:22:59.523Z"
+      "last_review": "2026-03-14T20:04:37.625Z"
     },
     "suspended": false,
     "front": "la tristeza\n\n*La tristeza me consume*"
@@ -15270,15 +15270,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-14T03:25:33.923Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-24T20:04:43.830Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:25:33.923Z"
+      "last_review": "2026-03-14T20:04:43.830Z"
     },
     "reverseState": {
       "due": "2026-03-15T19:49:15.494Z",
@@ -15729,15 +15729,15 @@
       "last_review": "2026-03-12T22:30:30.087Z"
     },
     "reverseState": {
-      "due": "2026-03-14T03:56:13.474Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-28T20:04:55.035Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:56:13.474Z"
+      "last_review": "2026-03-14T20:04:55.035Z"
     },
     "suspended": false,
     "front": "la cobardía\n\n*La cobardía no es excusa*"
