@@ -8673,15 +8673,15 @@
       "last_review": "2026-02-21T20:34:55.192Z"
     },
     "reverseState": {
-      "due": "2026-03-14T00:50:24.252Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-26T00:50:24.252Z"
+      "due": "2026-03-14T20:09:00.522Z",
+      "stability": 2.79425873,
+      "difficulty": 5.41326184,
+      "elapsed_days": 16,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-14T20:04:00.522Z"
     },
     "suspended": false,
     "front": "el peluquero\n\n*El peluquero tiene muchos clientes*"
@@ -14617,15 +14617,15 @@
       "last_review": "2026-03-07T19:24:38.012Z"
     },
     "reverseState": {
-      "due": "2026-03-14T03:22:29.274Z",
-      "stability": 1.67044608,
-      "difficulty": 8.99528332,
+      "due": "2026-03-18T20:04:11.239Z",
+      "stability": 3.53217765,
+      "difficulty": 8.96873772,
       "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 9,
+      "scheduled_days": 4,
+      "reps": 10,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-12T03:22:29.274Z"
+      "last_review": "2026-03-14T20:04:11.239Z"
     },
     "suspended": false,
     "front": "optimista\n\n*Soy optimista sobre el futuro*"
@@ -15313,15 +15313,15 @@
       "last_review": "2026-03-12T22:31:14.851Z"
     },
     "reverseState": {
-      "due": "2026-03-14T03:22:49.115Z",
-      "stability": 0.74327388,
-      "difficulty": 9.36638654,
+      "due": "2026-03-16T20:04:15.811Z",
+      "stability": 2.20433921,
+      "difficulty": 9.33813387,
       "elapsed_days": 2,
       "scheduled_days": 2,
-      "reps": 9,
+      "reps": 10,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T03:22:49.115Z"
+      "last_review": "2026-03-14T20:04:15.811Z"
     },
     "suspended": false,
     "front": "la envidia\n\n*La envidia no lleva a nada bueno*"
@@ -17021,15 +17021,15 @@
       "last_review": "2026-03-12T03:20:10.072Z"
     },
     "reverseState": {
-      "due": "2026-03-14T03:22:07.831Z",
-      "stability": 1.5145147,
-      "difficulty": 8.62970988,
+      "due": "2026-03-14T20:09:04.525Z",
+      "stability": 0.63959841,
+      "difficulty": 9.0475051,
       "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-12T03:22:07.831Z"
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-14T20:04:04.525Z"
     },
     "suspended": false,
     "front": "la lágrima\n\n*Las lágrimas corren por mi cara*"
