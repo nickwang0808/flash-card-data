@@ -18531,7 +18531,17 @@
       "state": 2,
       "last_review": "2026-03-12T18:42:02.893Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-30T19:55:14.704Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-14T19:55:14.704Z"
+    },
     "suspended": false
   },
   "diciembre": {
@@ -18552,7 +18562,17 @@
       "state": 2,
       "last_review": "2026-03-14T16:59:19.915Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-30T19:55:18.484Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-14T19:55:18.484Z"
+    },
     "suspended": false
   },
   "la primavera": {
@@ -19020,83 +19040,171 @@
   },
   "hace viento": {
     "back": "it is windy\n\n*Hace viento hoy, lleva una chaqueta*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:55:27.156Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:27.156Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hace sol": {
     "back": "it is sunny\n\n*Hace sol, vamos a la playa*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-30T19:54:30.704Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-14T19:54:30.704Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "está nublado": {
     "back": "it is cloudy\n\n*Está nublado, puede llover*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T20:04:44.627Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:44.627Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hay niebla": {
     "back": "it is foggy\n\n*Hay niebla por la mañana*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:55:49.139Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:49.139Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hay tormenta": {
     "back": "there is a storm\n\n*Hay tormenta, mejor quedarse en casa*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:55:58.354Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:58.354Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hay relámpagos": {
     "back": "there is lightning\n\n*Hay relámpagos en la tormenta*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:56:03.114Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:03.114Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hay truenos": {
     "back": "there is thunder\n\n*Hay truenos, el perro tiene miedo*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:56:06.698Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:06.698Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la lluvia": {
     "back": "rain",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-30T19:55:10.824Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-14T19:55:10.824Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la nieve": {
     "back": "snow",
