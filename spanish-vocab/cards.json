@@ -12829,15 +12829,15 @@
       "last_review": "2026-03-10T03:53:22.046Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:43.530Z",
-      "stability": 0.92657935,
-      "difficulty": 8.62340809,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
+      "due": "2026-03-17T20:03:23.823Z",
+      "stability": 3.09274057,
+      "difficulty": 8.59857312,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 8,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-12T22:38:43.530Z"
+      "last_review": "2026-03-14T20:03:23.823Z"
     },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
@@ -13369,15 +13369,15 @@
       "last_review": "2026-03-12T22:32:20.532Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:12.310Z",
-      "stability": 0.01789222,
-      "difficulty": 9.73434688,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 16,
+      "due": "2026-03-16T20:03:20.383Z",
+      "stability": 0.2374562,
+      "difficulty": 9.70440159,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 17,
       "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-12T22:38:12.310Z"
+      "last_review": "2026-03-14T20:03:20.383Z"
     },
     "suspended": false,
     "front": "enfadado\n\n*Estoy enfadado por el retraso*"
@@ -13593,15 +13593,15 @@
       "last_review": "2026-03-10T20:00:28.334Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:49.515Z",
-      "stability": 0.92657935,
-      "difficulty": 8.62340809,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-12T22:38:49.515Z"
+      "due": "2026-03-14T20:08:32.818Z",
+      "stability": 0.49920768,
+      "difficulty": 9.04326803,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-14T20:03:32.818Z"
     },
     "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
@@ -18036,15 +18036,15 @@
       "last_review": "2026-03-14T20:02:58.298Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:53.504Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-12T22:38:53.504Z"
+      "due": "2026-03-14T20:08:37.683Z",
+      "stability": 0.20168903,
+      "difficulty": 8.66475703,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-14T20:03:37.683Z"
     },
     "suspended": false
   },
@@ -18284,15 +18284,15 @@
       "last_review": "2026-03-12T18:41:40.774Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:56.934Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T20:03:41.008Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:38:56.934Z"
+      "last_review": "2026-03-14T20:03:41.008Z"
     },
     "suspended": false
   },
@@ -18439,15 +18439,15 @@
       "last_review": "2026-03-12T18:41:55.584Z"
     },
     "reverseState": {
-      "due": "2026-03-13T22:38:59.579Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T20:03:44.240Z",
+      "stability": 2.4769328,
+      "difficulty": 8.03820349,
+      "elapsed_days": 2,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:38:59.579Z"
+      "last_review": "2026-03-14T20:03:44.240Z"
     },
     "suspended": false
   },
