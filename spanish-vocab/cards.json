@@ -19116,15 +19116,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T19:55:27.156Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-15T20:13:34.092Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-14T19:54:27.156Z"
+      "state": 2,
+      "last_review": "2026-03-14T20:13:34.092Z"
     },
     "reverseState": null,
     "suspended": false
