@@ -18593,7 +18593,17 @@
       "state": 1,
       "last_review": "2026-03-14T16:59:24.442Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T19:56:24.180Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:24.180Z"
+    },
     "suspended": false
   },
   "el verano": {
@@ -18614,7 +18624,17 @@
       "state": 1,
       "last_review": "2026-03-14T16:59:28.015Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T19:56:28.326Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:28.326Z"
+    },
     "suspended": false
   },
   "el otoño": {
@@ -18635,7 +18655,17 @@
       "state": 1,
       "last_review": "2026-03-14T16:59:33.201Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T19:56:32.615Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:32.615Z"
+    },
     "suspended": false
   },
   "el invierno": {
@@ -18656,7 +18686,17 @@
       "state": 1,
       "last_review": "2026-03-14T16:59:39.027Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T19:56:37.467Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:55:37.467Z"
+    },
     "suspended": false
   },
   "hoy": {
