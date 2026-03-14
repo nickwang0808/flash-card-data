@@ -15001,15 +15001,15 @@
       "last_review": "2026-03-12T03:21:05.942Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:51:00.691Z",
-      "stability": 4.41503393,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-20T20:08:30.376Z",
+      "stability": 5.59148357,
+      "difficulty": 8.31446568,
+      "elapsed_days": 4,
+      "scheduled_days": 6,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:51:00.691Z"
+      "last_review": "2026-03-14T20:08:30.376Z"
     },
     "suspended": false,
     "front": "el asombro\n\n*Miro con asombro las estrellas*"
