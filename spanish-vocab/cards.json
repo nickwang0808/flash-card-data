@@ -18978,23 +18978,45 @@
   },
   "hace calor": {
     "back": "it is hot\n\n*Hace calor en verano*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:55:01.736Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:01.736Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hace frío": {
     "back": "it is cold\n\n*Hace frío en invierno*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:55:07.057Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:54:07.057Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hace viento": {
     "back": "it is windy\n\n*Hace viento hoy, lleva una chaqueta*",
