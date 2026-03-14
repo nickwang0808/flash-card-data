@@ -13261,15 +13261,15 @@
       "last_review": "2026-03-05T20:31:22.340Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:50:20.543Z",
-      "stability": 3.59289052,
-      "difficulty": 8.59670284,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-10T19:50:20.543Z"
+      "due": "2026-03-14T20:13:07.836Z",
+      "stability": 1.11961405,
+      "difficulty": 9.0253125,
+      "elapsed_days": 4,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-14T20:08:07.836Z"
     },
     "suspended": false,
     "front": "deprimido\n\n*Él está deprimido desde hace semanas*"
@@ -14297,15 +14297,15 @@
       "last_review": "2026-03-06T16:58:00.761Z"
     },
     "reverseState": {
-      "due": "2026-03-14T19:50:26.873Z",
-      "stability": 3.60435591,
-      "difficulty": 8.59002632,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 7,
+      "due": "2026-03-22T20:08:11.712Z",
+      "stability": 7.7238612,
+      "difficulty": 8.56534491,
+      "elapsed_days": 4,
+      "scheduled_days": 8,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-10T19:50:26.873Z"
+      "last_review": "2026-03-14T20:08:11.712Z"
     },
     "suspended": false,
     "front": "desesperado\n\n*Está desesperado por encontrar trabajo*"
@@ -14798,15 +14798,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-14T19:50:40.336Z",
-      "stability": 4.41503393,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 5,
+      "due": "2026-03-23T20:08:14.504Z",
+      "stability": 9.49688984,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:50:40.336Z"
+      "last_review": "2026-03-14T20:08:14.504Z"
     },
     "reverseState": {
       "due": "2026-03-18T03:30:28.511Z",
