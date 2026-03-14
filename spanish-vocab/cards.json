@@ -18936,23 +18936,45 @@
   },
   "llueve": {
     "back": "it is raining\n\n*Llueve mucho en abril*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:54:42.319Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:53:42.319Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "nieva": {
     "back": "it is snowing\n\n*Nieva en las montañas en invierno*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "weather"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-14T19:54:46.814Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T19:53:46.814Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "hace calor": {
     "back": "it is hot\n\n*Hace calor en verano*",
