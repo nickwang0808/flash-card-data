@@ -14990,15 +14990,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:21:05.942Z",
-      "stability": 3.92232109,
-      "difficulty": 8.01392518,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 6,
+      "due": "2026-03-25T18:23:43.603Z",
+      "stability": 9.02099933,
+      "difficulty": 7.99189383,
+      "elapsed_days": 4,
+      "scheduled_days": 9,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T03:21:05.942Z"
+      "last_review": "2026-03-16T18:23:43.603Z"
     },
     "reverseState": {
       "due": "2026-03-20T20:08:30.376Z",
@@ -16681,15 +16681,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:19:46.046Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:07.713Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:19:46.046Z"
+      "last_review": "2026-03-16T18:23:07.713Z"
     },
     "reverseState": {
       "due": "2026-03-16T20:01:13.650Z",
@@ -16725,15 +16725,15 @@
       "last_review": "2026-03-14T20:00:09.761Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:20:36.165Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:29.904Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:36.165Z"
+      "last_review": "2026-03-16T18:23:29.904Z"
     },
     "suspended": false,
     "front": "odiar\n\n*Odio la mentira*"
@@ -16846,15 +16846,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:19:54.169Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:12.037Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:19:54.169Z"
+      "last_review": "2026-03-16T18:23:12.037Z"
     },
     "reverseState": {
       "due": "2026-03-28T20:12:24.690Z",
@@ -16879,26 +16879,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:20:01.599Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:17.176Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:01.599Z"
+      "last_review": "2026-03-16T18:23:17.176Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:20:50.227Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:33.879Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:50.227Z"
+      "last_review": "2026-03-16T18:23:33.879Z"
     },
     "suspended": false,
     "front": "liberar\n\n*Libero mis emociones*"
@@ -17010,15 +17010,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:20:10.072Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:21.960Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:10.072Z"
+      "last_review": "2026-03-16T18:23:21.960Z"
     },
     "reverseState": {
       "due": "2026-03-19T18:19:44.501Z",
@@ -17042,15 +17042,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:20:13.000Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:24.755Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:20:13.000Z"
+      "last_review": "2026-03-16T18:23:24.755Z"
     },
     "reverseState": {
       "due": "2026-03-18T22:33:46.622Z",
@@ -17149,15 +17149,15 @@
       "last_review": "2026-03-14T20:10:59.827Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:21:00.847Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-26T18:23:38.664Z",
+      "stability": 10.43287799,
+      "difficulty": 7.14036016,
+      "elapsed_days": 4,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:21:00.847Z"
+      "last_review": "2026-03-16T18:23:38.664Z"
     },
     "suspended": false,
     "front": "el suspiro\n\n*Dejo escapar un suspiro*"
@@ -17431,15 +17431,15 @@
       "last_review": "2026-03-14T19:59:40.768Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:45.643Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:22:56.280Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:45.643Z"
+      "last_review": "2026-03-16T18:22:56.280Z"
     },
     "suspended": false,
     "front": "nos dice\n\n*Nos dice que vamos a ganar.*"
@@ -17497,15 +17497,15 @@
       "last_review": "2026-03-14T19:59:49.878Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:49.600Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:23:00.605Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:49.600Z"
+      "last_review": "2026-03-16T18:23:00.605Z"
     },
     "suspended": false,
     "front": "me dicen\n\n*Me dicen que todo está bien.*"
