@@ -19304,7 +19304,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:12.306Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:18:02.135Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:17:02.135Z"
+    },
     "suspended": false
   },
   "el viento": {
@@ -19325,7 +19335,17 @@
       "state": 2,
       "last_review": "2026-03-16T02:10:17.532Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-15T16:17:06.253Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T16:17:06.253Z"
+    },
     "suspended": false
   },
   "el sol": {
@@ -19346,7 +19366,17 @@
       "state": 2,
       "last_review": "2026-03-16T02:10:19.416Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-15T16:17:07.889Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T16:17:07.889Z"
+    },
     "suspended": false
   },
   "la niebla": {
@@ -19367,7 +19397,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:22.844Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:18:12.097Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:17:12.097Z"
+    },
     "suspended": false
   },
   "la tormenta": {
@@ -19989,13 +20029,24 @@
   },
   "el gemelo": {
     "back": "twin (m)",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "family"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-16T16:17:55.930Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:16:55.930Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la gemela": {
     "back": "twin (f)",
