@@ -19428,7 +19428,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:26.066Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:02.831Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:02.831Z"
+    },
     "suspended": false
   },
   "el relámpago": {
@@ -19449,7 +19459,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:31.752Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:08.185Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:08.185Z"
+    },
     "suspended": false
   },
   "el trueno": {
@@ -19470,7 +19490,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:40.122Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:11.039Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:11.039Z"
+    },
     "suspended": false
   },
   "el cielo": {
@@ -19491,7 +19521,17 @@
       "state": 1,
       "last_review": "2026-03-16T02:10:42.952Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:14.008Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:14.008Z"
+    },
     "suspended": false
   },
   "la nube": {
@@ -19512,7 +19552,17 @@
       "state": 2,
       "last_review": "2026-03-16T02:10:45.424Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:20.005Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:20.005Z"
+    },
     "suspended": false
   },
   "la temperatura": {
@@ -19533,7 +19583,17 @@
       "state": 2,
       "last_review": "2026-03-16T02:10:51.494Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-15T16:19:24.177Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T16:19:24.177Z"
+    },
     "suspended": false
   },
   "el clima": {
@@ -19554,7 +19614,17 @@
       "state": 2,
       "last_review": "2026-03-16T02:10:54.285Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:29:33.784Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:33.784Z"
+    },
     "suspended": false
   },
   "el tiempo": {
@@ -19575,7 +19645,17 @@
       "state": 2,
       "last_review": "2026-03-16T16:09:05.054Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-01T16:19:39.523Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T16:19:39.523Z"
+    },
     "suspended": false
   },
   "el padre": {
@@ -19717,7 +19797,17 @@
       "state": 1,
       "last_review": "2026-03-16T16:09:10.681Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:20:42.220Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:42.220Z"
+    },
     "suspended": false
   },
   "la nieta": {
@@ -19738,7 +19828,17 @@
       "state": 1,
       "last_review": "2026-03-16T16:09:15.839Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T16:29:46.858Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T16:19:46.858Z"
+    },
     "suspended": false
   },
   "el tío": {
