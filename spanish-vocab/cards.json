@@ -828,15 +828,15 @@
       "last_review": "2026-03-05T21:08:08.660Z"
     },
     "reverseState": {
-      "due": "2026-03-16T17:25:05.944Z",
-      "stability": 14.69254944,
-      "difficulty": 5.39165471,
-      "elapsed_days": 13,
-      "scheduled_days": 15,
-      "reps": 3,
+      "due": "2026-04-07T18:26:31.055Z",
+      "stability": 21.7941683,
+      "difficulty": 6.12602684,
+      "elapsed_days": 15,
+      "scheduled_days": 22,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:25:05.944Z"
+      "last_review": "2026-03-16T18:26:31.055Z"
     },
     "suspended": false,
     "front": "la escoba\n\n*Barro el piso con la escoba*"
@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-16T18:25:05.782Z"
     },
     "reverseState": {
-      "due": "2026-03-16T18:22:11.405Z",
-      "stability": 0.44678447,
-      "difficulty": 9.61422325,
-      "elapsed_days": 4,
-      "scheduled_days": 0,
-      "reps": 13,
+      "due": "2026-03-17T18:26:36.022Z",
+      "stability": 0.62897032,
+      "difficulty": 9.58483053,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 14,
       "lapses": 3,
-      "state": 3,
-      "last_review": "2026-03-16T18:17:11.405Z"
+      "state": 2,
+      "last_review": "2026-03-16T18:26:36.022Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
@@ -15185,15 +15185,15 @@
       "last_review": "2026-03-08T17:39:54.263Z"
     },
     "reverseState": {
-      "due": "2026-03-16T18:22:36.644Z",
-      "stability": 0.86569845,
-      "difficulty": 7.79991102,
-      "elapsed_days": 4,
-      "scheduled_days": 0,
-      "reps": 5,
+      "due": "2026-03-17T18:26:44.103Z",
+      "stability": 1.21870536,
+      "difficulty": 7.77886414,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 6,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-16T18:17:36.644Z"
+      "state": 2,
+      "last_review": "2026-03-16T18:26:44.103Z"
     },
     "suspended": false,
     "front": "el entusiasmo\n\n*Tu entusiasmo es inspirador*"
@@ -15281,15 +15281,15 @@
       "last_review": "2026-03-14T20:04:43.830Z"
     },
     "reverseState": {
-      "due": "2026-03-16T18:23:03.213Z",
-      "stability": 1.41835018,
-      "difficulty": 7.75506215,
-      "elapsed_days": 6,
-      "scheduled_days": 0,
-      "reps": 4,
+      "due": "2026-03-18T18:26:50.748Z",
+      "stability": 1.99671256,
+      "difficulty": 7.73422157,
+      "elapsed_days": 0,
+      "scheduled_days": 2,
+      "reps": 5,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-16T18:18:03.213Z"
+      "state": 2,
+      "last_review": "2026-03-16T18:26:50.748Z"
     },
     "suspended": false,
     "front": "los celos\n\n*Los celos son tóxicos*"
