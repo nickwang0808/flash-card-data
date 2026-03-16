@@ -19305,15 +19305,15 @@
       "last_review": "2026-03-16T18:21:13.289Z"
     },
     "reverseState": {
-      "due": "2026-03-16T16:18:02.135Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-17T18:25:40.782Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:17:02.135Z"
+      "state": 2,
+      "last_review": "2026-03-16T18:25:40.782Z"
     },
     "suspended": false
   },
