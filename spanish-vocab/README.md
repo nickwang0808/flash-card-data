@@ -7,6 +7,7 @@
 - If a card has no example sentence, omit the `front` field (defaults to the key)
 - Add English notes as `> blockquote` in `back` when useful
 - Tags: `["greetings"]`, `["verbs"]`, `["food"]`, etc.
+- **Gendered nouns:** When a word has masculine/feminine forms differing only by ending (-o/-a, -or/-ora, etc.), create a single card with combined notation: `el/la tío/a` → `uncle/aunt`. Do not create separate cards for each gender.
 - **Irregular verbs: only create conjugation cards for actually irregular forms.** Skip any conjugation that follows regular -ar/-er/-ir patterns
 
 ## Field Convention

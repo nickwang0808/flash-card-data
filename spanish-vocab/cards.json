@@ -19680,71 +19680,29 @@
     "reversible": true,
     "suspended": true
   },
-  "el hijo": {
-    "back": "son",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
+  "el/la hijo/a": {
+    "back": "son/daughter",
     "tags": [
       "family"
     ],
-    "reversible": true,
-    "suspended": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true
   },
-  "la hija": {
-    "back": "daughter",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
+  "el/la hermano/a": {
+    "back": "brother/sister",
     "tags": [
       "family"
     ],
-    "reversible": true,
-    "suspended": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true
   },
-  "el hermano": {
-    "back": "brother",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
+  "el/la abuelo/a": {
+    "back": "grandfather/grandmother",
     "tags": [
       "family"
     ],
-    "reversible": true,
-    "suspended": true
-  },
-  "la hermana": {
-    "back": "sister",
     "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
-    "tags": [
-      "family"
-    ],
-    "reversible": true,
-    "suspended": true
-  },
-  "el abuelo": {
-    "back": "grandfather",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
-    "tags": [
-      "family"
-    ],
-    "reversible": true,
-    "suspended": true
-  },
-  "la abuela": {
-    "back": "grandmother",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
-    "tags": [
-      "family"
-    ],
-    "reversible": true,
-    "suspended": true
+    "reversible": true
   },
   "los padres": {
     "back": "parents",
@@ -19779,265 +19737,45 @@
     "reversible": true,
     "suspended": true
   },
-  "el nieto": {
-    "back": "grandson",
+  "el/la nieto/a": {
+    "back": "grandson/granddaughter",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:10:10.681Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:10.681Z"
-    },
-    "reverseState": {
-      "due": "2026-03-16T16:20:42.220Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:19:42.220Z"
-    },
-    "suspended": false
+    "reversible": true
   },
-  "la nieta": {
-    "back": "granddaughter",
+  "el/la tío/a": {
+    "back": "uncle/aunt",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:19:15.839Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:15.839Z"
-    },
-    "reverseState": {
-      "due": "2026-03-16T16:29:46.858Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:19:46.858Z"
-    },
-    "suspended": false
+    "reversible": true
   },
-  "el tío": {
-    "back": "uncle",
+  "el/la primo/a": {
+    "back": "cousin (m)/cousin (f)",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:19:21.109Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:21.109Z"
-    },
-    "reverseState": {
-      "due": "2026-04-01T16:19:50.123Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-16T16:19:50.123Z"
-    },
-    "suspended": false
+    "reversible": true
   },
-  "la tía": {
-    "back": "aunt",
+  "el/la sobrino/a": {
+    "back": "nephew/niece",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-04-01T16:09:23.440Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-16T16:09:23.440Z"
-    },
-    "reverseState": {
-      "due": "2026-04-01T16:19:51.848Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-16T16:19:51.848Z"
-    },
-    "suspended": false
+    "reversible": true
   },
-  "el primo": {
-    "back": "cousin (m)",
+  "el/la suegro/a": {
+    "back": "father-in-law/mother-in-law",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:10:27.669Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:27.669Z"
-    },
-    "reverseState": {
-      "due": "2026-03-16T16:21:26.267Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:20:26.267Z"
-    },
-    "suspended": false
-  },
-  "la prima": {
-    "back": "cousin (f)",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:10:30.539Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:30.539Z"
-    },
-    "reverseState": null,
-    "suspended": true
-  },
-  "el sobrino": {
-    "back": "nephew",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:10:34.412Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:34.412Z"
-    },
-    "reverseState": {
-      "due": "2026-03-16T16:21:33.576Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:20:33.576Z"
-    },
-    "suspended": false
-  },
-  "la sobrina": {
-    "back": "niece",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:10:36.079Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:09:36.079Z"
-    },
-    "reverseState": null,
-    "suspended": true
-  },
-  "el suegro": {
-    "back": "father-in-law",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:17:18.948Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:16:18.948Z"
-    },
-    "reverseState": null,
-    "suspended": false
-  },
-  "la suegra": {
-    "back": "mother-in-law",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": null,
-    "reverseState": null,
-    "suspended": true
+    "reversible": true
   },
   "el yerno": {
     "back": "son-in-law",
@@ -20081,37 +19819,13 @@
     "reverseState": null,
     "suspended": false
   },
-  "el cuñado": {
-    "back": "brother-in-law",
+  "el/la cuñado/a": {
+    "back": "brother-in-law/sister-in-law",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:17:33.526Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:16:33.526Z"
-    },
-    "reverseState": null,
-    "suspended": false
-  },
-  "la cuñada": {
-    "back": "sister-in-law",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": null,
-    "reverseState": null,
-    "suspended": true
+    "reversible": true
   },
   "el marido": {
     "back": "husband",
@@ -20124,26 +19838,13 @@
     "reverseState": null,
     "suspended": true
   },
-  "el esposo": {
-    "back": "husband",
+  "el/la esposo/a": {
+    "back": "husband/wife",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-05-15T16:16:43.698Z",
-      "stability": 60,
-      "difficulty": 4,
-      "elapsed_days": 0,
-      "scheduled_days": 60,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-16T16:16:43.698Z"
-    },
-    "reverseState": null,
-    "suspended": false
+    "reversible": true
   },
   "la mujer": {
     "back": "wife / woman",
@@ -20156,46 +19857,12 @@
     "reverseState": null,
     "suspended": true
   },
-  "la esposa": {
-    "back": "wife",
+  "el/la gemelo/a": {
+    "back": "twin (m)/twin (f)",
     "tags": [
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": null,
-    "reverseState": null,
-    "suspended": true
-  },
-  "el gemelo": {
-    "back": "twin (m)",
-    "tags": [
-      "family"
-    ],
-    "created": "2026-03-11T00:00:00Z",
-    "reversible": true,
-    "state": {
-      "due": "2026-03-16T16:17:55.930Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T16:16:55.930Z"
-    },
-    "reverseState": null,
-    "suspended": false
-  },
-  "la gemela": {
-    "back": "twin (f)",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
-    "tags": [
-      "family"
-    ],
     "reversible": true
   },
   "la cabeza": {
