@@ -17277,15 +17277,15 @@
       "last_review": "2026-03-14T19:59:15.622Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:19.792Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:22:00.007Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:19.792Z"
+      "last_review": "2026-03-16T18:22:00.007Z"
     },
     "suspended": false,
     "front": "el alma\n\n*Mi alma está en paz*"
@@ -17332,15 +17332,15 @@
       "last_review": "2026-03-11T16:03:41.457Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:29.361Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:22:05.665Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:29.361Z"
+      "last_review": "2026-03-16T18:22:05.665Z"
     },
     "suspended": false,
     "front": "me dices\n\n*¿Por qué no me dices la verdad?*"
@@ -17365,15 +17365,15 @@
       "last_review": "2026-03-11T16:03:52.002Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:34.528Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:22:12.702Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:34.528Z"
+      "last_review": "2026-03-16T18:22:12.702Z"
     },
     "suspended": false,
     "front": "te digo\n\n*Te digo que es importante.*"
@@ -17398,15 +17398,15 @@
       "last_review": "2026-03-11T16:04:06.069Z"
     },
     "reverseState": {
-      "due": "2026-03-16T03:18:40.802Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:22:18.176Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:40.802Z"
+      "last_review": "2026-03-16T18:22:18.176Z"
     },
     "suspended": false,
     "front": "le digo\n\n*Siempre le digo buenos días.*"
@@ -17860,15 +17860,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:18:02.851Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:21:52.656Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:02.851Z"
+      "last_review": "2026-03-16T18:21:52.656Z"
     },
     "reverseState": {
       "due": "2026-03-16T03:24:39.299Z",
@@ -17894,15 +17894,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T03:18:10.103Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 1,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-03-30T18:21:56.959Z",
+      "stability": 14.21728391,
+      "difficulty": 5.26354498,
+      "elapsed_days": 4,
+      "scheduled_days": 14,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T03:18:10.103Z"
+      "last_review": "2026-03-16T18:21:56.959Z"
     },
     "reverseState": {
       "due": "2026-03-16T22:33:32.242Z",
