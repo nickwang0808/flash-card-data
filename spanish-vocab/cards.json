@@ -6329,15 +6329,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T21:03:04.721Z",
-      "stability": 9.49035215,
-      "difficulty": 8.01606046,
-      "elapsed_days": 4,
-      "scheduled_days": 9,
-      "reps": 5,
+      "due": "2026-04-07T18:03:30.857Z",
+      "stability": 21.92744663,
+      "difficulty": 7.99401929,
+      "elapsed_days": 11,
+      "scheduled_days": 22,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:03:04.721Z"
+      "last_review": "2026-03-16T18:03:30.857Z"
     },
     "reverseState": null,
     "suspended": false
@@ -6474,15 +6474,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T20:48:38.289Z",
-      "stability": 9.29453353,
-      "difficulty": 6.75783534,
-      "elapsed_days": 4,
-      "scheduled_days": 9,
-      "reps": 5,
+      "due": "2026-04-12T18:03:13.522Z",
+      "stability": 26.97735478,
+      "difficulty": 6.741582,
+      "elapsed_days": 11,
+      "scheduled_days": 27,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T20:48:38.289Z"
+      "last_review": "2026-03-16T18:03:13.522Z"
     },
     "reverseState": null,
     "suspended": false
@@ -8200,15 +8200,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T21:03:25.749Z",
-      "stability": 9.49035215,
-      "difficulty": 8.01606046,
-      "elapsed_days": 4,
-      "scheduled_days": 9,
-      "reps": 5,
+      "due": "2026-04-07T18:03:34.363Z",
+      "stability": 21.92744663,
+      "difficulty": 7.99401929,
+      "elapsed_days": 11,
+      "scheduled_days": 22,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-05T21:03:25.749Z"
+      "last_review": "2026-03-16T18:03:34.363Z"
     },
     "reverseState": null,
     "suspended": false
@@ -8534,15 +8534,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T20:48:47.860Z",
-      "stability": 9.29453353,
-      "difficulty": 6.75783534,
-      "elapsed_days": 4,
-      "scheduled_days": 9,
-      "reps": 5,
+      "due": "2026-04-12T18:03:23.088Z",
+      "stability": 26.97735478,
+      "difficulty": 6.741582,
+      "elapsed_days": 11,
+      "scheduled_days": 27,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T20:48:47.860Z"
+      "last_review": "2026-03-16T18:03:23.088Z"
     },
     "reverseState": null,
     "suspended": false
@@ -11077,15 +11077,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-14T20:49:13.203Z",
-      "stability": 9.29453353,
-      "difficulty": 6.75783534,
-      "elapsed_days": 4,
-      "scheduled_days": 9,
-      "reps": 5,
+      "due": "2026-04-12T18:03:27.394Z",
+      "stability": 26.97735478,
+      "difficulty": 6.741582,
+      "elapsed_days": 11,
+      "scheduled_days": 27,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-05T20:49:13.203Z"
+      "last_review": "2026-03-16T18:03:27.394Z"
     },
     "reverseState": null,
     "suspended": false
@@ -19686,7 +19686,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-04-01T18:02:35.338Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:02:35.338Z"
+    },
+    "reverseState": null,
+    "suspended": true
   },
   "el/la hermano/a": {
     "back": "brother/sister",
@@ -19694,7 +19707,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-05-15T18:02:38.405Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:02:38.405Z"
+    },
+    "reverseState": null,
+    "suspended": true
   },
   "el/la abuelo/a": {
     "back": "grandfather/grandmother",
@@ -19702,7 +19728,30 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-04-01T18:02:42.808Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:02:42.808Z"
+    },
+    "reverseState": {
+      "due": "2026-05-15T18:03:01.807Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:03:01.807Z"
+    },
+    "suspended": false
   },
   "los padres": {
     "back": "parents",
@@ -19743,7 +19792,30 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-04-01T18:02:46.413Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:02:46.413Z"
+    },
+    "reverseState": {
+      "due": "2026-05-15T18:03:06.503Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:03:06.503Z"
+    },
+    "suspended": false
   },
   "el/la tío/a": {
     "back": "uncle/aunt",
@@ -19751,7 +19823,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-05-15T18:02:58.797Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-16T18:02:58.797Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el/la primo/a": {
     "back": "cousin (m)/cousin (f)",
