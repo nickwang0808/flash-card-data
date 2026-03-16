@@ -15569,15 +15569,15 @@
       "last_review": "2026-03-08T17:40:58.515Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:17.924Z",
-      "stability": 1.3062118,
-      "difficulty": 8.98408081,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 8,
+      "due": "2026-03-21T18:03:41.690Z",
+      "stability": 4.57798161,
+      "difficulty": 8.95758675,
+      "elapsed_days": 4,
+      "scheduled_days": 5,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:34:17.924Z"
+      "last_review": "2026-03-16T18:03:41.690Z"
     },
     "suspended": false,
     "front": "la inocencia\n\n*La inocencia de los niños es hermosa*"
@@ -15665,15 +15665,15 @@
       "last_review": "2026-03-08T17:41:11.328Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:14.518Z",
-      "stability": 2.06335255,
-      "difficulty": 8.59002632,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 7,
+      "due": "2026-03-22T18:03:38.901Z",
+      "stability": 6.13515876,
+      "difficulty": 8.56534491,
+      "elapsed_days": 4,
+      "scheduled_days": 6,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:34:14.518Z"
+      "last_review": "2026-03-16T18:03:38.901Z"
     },
     "suspended": false,
     "front": "la timidez\n\n*La timidez se puede superar*"
