@@ -11573,15 +11573,15 @@
       "last_review": "2026-03-10T03:52:55.636Z"
     },
     "reverseState": {
-      "due": "2026-03-16T18:23:15.167Z",
-      "stability": 1.41921438,
-      "difficulty": 8.35471734,
-      "elapsed_days": 6,
-      "scheduled_days": 0,
-      "reps": 5,
+      "due": "2026-03-18T18:27:07.978Z",
+      "stability": 1.99792915,
+      "difficulty": 8.33111835,
+      "elapsed_days": 0,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-16T18:18:15.167Z"
+      "state": 2,
+      "last_review": "2026-03-16T18:27:07.978Z"
     },
     "suspended": false,
     "front": "el rodillo\n\n*Extiendo la masa con el rodillo*"
@@ -19032,15 +19032,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-16T18:23:59.137Z",
-      "stability": 0.40081038,
-      "difficulty": 8.07051715,
-      "elapsed_days": 2,
+      "due": "2026-03-16T18:32:14.695Z",
+      "stability": 0.20081743,
+      "difficulty": 8.67152654,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-16T18:18:59.137Z"
+      "last_review": "2026-03-16T18:27:14.695Z"
     },
     "reverseState": null,
     "suspended": false
