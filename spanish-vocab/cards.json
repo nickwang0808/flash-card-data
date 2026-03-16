@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-10T03:29:58.357Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:25.430Z",
-      "stability": 0.62897031,
-      "difficulty": 9.47258952,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 12,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-12T22:34:25.430Z"
+      "due": "2026-03-16T18:22:11.405Z",
+      "stability": 0.44678447,
+      "difficulty": 9.61422325,
+      "elapsed_days": 4,
+      "scheduled_days": 0,
+      "reps": 13,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-16T18:17:11.405Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
@@ -15121,15 +15121,15 @@
       "last_review": "2026-03-08T17:39:40.356Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:47.979Z",
-      "stability": 1.29692482,
-      "difficulty": 8.99524634,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 8,
+      "due": "2026-03-21T18:17:26.417Z",
+      "stability": 4.54768535,
+      "difficulty": 8.96870091,
+      "elapsed_days": 4,
+      "scheduled_days": 5,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:34:47.979Z"
+      "last_review": "2026-03-16T18:17:26.417Z"
     },
     "suspended": false,
     "front": "el cansancio\n\n*El cansancio es evidente*"
@@ -16329,15 +16329,15 @@
       "last_review": "2026-03-12T22:34:00.205Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:37.368Z",
-      "stability": 2.49352856,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 5,
+      "due": "2026-03-24T18:17:18.909Z",
+      "stability": 7.57561721,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 8,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:37.368Z"
+      "last_review": "2026-03-16T18:17:18.909Z"
     },
     "suspended": false,
     "front": "gritar\n\n*Grito cuando estoy enojado*"
@@ -16351,26 +16351,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-14T22:34:33.339Z",
-      "stability": 2.49352856,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 5,
+      "due": "2026-03-24T18:17:16.402Z",
+      "stability": 7.57561721,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 8,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:33.339Z"
+      "last_review": "2026-03-16T18:17:16.402Z"
     },
     "reverseState": {
-      "due": "2026-03-14T22:34:40.116Z",
-      "stability": 2.49352856,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 5,
+      "due": "2026-03-24T18:17:22.102Z",
+      "stability": 7.57561721,
+      "difficulty": 7.99401929,
+      "elapsed_days": 4,
+      "scheduled_days": 8,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:40.116Z"
+      "last_review": "2026-03-16T18:17:22.102Z"
     },
     "suspended": false,
     "front": "suspirar\n\n*Suspiro de alivio*"
