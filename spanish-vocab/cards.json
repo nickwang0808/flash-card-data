@@ -4884,15 +4884,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-16T22:36:59.894Z",
-      "stability": 3.90144691,
-      "difficulty": 7.81048927,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 7,
+      "due": "2026-03-28T16:26:02.407Z",
+      "stability": 10.53952888,
+      "difficulty": 7.78939373,
+      "elapsed_days": 5,
+      "scheduled_days": 11,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:36:59.894Z"
+      "last_review": "2026-03-17T16:26:02.407Z"
     },
     "reverseState": null,
     "suspended": false
@@ -15879,15 +15879,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T22:33:58.077Z",
-      "stability": 3.88784713,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 4,
+      "due": "2026-03-29T16:25:41.641Z",
+      "stability": 11.920465,
+      "difficulty": 7.12234721,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:33:58.077Z"
+      "last_review": "2026-03-17T16:25:41.641Z"
     },
     "reverseState": {
       "due": "2026-03-24T16:24:00.368Z",
@@ -16143,15 +16143,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-16T22:34:43.852Z",
-      "stability": 4.09428513,
-      "difficulty": 7.75215891,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 6,
+      "due": "2026-03-28T16:25:59.200Z",
+      "stability": 10.85465652,
+      "difficulty": 7.73133169,
+      "elapsed_days": 5,
+      "scheduled_days": 11,
+      "reps": 7,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:43.852Z"
+      "last_review": "2026-03-17T16:25:59.200Z"
     },
     "reverseState": null,
     "suspended": false
@@ -16318,15 +16318,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T22:34:00.205Z",
-      "stability": 3.88784713,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 4,
+      "due": "2026-03-29T16:25:43.964Z",
+      "stability": 11.920465,
+      "difficulty": 7.12234721,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:00.205Z"
+      "last_review": "2026-03-17T16:25:43.964Z"
     },
     "reverseState": {
       "due": "2026-03-24T18:17:18.909Z",
@@ -16395,15 +16395,15 @@
       "last_review": "2026-03-10T03:55:57.283Z"
     },
     "reverseState": {
-      "due": "2026-03-16T22:34:05.302Z",
-      "stability": 3.88784713,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 4,
+      "due": "2026-03-29T16:25:48.143Z",
+      "stability": 11.920465,
+      "difficulty": 7.12234721,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:05.302Z"
+      "last_review": "2026-03-17T16:25:48.143Z"
     },
     "suspended": false,
     "front": "temblar\n\n*Tiemblo de miedo*"
@@ -16527,15 +16527,15 @@
       "last_review": "2026-03-12T22:37:25.410Z"
     },
     "reverseState": {
-      "due": "2026-03-16T22:34:08.955Z",
-      "stability": 3.88784713,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 4,
+      "due": "2026-03-29T16:25:53.333Z",
+      "stability": 11.920465,
+      "difficulty": 7.12234721,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:34:08.955Z"
+      "last_review": "2026-03-17T16:25:53.333Z"
     },
     "suspended": false,
     "front": "alegrarse\n\n*Me alegro de verte*"
