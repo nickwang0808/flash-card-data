@@ -19866,7 +19866,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:12:22.927Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:17:50.537Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:16:50.537Z"
+    },
     "suspended": false
   },
   "el/la sobrino/a": {
@@ -19887,7 +19897,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:12:29.904Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:26:56.037Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:16:56.037Z"
+    },
     "suspended": false
   },
   "el/la suegro/a": {
@@ -19908,7 +19928,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:12:36.130Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:18:02.361Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:17:02.361Z"
+    },
     "suspended": false
   },
   "el yerno": {
@@ -19929,7 +19959,17 @@
       "state": 2,
       "last_review": "2026-03-16T18:28:38.227Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:18:05.672Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:17:05.672Z"
+    },
     "suspended": false
   },
   "la nuera": {
@@ -19950,7 +19990,17 @@
       "state": 2,
       "last_review": "2026-03-16T18:28:08.072Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:27:13.255Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:17:13.255Z"
+    },
     "suspended": false
   },
   "el/la cuñado/a": {
@@ -19971,7 +20021,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:12:40.280Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:18:22.186Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:17:22.186Z"
+    },
     "suspended": false
   },
   "el marido": {
@@ -20025,7 +20085,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:12:46.089Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:18:28.817Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:17:28.817Z"
+    },
     "suspended": false
   },
   "la cabeza": {
@@ -20046,7 +20116,17 @@
       "state": 2,
       "last_review": "2026-03-17T16:12:49.807Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-16T16:17:31.667Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:17:31.667Z"
+    },
     "suspended": false
   },
   "la cara": {
@@ -20067,7 +20147,17 @@
       "state": 2,
       "last_review": "2026-03-17T16:12:53.852Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-16T16:17:33.380Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:17:33.380Z"
+    },
     "suspended": false
   },
   "el ojo": {
@@ -20088,7 +20178,17 @@
       "state": 2,
       "last_review": "2026-03-17T16:12:56.682Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-16T16:17:35.459Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:17:35.459Z"
+    },
     "suspended": false
   },
   "la nariz": {
