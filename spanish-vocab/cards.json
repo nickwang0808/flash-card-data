@@ -15793,15 +15793,15 @@
       "last_review": "2026-03-10T03:16:15.784Z"
     },
     "reverseState": {
-      "due": "2026-03-17T03:56:21.931Z",
-      "stability": 7.48750228,
-      "difficulty": 4.51098561,
-      "elapsed_days": 0,
-      "scheduled_days": 7,
-      "reps": 2,
+      "due": "2026-04-12T16:27:52.446Z",
+      "stability": 25.59370236,
+      "difficulty": 4.50506778,
+      "elapsed_days": 7,
+      "scheduled_days": 26,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:56:21.931Z"
+      "last_review": "2026-03-17T16:27:52.446Z"
     },
     "suspended": false,
     "front": "la impaciencia\n\n*La impaciencia me traiciona*"
