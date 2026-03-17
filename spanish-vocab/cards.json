@@ -14009,15 +14009,15 @@
       "last_review": "2026-03-16T18:25:05.782Z"
     },
     "reverseState": {
-      "due": "2026-03-17T18:26:36.022Z",
-      "stability": 0.62897032,
-      "difficulty": 9.58483053,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 14,
+      "due": "2026-03-19T20:09:27.216Z",
+      "stability": 1.33999076,
+      "difficulty": 9.55557302,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 15,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-16T18:26:36.022Z"
+      "last_review": "2026-03-17T20:09:27.216Z"
     },
     "suspended": false,
     "front": "orgulloso\n\n*Estoy orgulloso de mis hijos*"
@@ -19553,15 +19553,15 @@
       "last_review": "2026-03-16T02:10:45.424Z"
     },
     "reverseState": {
-      "due": "2026-03-17T18:26:16.288Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-19T20:09:23.907Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T18:26:16.288Z"
+      "last_review": "2026-03-17T20:09:23.907Z"
     },
     "suspended": false
   },
