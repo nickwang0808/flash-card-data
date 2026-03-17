@@ -14510,26 +14510,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T19:49:25.688Z",
-      "stability": 6.02048934,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:49:25.688Z"
+      "due": "2026-03-17T16:27:02.275Z",
+      "stability": 1.57829939,
+      "difficulty": 8.04612664,
+      "elapsed_days": 7,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-17T16:22:02.275Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:49:38.439Z",
-      "stability": 6.02048934,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 4,
+      "due": "2026-04-03T16:22:05.417Z",
+      "stability": 16.82452024,
+      "difficulty": 7.12234721,
+      "elapsed_days": 7,
+      "scheduled_days": 17,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:49:38.439Z"
+      "last_review": "2026-03-17T16:22:05.417Z"
     },
     "suspended": false,
     "front": "cobarde\n\n*No seas cobarde*"
@@ -14937,15 +14937,15 @@
       "last_review": "2026-03-07T19:26:54.018Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:50:02.389Z",
-      "stability": 6.02048934,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 4,
+      "due": "2026-04-03T16:22:11.479Z",
+      "stability": 16.82452024,
+      "difficulty": 7.12234721,
+      "elapsed_days": 7,
+      "scheduled_days": 17,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T19:50:02.389Z"
+      "last_review": "2026-03-17T16:22:11.479Z"
     },
     "suspended": false,
     "front": "la preocupación\n\n*La preocupación no ayuda*"
@@ -20395,7 +20395,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:15:18.946Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:22:39.151Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:21:39.151Z"
+    },
     "suspended": false
   },
   "la frente": {
@@ -20416,7 +20426,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:15:22.977Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:22:43.804Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:21:43.804Z"
+    },
     "suspended": false
   },
   "el cuello": {
@@ -20437,7 +20457,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:15:27.688Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:22:48.713Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:21:48.713Z"
+    },
     "suspended": false
   },
   "el hombro": {
@@ -20458,7 +20488,17 @@
       "state": 1,
       "last_review": "2026-03-17T16:16:30.543Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-17T16:22:53.337Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:21:53.337Z"
+    },
     "suspended": false
   },
   "el pecho": {
