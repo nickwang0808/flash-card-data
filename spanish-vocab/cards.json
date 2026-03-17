@@ -8749,15 +8749,15 @@
       "last_review": "2026-02-21T20:35:03.453Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:12:25.023Z",
-      "stability": 2.79425873,
-      "difficulty": 5.41326184,
-      "elapsed_days": 16,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-21T20:10:55.678Z",
+      "stability": 3.93367701,
+      "difficulty": 5.40319354,
+      "elapsed_days": 0,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-17T20:07:25.023Z"
+      "state": 2,
+      "last_review": "2026-03-17T20:10:55.678Z"
     },
     "suspended": false,
     "front": "las tijeras\n\n*El barbero usa las tijeras afiladas*"
@@ -9242,15 +9242,15 @@
       "last_review": "2026-02-21T20:35:34.031Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:12:39.117Z",
-      "stability": 2.79425873,
-      "difficulty": 5.41326184,
-      "elapsed_days": 16,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-21T20:10:58.160Z",
+      "stability": 3.93367701,
+      "difficulty": 5.40319354,
+      "elapsed_days": 0,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-17T20:07:39.117Z"
+      "state": 2,
+      "last_review": "2026-03-17T20:10:58.160Z"
     },
     "suspended": false,
     "front": "el fleco\n\n*¿Me haces el fleco?*"
@@ -12829,15 +12829,15 @@
       "last_review": "2026-03-10T03:53:22.046Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:03:23.823Z",
-      "stability": 3.09274057,
-      "difficulty": 8.59857312,
-      "elapsed_days": 2,
-      "scheduled_days": 3,
-      "reps": 8,
+      "due": "2026-03-23T20:10:51.869Z",
+      "stability": 6.27230503,
+      "difficulty": 8.57385239,
+      "elapsed_days": 3,
+      "scheduled_days": 6,
+      "reps": 9,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-14T20:03:23.823Z"
+      "last_review": "2026-03-17T20:10:51.869Z"
     },
     "suspended": false,
     "front": "el cepillo\n\n*Limpio las ollas con el cepillo*"
@@ -14777,15 +14777,15 @@
       "last_review": "2026-03-07T19:25:00.618Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:00:53.060Z",
-      "stability": 2.94230678,
-      "difficulty": 8.59857312,
-      "elapsed_days": 2,
-      "scheduled_days": 3,
-      "reps": 8,
+      "due": "2026-03-23T20:10:46.047Z",
+      "stability": 6.12488317,
+      "difficulty": 8.57385239,
+      "elapsed_days": 3,
+      "scheduled_days": 6,
+      "reps": 9,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-14T20:00:53.060Z"
+      "last_review": "2026-03-17T20:10:46.047Z"
     },
     "suspended": false,
     "front": "el enojo\n\n*El enojo puede ser destructivo*"
@@ -19053,15 +19053,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-17T20:15:27.409Z",
-      "stability": 0.02536703,
-      "difficulty": 9.62989351,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 9,
+      "due": "2026-03-18T20:11:11.047Z",
+      "stability": 0.03571097,
+      "difficulty": 9.60042871,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 10,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-17T20:10:27.409Z"
+      "state": 2,
+      "last_review": "2026-03-17T20:11:11.047Z"
     },
     "reverseState": null,
     "suspended": false
@@ -19398,15 +19398,15 @@
       "last_review": "2026-03-16T18:21:15.845Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:13:10.877Z",
-      "stability": 0.31846071,
-      "difficulty": 8.07051715,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-18T20:11:04.983Z",
+      "stability": 0.44831982,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-17T20:08:10.877Z"
+      "state": 2,
+      "last_review": "2026-03-17T20:11:04.983Z"
     },
     "suspended": false
   },
@@ -19429,15 +19429,15 @@
       "last_review": "2026-03-16T18:21:18.881Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:13:16.168Z",
-      "stability": 0.31846071,
-      "difficulty": 8.07051715,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 3,
+      "due": "2026-03-18T20:11:08.352Z",
+      "stability": 0.44831982,
+      "difficulty": 8.04822548,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-17T20:08:16.168Z"
+      "state": 2,
+      "last_review": "2026-03-17T20:11:08.352Z"
     },
     "suspended": false
   },
