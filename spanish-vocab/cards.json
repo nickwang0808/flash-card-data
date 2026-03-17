@@ -1874,15 +1874,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-16T19:55:19.315Z",
-      "stability": 22.99258464,
-      "difficulty": 5.23249611,
-      "elapsed_days": 3,
-      "scheduled_days": 23,
-      "reps": 3,
+      "due": "2026-05-27T16:22:36.135Z",
+      "stability": 70.73447474,
+      "difficulty": 5.22325934,
+      "elapsed_days": 24,
+      "scheduled_days": 71,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-21T19:55:19.315Z"
+      "last_review": "2026-03-17T16:22:36.135Z"
     },
     "reverseState": null,
     "suspended": false
@@ -14969,15 +14969,15 @@
       "last_review": "2026-03-07T19:27:00.797Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:50:07.193Z",
-      "stability": 6.02048934,
-      "difficulty": 7.14036016,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T19:50:07.193Z"
+      "due": "2026-03-17T16:27:28.372Z",
+      "stability": 1.57829939,
+      "difficulty": 8.04612664,
+      "elapsed_days": 7,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-17T16:22:28.372Z"
     },
     "suspended": false,
     "front": "la sorpresa\n\n*¡Qué sorpresa verte aquí!*"
