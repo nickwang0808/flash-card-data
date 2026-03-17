@@ -19835,7 +19835,17 @@
       "state": 2,
       "last_review": "2026-03-16T18:02:58.797Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-05-16T16:16:36.634Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:16:36.634Z"
+    },
     "suspended": false
   },
   "el/la primo/a": {
@@ -20272,23 +20282,45 @@
   },
   "el hombro": {
     "back": "shoulder",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:17:30.543Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:16:30.543Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el pecho": {
     "back": "chest",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:17:33.148Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:16:33.148Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la espalda": {
     "back": "back",
