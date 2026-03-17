@@ -19844,7 +19844,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:13:22.927Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:12:22.927Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el/la sobrino/a": {
     "back": "nephew/niece",
@@ -19852,7 +19865,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:13:29.904Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:12:29.904Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el/la suegro/a": {
     "back": "father-in-law/mother-in-law",
@@ -19860,7 +19886,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:13:36.130Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:12:36.130Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el yerno": {
     "back": "son-in-law",
@@ -19910,7 +19949,20 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:13:40.280Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:12:40.280Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el marido": {
     "back": "husband",
@@ -19929,7 +19981,10 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": null,
+    "reverseState": null,
+    "suspended": true
   },
   "la mujer": {
     "back": "wife / woman",
@@ -19948,47 +20003,104 @@
       "family"
     ],
     "created": "2026-03-11T00:00:00Z",
-    "reversible": true
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:13:46.089Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:12:46.089Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la cabeza": {
     "back": "head",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-05-16T16:12:49.807Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:12:49.807Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la cara": {
     "back": "face",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-05-16T16:12:53.852Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:12:53.852Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "el ojo": {
     "back": "eye",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-05-16T16:12:56.682Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-17T16:12:56.682Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la nariz": {
     "back": "nose",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "body-parts"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-17T16:23:03.709Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-17T16:13:03.709Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la boca": {
     "back": "mouth",
