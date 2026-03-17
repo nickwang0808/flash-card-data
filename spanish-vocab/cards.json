@@ -8749,15 +8749,15 @@
       "last_review": "2026-02-21T20:35:03.453Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:11:14.630Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-01T17:11:14.630Z"
+      "due": "2026-03-17T20:12:25.023Z",
+      "stability": 2.79425873,
+      "difficulty": 5.41326184,
+      "elapsed_days": 16,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-17T20:07:25.023Z"
     },
     "suspended": false,
     "front": "las tijeras\n\n*El barbero usa las tijeras afiladas*"
@@ -8781,15 +8781,15 @@
       "last_review": "2026-02-21T20:35:06.242Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:11:18.577Z",
-      "stability": 15.69105,
+      "due": "2026-05-17T20:07:32.857Z",
+      "stability": 60.70827924,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:11:18.577Z"
+      "last_review": "2026-03-17T20:07:32.857Z"
     },
     "suspended": false,
     "front": "la navaja\n\n*Usa la navaja con cuidado para no cortarte*"
@@ -9242,15 +9242,15 @@
       "last_review": "2026-02-21T20:35:34.031Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:12:23.656Z",
-      "stability": 15.69105,
-      "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-01T17:12:23.656Z"
+      "due": "2026-03-17T20:12:39.117Z",
+      "stability": 2.79425873,
+      "difficulty": 5.41326184,
+      "elapsed_days": 16,
+      "scheduled_days": 0,
+      "reps": 2,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-17T20:07:39.117Z"
     },
     "suspended": false,
     "front": "el fleco\n\n*¿Me haces el fleco?*"
@@ -9274,15 +9274,15 @@
       "last_review": "2026-03-01T17:28:08.540Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:13:17.884Z",
-      "stability": 15.69105,
+      "due": "2026-05-17T20:07:42.508Z",
+      "stability": 60.70827924,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:13:17.884Z"
+      "last_review": "2026-03-17T20:07:42.508Z"
     },
     "suspended": false,
     "front": "el bigote\n\n*Quiero que me recortes el bigote*"
@@ -9711,15 +9711,15 @@
       "last_review": "2026-03-10T03:50:31.552Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:14:51.132Z",
-      "stability": 15.69105,
+      "due": "2026-05-17T20:07:46.403Z",
+      "stability": 60.70827924,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:14:51.132Z"
+      "last_review": "2026-03-17T20:07:46.403Z"
     },
     "suspended": false,
     "front": "rubio\n\n*Mi cabello es rubio*"
@@ -9808,15 +9808,15 @@
       "last_review": "2026-02-21T20:37:17.388Z"
     },
     "reverseState": {
-      "due": "2026-03-17T17:15:11.247Z",
-      "stability": 15.69105,
+      "due": "2026-05-17T20:07:49.979Z",
+      "stability": 60.70827924,
       "difficulty": 3.22450159,
-      "elapsed_days": 0,
-      "scheduled_days": 16,
-      "reps": 1,
+      "elapsed_days": 16,
+      "scheduled_days": 61,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-01T17:15:11.247Z"
+      "last_review": "2026-03-17T20:07:49.979Z"
     },
     "suspended": false,
     "front": "recortar\n\n*Me recorta las puntas cada mes*"
@@ -19305,15 +19305,15 @@
       "last_review": "2026-03-16T18:27:44.433Z"
     },
     "reverseState": {
-      "due": "2026-03-17T18:25:40.782Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-19T20:08:04.800Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T18:25:40.782Z"
+      "last_review": "2026-03-17T20:08:04.800Z"
     },
     "suspended": false
   },
@@ -19449,15 +19449,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T18:20:59.454Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-19T20:07:53.798Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T18:20:59.454Z"
+      "last_review": "2026-03-17T20:07:53.798Z"
     },
     "reverseState": {
       "due": "2026-03-17T18:28:43.466Z",
@@ -19480,15 +19480,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T18:21:02.067Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-19T20:07:55.630Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T18:21:02.067Z"
+      "last_review": "2026-03-17T20:07:55.630Z"
     },
     "reverseState": {
       "due": "2026-03-17T18:26:07.326Z",
@@ -19511,15 +19511,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T18:21:06.601Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-19T20:07:59.752Z",
+      "stability": 2.48051861,
+      "difficulty": 7.15845635,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T18:21:06.601Z"
+      "last_review": "2026-03-17T20:07:59.752Z"
     },
     "reverseState": {
       "due": "2026-03-17T18:26:10.124Z",
