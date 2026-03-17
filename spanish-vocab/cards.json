@@ -16945,26 +16945,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T20:00:12.841Z",
-      "stability": 3.11451898,
-      "difficulty": 8.02603635,
-      "elapsed_days": 2,
-      "scheduled_days": 3,
-      "reps": 5,
+      "due": "2026-03-24T20:10:31.217Z",
+      "stability": 7.05154787,
+      "difficulty": 8.00394929,
+      "elapsed_days": 3,
+      "scheduled_days": 7,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:00:12.841Z"
+      "last_review": "2026-03-17T20:10:31.217Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:00:47.834Z",
-      "stability": 3.11451898,
-      "difficulty": 8.02603635,
-      "elapsed_days": 2,
-      "scheduled_days": 3,
-      "reps": 5,
+      "due": "2026-03-24T20:10:32.891Z",
+      "stability": 7.05154787,
+      "difficulty": 8.00394929,
+      "elapsed_days": 3,
+      "scheduled_days": 7,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:00:47.834Z"
+      "last_review": "2026-03-17T20:10:32.891Z"
     },
     "suspended": false,
     "front": "ocultar\n\n*Oculto mi tristeza*"
