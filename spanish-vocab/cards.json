@@ -14105,15 +14105,15 @@
       "last_review": "2026-03-06T16:57:26.027Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:00:59.177Z",
-      "stability": 2.4975243,
-      "difficulty": 9.15765989,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 10,
+      "due": "2026-03-22T16:22:46.657Z",
+      "stability": 4.94285291,
+      "difficulty": 9.13036736,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 11,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-14T20:00:59.177Z"
+      "last_review": "2026-03-17T16:22:46.657Z"
     },
     "suspended": false,
     "front": "envidioso\n\n*Soy envidioso de su éxito*"
@@ -16692,15 +16692,15 @@
       "last_review": "2026-03-16T18:23:07.713Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:01:13.650Z",
-      "stability": 2.04476884,
-      "difficulty": 8.61482179,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-22T16:22:53.721Z",
+      "stability": 5.20487655,
+      "difficulty": 8.59002632,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:01:13.650Z"
+      "last_review": "2026-03-17T16:22:53.721Z"
     },
     "suspended": false,
     "front": "enamorarse\n\n*Me enamoré de ella*"
@@ -16791,15 +16791,15 @@
       "last_review": "2026-03-14T20:10:49.199Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:01:16.240Z",
-      "stability": 2.04476884,
-      "difficulty": 8.61482179,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-22T16:23:00.588Z",
+      "stability": 5.20487655,
+      "difficulty": 8.59002632,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:01:16.240Z"
+      "last_review": "2026-03-17T16:23:00.588Z"
     },
     "suspended": false,
     "front": "expresar\n\n*Expreso mis sentimientos abiertamente*"
@@ -17117,15 +17117,15 @@
       "last_review": "2026-03-14T20:10:56.502Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:01:24.368Z",
-      "stability": 2.04476884,
-      "difficulty": 8.61482179,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-22T16:23:07.328Z",
+      "stability": 5.20487655,
+      "difficulty": 8.59002632,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:01:24.368Z"
+      "last_review": "2026-03-17T16:23:07.328Z"
     },
     "suspended": false,
     "front": "el grito\n\n*Escucho un grito de alegría*"
