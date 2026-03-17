@@ -60,15 +60,15 @@
       "last_review": "2026-03-05T21:08:13.541Z"
     },
     "reverseState": {
-      "due": "2026-03-16T22:33:53.614Z",
-      "stability": 3.87545907,
-      "difficulty": 8.90645285,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 12,
+      "due": "2026-03-25T16:24:55.349Z",
+      "stability": 8.23243442,
+      "difficulty": 8.88031587,
+      "elapsed_days": 5,
+      "scheduled_days": 8,
+      "reps": 13,
       "lapses": 4,
       "state": 2,
-      "last_review": "2026-03-12T22:33:53.614Z"
+      "last_review": "2026-03-17T16:24:55.349Z"
     },
     "suspended": false,
     "front": "la estufa\n\n*Cocino en la estufa todos los días*"
@@ -14137,15 +14137,15 @@
       "last_review": "2026-03-01T17:35:02.900Z"
     },
     "reverseState": {
-      "due": "2026-03-16T22:33:43.161Z",
-      "stability": 3.73702018,
-      "difficulty": 9.22131424,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 10,
+      "due": "2026-03-24T16:24:50.608Z",
+      "stability": 7.43766838,
+      "difficulty": 9.1937289,
+      "elapsed_days": 5,
+      "scheduled_days": 7,
+      "reps": 11,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:33:43.161Z"
+      "last_review": "2026-03-17T16:24:50.608Z"
     },
     "suspended": false,
     "front": "agradecido\n\n*Estoy agradecido por tu ayuda*"
@@ -17905,15 +17905,15 @@
       "last_review": "2026-03-16T18:21:56.959Z"
     },
     "reverseState": {
-      "due": "2026-03-16T22:33:32.242Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-04-02T16:24:43.202Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:33:32.242Z"
+      "last_review": "2026-03-17T16:24:43.202Z"
     },
     "suspended": false,
     "front": "no nos digas\n\n*No nos digas el final de la película.*"
