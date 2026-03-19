@@ -20829,7 +20829,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:48.920Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:53.270Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:53.270Z"
+    },
     "suspended": false
   },
   "la pierna": {
@@ -20850,7 +20860,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:30.777Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:58.119Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:58.119Z"
+    },
     "suspended": false
   },
   "la rodilla": {
@@ -20871,7 +20891,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:34.692Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:28:00.366Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:00.366Z"
+    },
     "suspended": false
   },
   "el tobillo": {
@@ -20892,7 +20922,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:37.940Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:28:06.797Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:06.797Z"
+    },
     "suspended": false
   },
   "el pie": {
@@ -20913,7 +20953,17 @@
       "state": 2,
       "last_review": "2026-03-19T01:32:41.859Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-04T03:27:11.614Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T03:27:11.614Z"
+    },
     "suspended": false
   },
   "el dedo del pie": {
@@ -20934,7 +20984,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:46.076Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:28:20.083Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:20.083Z"
+    },
     "suspended": false
   },
   "el pulmón": {
@@ -20955,7 +21015,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:49.656Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:28:23.858Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:23.858Z"
+    },
     "suspended": false
   },
   "el hueso": {
@@ -20976,7 +21046,17 @@
       "state": 1,
       "last_review": "2026-03-19T01:32:52.453Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:28:28.535Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:28.535Z"
+    },
     "suspended": false
   },
   "la sangre": {
@@ -20997,7 +21077,17 @@
       "state": 2,
       "last_review": "2026-03-19T01:32:55.099Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-04T03:27:31.996Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T03:27:31.996Z"
+    },
     "suspended": false
   },
   "la piel": {
