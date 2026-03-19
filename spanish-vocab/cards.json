@@ -20767,7 +20767,17 @@
       "state": 2,
       "last_review": "2026-03-19T00:23:43.102Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-04T03:26:35.064Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T03:26:35.064Z"
+    },
     "suspended": false
   },
   "el dedo": {
@@ -20788,7 +20798,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:45.125Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:39.056Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:39.056Z"
+    },
     "suspended": false
   },
   "la uña": {
