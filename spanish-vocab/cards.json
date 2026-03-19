@@ -19929,15 +19929,15 @@
       "last_review": "2026-03-17T16:37:01.298Z"
     },
     "reverseState": {
-      "due": "2026-03-18T16:30:16.039Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-17T16:30:16.039Z"
+      "due": "2026-03-19T03:35:34.209Z",
+      "stability": 0.40081038,
+      "difficulty": 8.07051715,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:30:34.209Z"
     },
     "suspended": false
   },
