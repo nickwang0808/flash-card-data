@@ -21421,15 +21421,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-19T22:03:23.546Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-19T22:19:47.011Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T22:02:23.546Z"
+      "last_review": "2026-03-19T22:14:47.011Z"
     },
     "reverseState": null,
     "suspended": false
