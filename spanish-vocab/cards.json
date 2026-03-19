@@ -20519,7 +20519,17 @@
       "state": 2,
       "last_review": "2026-03-17T16:30:01.439Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-04-04T01:33:10.408Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T01:33:10.408Z"
+    },
     "suspended": false
   },
   "la espalda": {
@@ -20540,7 +20550,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:17.968Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T01:34:14.927Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T01:33:14.927Z"
+    },
     "suspended": false
   },
   "el estómago": {
