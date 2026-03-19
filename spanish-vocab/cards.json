@@ -16560,15 +16560,15 @@
       "last_review": "2026-03-10T03:19:42.228Z"
     },
     "reverseState": {
-      "due": "2026-03-19T22:18:14.672Z",
-      "stability": 0.53395004,
-      "difficulty": 9.47565985,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 11,
+      "due": "2026-03-20T22:23:08.789Z",
+      "stability": 0.7516795,
+      "difficulty": 9.44690452,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 12,
       "lapses": 4,
-      "state": 3,
-      "last_review": "2026-03-19T22:13:14.672Z"
+      "state": 2,
+      "last_review": "2026-03-19T22:23:08.789Z"
     },
     "suspended": false,
     "front": "entristecerse\n\n*Me entristezco cuando pienso en eso*"
@@ -18687,15 +18687,15 @@
       "last_review": "2026-03-16T18:18:31.571Z"
     },
     "reverseState": {
-      "due": "2026-03-19T22:18:06.664Z",
-      "stability": 0.61283324,
-      "difficulty": 9.03749495,
-      "elapsed_days": 2,
+      "due": "2026-03-19T22:28:05.459Z",
+      "stability": 0.30704693,
+      "difficulty": 9.32168327,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-19T22:13:06.664Z"
+      "last_review": "2026-03-19T22:23:05.459Z"
     },
     "suspended": false
   },
