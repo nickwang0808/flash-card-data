@@ -21139,7 +21139,17 @@
       "state": 2,
       "last_review": "2026-03-19T01:33:06.870Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T22:15:59.654Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:59.654Z"
+    },
     "suspended": false
   },
   "ya": {
@@ -21711,74 +21721,151 @@
   },
   "de hecho": {
     "back": "in fact / actually\n\n*De hecho, ya lo sabía*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "connectors"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:15:23.678Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:23.678Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "o sea": {
     "back": "I mean / that is to say\n\n*It's expensive, I mean, I can't buy it*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "fillers"
     ],
+    "created": "2026-03-11T00:00:00Z",
     "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:06:32.296Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:32.296Z"
+    },
+    "reverseState": null,
+    "suspended": false,
     "front": "o sea\n\n*Es caro, o sea, no lo puedo comprar*"
   },
   "es decir": {
     "back": "that is to say / in other words\n\n*Es decir, tienes que esperar*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "connectors"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:06:36.806Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:36.806Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "en cambio": {
     "back": "on the other hand / instead\n\n*Él trabaja mucho; ella, en cambio, descansa*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "connectors"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:06:41.458Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:41.458Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "por lo tanto": {
     "back": "therefore / consequently\n\n*No estudió, por lo tanto suspendió*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "connectors"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:06:45.718Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:45.718Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "todo recto": {
     "back": "straight ahead",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "directions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:06:49.026Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:49.026Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la esquina": {
     "back": "corner",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "directions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:06:52.639Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:05:52.639Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "la maleta": {
     "back": "suitcase",
