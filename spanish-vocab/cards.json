@@ -21144,103 +21144,213 @@
   },
   "ya": {
     "back": "already / now",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "time-expressions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:11:38.997Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:01:38.997Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "todavía": {
     "back": "still / yet\n\n*Todavía no he comido*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:01:42.851Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:01:42.851Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "aún": {
     "back": "still / yet / even\n\n*Aún no sé qué hacer*\n\n> Without accent (*aun*) means even",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:02:52.528Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:01:52.528Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "siempre": {
     "back": "always\n\n*Siempre llego a tiempo*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:01:56.805Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:01:56.805Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "nunca": {
     "back": "never\n\n*Nunca como carne*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:01:58.311Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:01:58.311Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "jamás": {
     "back": "never (emphatic)\n\n*Jamás volvería a hacer eso*\n\n> Stronger than *nunca*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:03:02.868Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:02.868Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "antes": {
     "back": "before / previously\n\n*Antes vivía en Madrid*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:02:06.620Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:06.620Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "después": {
     "back": "after / later\n\n*Después del trabajo voy al gimnasio*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:02:08.207Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:08.207Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "pronto": {
     "back": "soon",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "time-expressions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-04-04T22:02:09.873Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:09.873Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "tarde": {
     "back": "late\n\n*Llegué tarde a la reunión*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:02:12.778Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:12.778Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "enseguida": {
     "back": "right away / in a moment",
