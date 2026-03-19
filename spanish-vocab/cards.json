@@ -13593,15 +13593,15 @@
       "last_review": "2026-03-10T20:00:28.334Z"
     },
     "reverseState": {
-      "due": "2026-03-18T18:19:37.712Z",
-      "stability": 2.46613754,
-      "difficulty": 8.9898585,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 10,
+      "due": "2026-03-24T03:34:33.074Z",
+      "stability": 5.13421346,
+      "difficulty": 8.96333786,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 11,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-16T18:19:37.712Z"
+      "last_review": "2026-03-19T03:34:33.074Z"
     },
     "suspended": false,
     "front": "aterrado\n\n*Estoy aterrado de las arañas*"
