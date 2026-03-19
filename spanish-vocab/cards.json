@@ -13742,15 +13742,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T03:29:23.819Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
+      "due": "2026-04-09T03:27:55.864Z",
+      "stability": 21.06137025,
+      "difficulty": 7.12234721,
+      "elapsed_days": 9,
+      "scheduled_days": 21,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:29:23.819Z"
+      "last_review": "2026-03-19T03:27:55.864Z"
     },
     "reverseState": {
       "due": "2026-03-18T18:27:59.086Z",
@@ -13902,15 +13902,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T03:29:27.696Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
+      "due": "2026-04-09T03:27:59.429Z",
+      "stability": 21.06137025,
+      "difficulty": 7.12234721,
+      "elapsed_days": 9,
+      "scheduled_days": 21,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:29:27.696Z"
+      "last_review": "2026-03-19T03:27:59.429Z"
     },
     "reverseState": {
       "due": "2026-03-22T16:59:19.536Z",
@@ -14030,15 +14030,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T03:29:31.310Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
+      "due": "2026-04-09T03:28:04.790Z",
+      "stability": 21.06137025,
+      "difficulty": 7.12234721,
+      "elapsed_days": 9,
+      "scheduled_days": 21,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:29:31.310Z"
+      "last_review": "2026-03-19T03:28:04.790Z"
     },
     "reverseState": {
       "due": "2026-03-19T16:23:24.603Z",
@@ -15686,15 +15686,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T22:30:24.111Z",
-      "stability": 5.2063605,
-      "difficulty": 8.01606046,
-      "elapsed_days": 2,
-      "scheduled_days": 5,
-      "reps": 5,
+      "due": "2026-04-02T03:27:51.385Z",
+      "stability": 13.55579231,
+      "difficulty": 7.99401929,
+      "elapsed_days": 7,
+      "scheduled_days": 14,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:30:24.111Z"
+      "last_review": "2026-03-19T03:27:51.385Z"
     },
     "reverseState": {
       "due": "2026-03-26T22:32:01.852Z",
@@ -21108,7 +21108,17 @@
       "state": 2,
       "last_review": "2026-03-19T01:32:58.528Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:37:45.175Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:27:45.175Z"
+    },
     "suspended": false
   },
   "el músculo": {
