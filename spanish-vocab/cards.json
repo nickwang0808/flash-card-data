@@ -13154,15 +13154,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T04:26:35.665Z",
-      "stability": 11.50716453,
-      "difficulty": 8.28927947,
-      "elapsed_days": 6,
-      "scheduled_days": 12,
-      "reps": 8,
+      "due": "2026-04-12T22:09:45.831Z",
+      "stability": 23.69265987,
+      "difficulty": 8.26598149,
+      "elapsed_days": 12,
+      "scheduled_days": 24,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T04:26:35.665Z"
+      "last_review": "2026-03-19T22:09:45.831Z"
     },
     "reverseState": {
       "due": "2026-03-24T03:35:59.278Z",
@@ -14041,15 +14041,15 @@
       "last_review": "2026-03-19T03:28:04.790Z"
     },
     "reverseState": {
-      "due": "2026-03-19T16:23:24.603Z",
-      "stability": 1.69346742,
-      "difficulty": 9.65951836,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 19,
+      "due": "2026-03-22T22:09:59.762Z",
+      "stability": 2.93829941,
+      "difficulty": 9.62991728,
+      "elapsed_days": 2,
+      "scheduled_days": 3,
+      "reps": 20,
       "lapses": 5,
       "state": 2,
-      "last_review": "2026-03-17T16:23:24.603Z"
+      "last_review": "2026-03-19T22:09:59.762Z"
     },
     "suspended": false,
     "front": "avergonzado\n\n*Me siento avergonzado por mi error*"
@@ -15249,15 +15249,15 @@
       "last_review": "2026-03-14T20:01:49.833Z"
     },
     "reverseState": {
-      "due": "2026-03-19T16:23:19.037Z",
-      "stability": 2.47560792,
-      "difficulty": 9.47111989,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 12,
+      "due": "2026-03-23T22:09:55.479Z",
+      "stability": 3.88456617,
+      "difficulty": 9.44238545,
+      "elapsed_days": 2,
+      "scheduled_days": 4,
+      "reps": 13,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-17T16:23:19.037Z"
+      "last_review": "2026-03-19T22:09:55.479Z"
     },
     "suspended": false,
     "front": "la vergüenza\n\n*Siento mucha vergüenza*"
@@ -21883,7 +21883,17 @@
       "state": 1,
       "last_review": "2026-03-19T22:05:49.026Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T22:10:40.542Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:09:40.542Z"
+    },
     "suspended": false
   },
   "la esquina": {
