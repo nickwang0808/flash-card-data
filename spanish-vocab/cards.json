@@ -17202,15 +17202,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T19:59:59.681Z",
-      "stability": 4.46872699,
-      "difficulty": 7.59429283,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 4,
+      "due": "2026-03-31T03:36:31.513Z",
+      "stability": 11.55518529,
+      "difficulty": 7.57419179,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T19:59:59.681Z"
+      "last_review": "2026-03-19T03:36:31.513Z"
     },
     "reverseState": {
       "due": "2026-03-28T20:12:51.327Z",
@@ -17453,26 +17453,26 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T19:59:45.166Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-31T03:36:19.095Z",
+      "stability": 11.86689879,
+      "difficulty": 7.14036016,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T19:59:45.166Z"
+      "last_review": "2026-03-19T03:36:19.095Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:59:55.833Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-31T03:36:27.383Z",
+      "stability": 11.86689879,
+      "difficulty": 7.14036016,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T19:59:55.833Z"
+      "last_review": "2026-03-19T03:36:27.383Z"
     },
     "suspended": false,
     "front": "les digo\n\n*Les digo a mis amigos que vengan.*"
@@ -17486,15 +17486,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T19:59:49.878Z",
-      "stability": 3.87213004,
-      "difficulty": 7.15845635,
-      "elapsed_days": 2,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-03-31T03:36:22.653Z",
+      "stability": 11.86689879,
+      "difficulty": 7.14036016,
+      "elapsed_days": 5,
+      "scheduled_days": 12,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T19:59:49.878Z"
+      "last_review": "2026-03-19T03:36:22.653Z"
     },
     "reverseState": {
       "due": "2026-03-30T18:23:00.605Z",
