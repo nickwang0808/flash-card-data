@@ -21452,7 +21452,17 @@
       "state": 1,
       "last_review": "2026-03-19T22:02:30.088Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T22:10:22.718Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:09:22.718Z"
+    },
     "suspended": false
   },
   "bastante": {
