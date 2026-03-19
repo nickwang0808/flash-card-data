@@ -21354,103 +21354,213 @@
   },
   "enseguida": {
     "back": "right away / in a moment",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "time-expressions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:03:20.070Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:20.070Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "a veces": {
     "back": "sometimes\n\n*A veces como fuera de casa*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:03:23.546Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:23.546Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "de vez en cuando": {
     "back": "from time to time",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "time-expressions"
     ],
-    "reversible": true
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:03:30.088Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:30.088Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "bastante": {
     "back": "quite / enough / rather\n\n*Estoy bastante cansado hoy*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:03:37.621Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:37.621Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "demasiado": {
     "back": "too much / too many\n\n*Comes demasiado rápido*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:03:42.954Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:42.954Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "apenas": {
     "back": "barely / hardly\n\n*Apenas dormí anoche*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-03-19T22:03:46.520Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:02:46.520Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "casi": {
     "back": "almost\n\n*Casi pierdo el tren*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-04-04T22:02:48.502Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:48.502Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "solo": {
     "back": "only / just\n\n*Solo quiero un café*\n\n> Without accent when used as adjective (*solo* = alone)",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-05-18T22:02:50.908Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:50.908Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "también": {
     "back": "also / too\n\n*Yo también quiero ir*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-05-18T22:02:53.709Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:53.709Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "tampoco": {
     "back": "neither / not either\n\n*Yo tampoco lo sé*\n\n> Negative counterpart of *también*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "adverbs"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-05-18T22:02:57.144Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:57.144Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "pero": {
     "back": "but\n\n*Quiero ir, pero estoy cansado*",
