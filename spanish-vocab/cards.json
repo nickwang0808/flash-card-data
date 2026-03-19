@@ -14201,15 +14201,15 @@
       "last_review": "2026-03-10T03:29:33.575Z"
     },
     "reverseState": {
-      "due": "2026-03-18T03:29:37.101Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T03:29:37.101Z"
+      "due": "2026-03-19T03:33:49.199Z",
+      "stability": 1.8067442,
+      "difficulty": 8.04612664,
+      "elapsed_days": 9,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:28:49.199Z"
     },
     "suspended": false,
     "front": "solitario\n\n*Me siento solitario sin mis amigos*"
@@ -14265,15 +14265,15 @@
       "last_review": "2026-03-10T03:30:20.709Z"
     },
     "reverseState": {
-      "due": "2026-03-18T03:29:46.300Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-10T03:29:46.300Z"
+      "due": "2026-03-19T03:33:55.200Z",
+      "stability": 1.8067442,
+      "difficulty": 8.04612664,
+      "elapsed_days": 9,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:28:55.200Z"
     },
     "suspended": false,
     "front": "esperanzado\n\n*Estoy esperanzado sobre el futuro*"
@@ -14329,15 +14329,15 @@
       "last_review": "2026-03-10T03:30:23.002Z"
     },
     "reverseState": {
-      "due": "2026-03-18T03:29:53.125Z",
-      "stability": 7.57941638,
-      "difficulty": 7.14036016,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 4,
+      "due": "2026-04-09T03:28:58.919Z",
+      "stability": 21.06137025,
+      "difficulty": 7.12234721,
+      "elapsed_days": 9,
+      "scheduled_days": 21,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:29:53.125Z"
+      "last_review": "2026-03-19T03:28:58.919Z"
     },
     "suspended": false,
     "front": "culpable\n\n*Me siento culpable por mentir*"
@@ -14809,15 +14809,15 @@
       "last_review": "2026-03-14T20:08:14.504Z"
     },
     "reverseState": {
-      "due": "2026-03-18T03:30:28.511Z",
-      "stability": 7.62472241,
-      "difficulty": 6.45834734,
-      "elapsed_days": 3,
-      "scheduled_days": 8,
-      "reps": 3,
+      "due": "2026-04-11T03:29:01.965Z",
+      "stability": 23.4887213,
+      "difficulty": 6.44347165,
+      "elapsed_days": 9,
+      "scheduled_days": 23,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-10T03:30:28.511Z"
+      "last_review": "2026-03-19T03:29:01.965Z"
     },
     "suspended": false,
     "front": "la ira\n\n*La ira no resuelve nada*"
