@@ -20458,15 +20458,15 @@
       "last_review": "2026-03-19T03:32:06.743Z"
     },
     "reverseState": {
-      "due": "2026-03-18T16:38:19.288Z",
-      "stability": 0.07127533,
-      "difficulty": 9.05423157,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-17T16:38:19.288Z"
+      "due": "2026-03-19T03:38:15.117Z",
+      "stability": 0.05062991,
+      "difficulty": 9.3329363,
+      "elapsed_days": 2,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:33:15.117Z"
     },
     "suspended": false
   },
