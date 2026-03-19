@@ -21564,13 +21564,24 @@
   },
   "pero": {
     "back": "but\n\n*Quiero ir, pero estoy cansado*",
-    "created": "2026-03-11T00:00:00Z",
-    "state": null,
-    "reverseState": null,
     "tags": [
       "connectors"
     ],
-    "reversible": false
+    "created": "2026-03-11T00:00:00Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-05-18T22:02:59.545Z",
+      "stability": 60,
+      "difficulty": 4,
+      "elapsed_days": 0,
+      "scheduled_days": 60,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-19T22:02:59.545Z"
+    },
+    "reverseState": null,
+    "suspended": false
   },
   "sino": {
     "back": "but rather / but instead\n\n*No es rojo, sino azul*\n\n> Use after a negative to correct it; contrast with *pero*",
