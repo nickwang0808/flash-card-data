@@ -20643,7 +20643,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:32.876Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:26:58.112Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:25:58.112Z"
+    },
     "suspended": false
   },
   "el brazo": {
@@ -20664,7 +20674,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:35.384Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:03.617Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:03.617Z"
+    },
     "suspended": false
   },
   "el codo": {
@@ -20685,7 +20705,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:37.885Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:07.124Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:07.124Z"
+    },
     "suspended": false
   },
   "la muñeca": {
@@ -20706,7 +20736,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:40.849Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:27:13.730Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:26:13.730Z"
+    },
     "suspended": false
   },
   "la mano": {
