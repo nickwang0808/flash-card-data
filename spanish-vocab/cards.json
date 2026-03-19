@@ -20581,7 +20581,17 @@
       "state": 2,
       "last_review": "2026-03-19T00:23:23.657Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T01:34:25.118Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T01:33:25.118Z"
+    },
     "suspended": false
   },
   "la cadera": {
@@ -20602,7 +20612,17 @@
       "state": 1,
       "last_review": "2026-03-19T00:23:27.481Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T01:34:28.890Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T01:33:28.890Z"
+    },
     "suspended": false
   },
   "el ombligo": {
