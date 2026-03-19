@@ -18036,15 +18036,15 @@
       "last_review": "2026-03-16T18:19:30.008Z"
     },
     "reverseState": {
-      "due": "2026-03-18T18:19:40.072Z",
-      "stability": 2.04476884,
-      "difficulty": 8.61482179,
-      "elapsed_days": 2,
-      "scheduled_days": 2,
-      "reps": 6,
+      "due": "2026-03-24T03:34:55.156Z",
+      "stability": 5.20487655,
+      "difficulty": 8.59002632,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 7,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T18:19:40.072Z"
+      "last_review": "2026-03-19T03:34:55.156Z"
     },
     "suspended": false
   },
