@@ -8673,15 +8673,15 @@
       "last_review": "2026-02-21T20:34:55.192Z"
     },
     "reverseState": {
-      "due": "2026-03-18T20:15:39.220Z",
-      "stability": 3.93367701,
-      "difficulty": 5.40319354,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 3,
+      "due": "2026-04-04T03:38:07.736Z",
+      "stability": 15.58233614,
+      "difficulty": 5.39317156,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 4,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-14T20:15:39.220Z"
+      "last_review": "2026-03-19T03:38:07.736Z"
     },
     "suspended": false,
     "front": "el peluquero\n\n*El peluquero tiene muchos clientes*"
@@ -10712,15 +10712,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-18T22:30:36.024Z",
-      "stability": 5.82535938,
-      "difficulty": 6.85129747,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 5,
+      "due": "2026-04-05T03:38:32.979Z",
+      "stability": 17.43968254,
+      "difficulty": 6.83461421,
+      "elapsed_days": 7,
+      "scheduled_days": 17,
+      "reps": 6,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-12T22:30:36.024Z"
+      "last_review": "2026-03-19T03:38:32.979Z"
     },
     "reverseState": null,
     "suspended": false
@@ -15718,15 +15718,15 @@
     "created": "2026-02-13T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T22:30:30.087Z",
-      "stability": 5.87044905,
-      "difficulty": 6.45834734,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 3,
+      "due": "2026-04-07T03:38:29.091Z",
+      "stability": 18.58466979,
+      "difficulty": 6.44347165,
+      "elapsed_days": 7,
+      "scheduled_days": 19,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:30:30.087Z"
+      "last_review": "2026-03-19T03:38:29.091Z"
     },
     "reverseState": {
       "due": "2026-03-28T20:04:55.035Z",
@@ -17053,15 +17053,15 @@
       "last_review": "2026-03-16T18:23:24.755Z"
     },
     "reverseState": {
-      "due": "2026-03-18T22:33:46.622Z",
-      "stability": 5.87044905,
-      "difficulty": 6.45834734,
-      "elapsed_days": 2,
-      "scheduled_days": 6,
-      "reps": 3,
+      "due": "2026-04-07T03:38:37.276Z",
+      "stability": 18.58466979,
+      "difficulty": 6.44347165,
+      "elapsed_days": 7,
+      "scheduled_days": 19,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-12T22:33:46.622Z"
+      "last_review": "2026-03-19T03:38:37.276Z"
     },
     "suspended": false,
     "front": "la risa\n\n*La risa es la mejor medicina*"
@@ -18981,15 +18981,15 @@
       "last_review": "2026-03-16T18:18:51.313Z"
     },
     "reverseState": {
-      "due": "2026-03-18T20:15:34.255Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-04-04T03:38:03.120Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T20:15:34.255Z"
+      "last_review": "2026-03-19T03:38:03.120Z"
     },
     "suspended": false
   },
@@ -19012,15 +19012,15 @@
       "last_review": "2026-03-14T19:51:59.439Z"
     },
     "reverseState": {
-      "due": "2026-03-18T20:15:42.627Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-04-04T03:38:12.027Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T20:15:42.627Z"
+      "last_review": "2026-03-19T03:38:12.027Z"
     },
     "suspended": false
   },
@@ -19158,15 +19158,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-18T20:14:54.063Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2026-04-04T03:37:59.468Z",
+      "stability": 16.38347751,
+      "difficulty": 5.26354498,
+      "elapsed_days": 5,
+      "scheduled_days": 16,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-14T20:14:54.063Z"
+      "last_review": "2026-03-19T03:37:59.468Z"
     },
     "reverseState": null,
     "suspended": false
@@ -19274,15 +19274,15 @@
       "last_review": "2026-03-14T19:55:10.824Z"
     },
     "reverseState": {
-      "due": "2026-03-18T20:15:54.927Z",
-      "stability": 4.46685806,
-      "difficulty": 5.27296793,
-      "elapsed_days": 0,
-      "scheduled_days": 4,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-14T20:15:54.927Z"
+      "due": "2026-03-19T03:43:21.383Z",
+      "stability": 1.35514226,
+      "difficulty": 6.79056769,
+      "elapsed_days": 5,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:38:21.383Z"
     },
     "suspended": false
   },
@@ -20540,15 +20540,15 @@
     "created": "2026-03-11T00:00:00Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T00:24:17.968Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-19T03:43:40.898Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T00:23:17.968Z"
+      "last_review": "2026-03-19T03:38:40.898Z"
     },
     "reverseState": {
       "due": "2026-03-19T01:34:14.927Z",
